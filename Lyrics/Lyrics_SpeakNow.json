@@ -1,0 +1,2577 @@
+{
+ "_type": "album",
+ "api_path": "/albums/10982",
+ "cover_art_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+ "full_title": "Speak Now by Taylor Swift",
+ "id": 10982,
+ "name": "Speak Now",
+ "name_with_artist": "Speak Now (artist: Taylor Swift)",
+ "primary_artist_names": "Taylor Swift",
+ "release_date_components": {
+  "year": 2010,
+  "month": 10,
+  "day": 25
+ },
+ "release_date_for_display": "October 25, 2010",
+ "url": "https://genius.com/albums/Taylor-swift/Speak-now",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1177",
+  "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+  "id": 1177,
+  "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Taylor Swift",
+  "slug": "Taylor-swift",
+  "url": "https://genius.com/artists/Taylor-swift",
+  "iq": 1544
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1177",
+   "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+   "id": 1177,
+   "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+   "index_character": "t",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Taylor Swift",
+   "slug": "Taylor-swift",
+   "url": "https://genius.com/artists/Taylor-swift",
+   "iq": 1544
+  }
+ ],
+ "comment_count": 3,
+ "custom_header_image_url": "https://images.genius.com/0d394eff5fd6c918e063221e4e92aafb.1000x636x1.jpg",
+ "description_preview": "Taylor Swift\u2019s third studio album saw her sending several messages to former partners, as well as the media, a first for her career. As she explained in the liner notes, Swift sees the songs as \u201copen letters\u201d to those she loves, those who hurt her, and those who she hurt.\n\nSwift wrote each song on the album, aside from the deluxe track \u201cIf This Was a Movie,\u201d by herself. She originally claimed it was because there were no co-writers around while she was on her Fearless Tour in 2009, but she revealed to TIME in 2014 that she did this to fend off critics who thought she used ghostwriters or that her co-writers wrote most of the lyrics.\n\nAccording to Scott Borchetta, the founder of Big Machine Records, Swift originally wanted to name the album Enchanted, after the album\u2019s ninth track. Borchetta argued that this was counterproductive, since this record showcased her maturation and growth as an artist. She changed the title to Speak Now to mirror her honesty throughout the project.\n\nSpeak Now debuted at number one on the US Billboard 200, selling over 1.047 million copies in its first week.\n\nSwift teamed up with Target to release a deluxe edition with three exclusive tracks: \u201cOurs,\u201d \u201cIf This Was a Movie,\u201d and \u201cSuperman.\u201d",
+ "header_image_url": "https://images.genius.com/0d394eff5fd6c918e063221e4e92aafb.1000x636x1.jpg",
+ "lock_state": "locked",
+ "pyongs_count": 8,
+ "release_date": "2010-10-25",
+ "tracking_paths": {
+  "aggregate": "/albums/Taylor-swift/Speak-now",
+  "concurrent": "/albums/Taylor-swift/Speak-now"
+ },
+ "current_user_metadata": {
+  "permissions": [
+   "create_comment"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "destroy",
+   "pyong",
+   "lock",
+   "super_lock",
+   "unlock",
+   "sort_songs",
+   "edit_multiple_primary_artist",
+   "see_short_id",
+   "create_question"
+  ],
+  "interactions": {
+   "pyong": false
+  }
+ },
+ "song_pageviews": 6042342,
+ "cover_arts": [
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 3941,
+   "image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/3941",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 143699,
+   "image_url": "https://images.genius.com/299ea4847b42a5dc5bd6cd6e22442a72.1000x1000x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/299ea4847b42a5dc5bd6cd6e22442a72.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/143699",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/10982",
+   "id": 145264,
+   "image_url": "https://images.genius.com/8900810390e89db2296c20f75164383b.1000x749x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/8900810390e89db2296c20f75164383b.300x225x1.jpg",
+   "url": "https://genius.com/album_cover_arts/145264",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/10982",
+   "id": 353755,
+   "image_url": "https://images.genius.com/3cd482dd36254db33b962017c66691c4.518x391x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/3cd482dd36254db33b962017c66691c4.300x226x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353755",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/10982",
+   "id": 353756,
+   "image_url": "https://images.genius.com/b2f39f35cfb7850aaecf97db3609b5bb.518x389x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/b2f39f35cfb7850aaecf97db3609b5bb.300x225x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353756",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 353757,
+   "image_url": "https://images.genius.com/05339cfb0eced1249eac442d1826acd1.518x356x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/05339cfb0eced1249eac442d1826acd1.300x206x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353757",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 353759,
+   "image_url": "https://images.genius.com/e45acaa43b7833b6db5d5eb934c50d8f.518x392x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/e45acaa43b7833b6db5d5eb934c50d8f.300x227x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353759",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 314425,
+   "image_url": "https://images.genius.com/de24965997fddc823cb1d56b55b5b70f.399x301x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/de24965997fddc823cb1d56b55b5b70f.300x226x1.jpg",
+   "url": "https://genius.com/album_cover_arts/314425",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 353760,
+   "image_url": "https://images.genius.com/c9ef144eee31fd6781013653d3570ccd.518x392x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/c9ef144eee31fd6781013653d3570ccd.300x227x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353760",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/10982",
+   "id": 353761,
+   "image_url": "https://images.genius.com/e31026acc46fe499a68bc195883822e2.518x391x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/e31026acc46fe499a68bc195883822e2.300x226x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353761",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 353763,
+   "image_url": "https://images.genius.com/32219ff85c6a63f48c42e48126632843.518x518x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/32219ff85c6a63f48c42e48126632843.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353763",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 353762,
+   "image_url": "https://images.genius.com/701996099a191cb70ef6269ca65be0ab.518x518x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/701996099a191cb70ef6269ca65be0ab.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353762",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/10982",
+   "id": 353764,
+   "image_url": "https://images.genius.com/b287254176eb6c4fefe7490944095353.518x518x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/b287254176eb6c4fefe7490944095353.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353764",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 353765,
+   "image_url": "https://images.genius.com/de2c4e6a8e0f00893c706dd59f2612a5.518x518x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/de2c4e6a8e0f00893c706dd59f2612a5.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353765",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/10982",
+   "id": 353766,
+   "image_url": "https://images.genius.com/78d7f7fdeda7c68fe63c62ec792fd2f5.518x518x1.png",
+   "thumbnail_image_url": "https://images.genius.com/78d7f7fdeda7c68fe63c62ec792fd2f5.300x300x1.png",
+   "url": "https://genius.com/album_cover_arts/353766",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/10982",
+   "id": 353768,
+   "image_url": "https://images.genius.com/6f3cdebf1a1cbcd4a052a3504fe8cc17.400x400x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/6f3cdebf1a1cbcd4a052a3504fe8cc17.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353768",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": false,
+   "api_path": "/albums/10982",
+   "id": 353767,
+   "image_url": "https://images.genius.com/c7aa2038578fb16a4443110d1500794c.518x400x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/c7aa2038578fb16a4443110d1500794c.300x232x1.jpg",
+   "url": "https://genius.com/album_cover_arts/353767",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1873201,
+  "annotator_login": "VinylZombie_MCR",
+  "api_path": "/referents/7532782",
+  "classification": "accepted",
+  "fragment": "Speak Now",
+  "id": 7532782,
+  "ios_app_url": "genius://referents/7532782",
+  "is_description": true,
+  "is_image": false,
+  "path": "/7532782/Speak-now/Speak-now",
+  "range": {
+   "content": "Speak Now"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7532782/Speak-now/Speak-now",
+  "verified_annotator_ids": [],
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "add_pinned_annotation_to",
+    "add_community_annotation_to"
+   ],
+   "relationships": {}
+  },
+  "tracking_paths": {
+   "aggregate": "/7532782/Speak-now/Speak-now",
+   "concurrent": "/albums/Taylor-swift/Speak-now"
+  },
+  "twitter_share_message": "\u201cTaylor Swift\u2019s third studio album saw her sending several messages to former partners, as well a\u2026\u201d \u2014@Genius",
+  "annotatable": {
+   "_type": "album",
+   "api_path": "/albums/10982",
+   "context": "Taylor Swift",
+   "id": 10982,
+   "image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+   "link_title": "Speak Now",
+   "title": "Speak Now",
+   "type": "Album",
+   "url": "https://genius.com/albums/Taylor-swift/Speak-now"
+  },
+  "annotations": [
+   {
+    "_type": "annotation",
+    "api_path": "/annotations/7532782",
+    "being_created": false,
+    "body": {
+     "plain": "Taylor Swift\u2019s third studio album saw her sending several messages to former partners, as well as the media, a first for her career. As she explained in the liner notes, Swift sees the songs as \u201copen letters\u201d to those she loves, those who hurt her, and those who she hurt.\n\nSwift wrote each song on the album, aside from the deluxe track \u201cIf This Was a Movie,\u201d by herself. She originally claimed it was because there were no co-writers around while she was on her Fearless Tour in 2009, but she revealed to TIME in 2014 that she did this to fend off critics who thought she used ghostwriters or that her co-writers wrote most of the lyrics.\n\nAccording to Scott Borchetta, the founder of Big Machine Records, Swift originally wanted to name the album Enchanted, after the album\u2019s ninth track. Borchetta argued that this was counterproductive, since this record showcased her maturation and growth as an artist. She changed the title to Speak Now to mirror her honesty throughout the project.\n\nSpeak Now debuted at number one on the US Billboard 200, selling over 1.047 million copies in its first week.\n\nSwift teamed up with Target to release a deluxe edition with three exclusive tracks: \u201cOurs,\u201d \u201cIf This Was a Movie,\u201d and \u201cSuperman.\u201d"
+    },
+    "comment_count": 0,
+    "community": true,
+    "created_at": 1442975179,
+    "custom_preview": null,
+    "deleted": false,
+    "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/7532782/standalone_embed'><a href='https://genius.com/7532782/Speak-now/Speak-now'>Speak Now</a><br><a href='https://genius.com/albums/Taylor-swift/Speak-now'>&#8213; Speak Now</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+    "has_voters": true,
+    "id": 7532782,
+    "needs_exegesis": false,
+    "pinned": false,
+    "proposed_edit_count": 0,
+    "pyongs_count": null,
+    "referent_id": 7532782,
+    "share_url": "https://genius.com/7532782",
+    "source": null,
+    "state": "accepted",
+    "twitter_share_message": "\u201cTaylor Swift\u2019s third studio album saw her sending several messages to former partners, as well as the me\u2026\u201d \u2014@Genius",
+    "url": "https://genius.com/7532782/Speak-now/Speak-now",
+    "verified": false,
+    "votes_total": 26,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "report_as_abusive",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "accepted_by": {
+     "_type": "user",
+     "about_me_summary": "",
+     "api_path": "/users/7",
+     "avatar": {
+      "tiny": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/FPUgkjhRQyqsg9SfDfhx.jpg",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/FPUgkjhRQyqsg9SfDfhx.jpg",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/small/FPUgkjhRQyqsg9SfDfhx.jpg",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+     "human_readable_role_for_display": "Contributor",
+     "id": 7,
+     "iq": 552525,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "Maboo",
+     "name": "Maboo",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/Maboo",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "authors": [
+     {
+      "_type": "user_attribution",
+      "attribution": 0.9069767441860465,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "stella; she/they; somewhat inactive\n\n\n\n\n// #20 genius user of all time //\n\n\n\n\n// #13 country scholar of all time //\n\n\n\n\n// #18 pop scholar of all time //\n\n\n\n\n// #27 rock scholar of all time //\n\n\n\n\n// last.fm: vinylzombie //\n\n\n\n\n// discogs: vinylzombie_mcr //\n\n\n\n\n\n\n\n\n\u2661",
+       "api_path": "/users/1873201",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f87cf09959b1401ea9890cc6f5291188",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f87cf09959b1401ea9890cc6f5291188",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f87cf09959b1401ea9890cc6f5291188",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f87cf09959b1401ea9890cc6f5291188",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/dcac0ceaa601aa65e65c79c4fc17af29.640x213x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1873201,
+       "iq": 1036232,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "VinylZombie_MCR",
+       "name": "\u200bthebreakup",
+       "role_for_display": "editor",
+       "url": "https://genius.com/VinylZombie_MCR",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "_type": "user_attribution",
+      "attribution": 0.09302325581395349,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "",
+       "api_path": "/users/7638835",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/644efa9b4c323938a6a168f43ef54ffd",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/644efa9b4c323938a6a168f43ef54ffd",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/644efa9b4c323938a6a168f43ef54ffd",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/644efa9b4c323938a6a168f43ef54ffd",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/644efa9b4c323938a6a168f43ef54ffd",
+       "human_readable_role_for_display": null,
+       "id": 7638835,
+       "iq": 116,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "speaknowtaylors_version",
+       "name": "speaknowtaylors_version",
+       "role_for_display": null,
+       "url": "https://genius.com/speaknowtaylors_version",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "created_by": {
+     "_type": "user",
+     "about_me_summary": "stella; she/they; somewhat inactive\n\n\n\n\n// #20 genius user of all time //\n\n\n\n\n// #13 country scholar of all time //\n\n\n\n\n// #18 pop scholar of all time //\n\n\n\n\n// #27 rock scholar of all time //\n\n\n\n\n// last.fm: vinylzombie //\n\n\n\n\n// discogs: vinylzombie_mcr //\n\n\n\n\n\n\n\n\n\u2661",
+     "api_path": "/users/1873201",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/f87cf09959b1401ea9890cc6f5291188",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/f87cf09959b1401ea9890cc6f5291188",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/f87cf09959b1401ea9890cc6f5291188",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/f87cf09959b1401ea9890cc6f5291188",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/dcac0ceaa601aa65e65c79c4fc17af29.640x213x1.jpg",
+     "human_readable_role_for_display": "Editor",
+     "id": 1873201,
+     "iq": 1036232,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "VinylZombie_MCR",
+     "name": "\u200bthebreakup",
+     "role_for_display": "editor",
+     "url": "https://genius.com/VinylZombie_MCR",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "rejection_comment": null,
+    "top_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "performance_groups": [
+  {
+   "label": "Wardrobe Stylist (Artwork)",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1230140",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1230140,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joseph Casell",
+     "slug": "Joseph-casell",
+     "url": "https://genius.com/artists/Joseph-casell"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1230141",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1230141,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aubrey Hyde",
+     "slug": "Aubrey-hyde",
+     "url": "https://genius.com/artists/Aubrey-hyde"
+    }
+   ]
+  },
+  {
+   "label": "Makeup Artist (Artwork)",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1203516",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1203516,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lorrie Turk",
+     "slug": "Lorrie-turk",
+     "url": "https://genius.com/artists/Lorrie-turk"
+    }
+   ]
+  },
+  {
+   "label": "Hair Stylist (Artwork)",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1230139",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1230139,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jemma Muradian",
+     "slug": "Jemma-muradian",
+     "url": "https://genius.com/artists/Jemma-muradian"
+    }
+   ]
+  },
+  {
+   "label": "Graphic Design",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1230138",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1230138,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Newman",
+     "slug": "Josh-newman",
+     "url": "https://genius.com/artists/Josh-newman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1230137",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1230137,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bethany Newman",
+     "slug": "Bethany-newman",
+     "url": "https://genius.com/artists/Bethany-newman"
+    }
+   ]
+  },
+  {
+   "label": "Photography",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1203512",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1203512,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joseph Anthony Baker",
+     "slug": "Joseph-anthony-baker",
+     "url": "https://genius.com/artists/Joseph-anthony-baker"
+    }
+   ]
+  },
+  {
+   "label": "Art Direction",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  }
+ ],
+ "song_performances": [
+  {
+   "label": "Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/29547",
+     "header_image_url": "https://images.genius.com/e70fc2142f15ddb216d30cf37221afc1.1000x525x1.jpg",
+     "id": 29547,
+     "image_url": "https://images.genius.com/2850c0020b27488dd3a32c0860c3a7c0.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Chapman",
+     "slug": "Nathan-chapman",
+     "url": "https://genius.com/artists/Nathan-chapman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  },
+  {
+   "label": "Writers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  },
+  {
+   "label": "Additional Engineering",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/643888",
+     "header_image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+     "id": 643888,
+     "image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Drew Bollman",
+     "slug": "Drew-bollman",
+     "url": "https://genius.com/artists/Drew-bollman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1067118",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1067118,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lowell Reynolds",
+     "slug": "Lowell-reynolds",
+     "url": "https://genius.com/artists/Lowell-reynolds"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/214012",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 214012,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Churchyard",
+     "slug": "Steve-churchyard",
+     "url": "https://genius.com/artists/Steve-churchyard"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1022759",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1022759,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Todd Tidwell",
+     "slug": "Todd-tidwell",
+     "url": "https://genius.com/artists/Todd-tidwell"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Mixing Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/643888",
+     "header_image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+     "id": 643888,
+     "image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Drew Bollman",
+     "slug": "Drew-bollman",
+     "url": "https://genius.com/artists/Drew-bollman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/644088",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 644088,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matt Rausch",
+     "slug": "Matt-rausch",
+     "url": "https://genius.com/artists/Matt-rausch"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1256905",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1256905,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Blackmon",
+     "slug": "Steve-blackmon",
+     "url": "https://genius.com/artists/Steve-blackmon"
+    }
+   ]
+  },
+  {
+   "label": "Banjo",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/29547",
+     "header_image_url": "https://images.genius.com/e70fc2142f15ddb216d30cf37221afc1.1000x525x1.jpg",
+     "id": 29547,
+     "image_url": "https://images.genius.com/2850c0020b27488dd3a32c0860c3a7c0.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Chapman",
+     "slug": "Nathan-chapman",
+     "url": "https://genius.com/artists/Nathan-chapman"
+    }
+   ]
+  },
+  {
+   "label": "Bass",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1929397",
+     "header_image_url": "https://images.genius.com/aabcf2061e576bba6c7f63373875d0b2.500x500x1.jpg",
+     "id": 1929397,
+     "image_url": "https://images.genius.com/aabcf2061e576bba6c7f63373875d0b2.500x500x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amos Heller",
+     "slug": "Amos-heller",
+     "url": "https://genius.com/artists/Amos-heller"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/29547",
+     "header_image_url": "https://images.genius.com/e70fc2142f15ddb216d30cf37221afc1.1000x525x1.jpg",
+     "id": 29547,
+     "image_url": "https://images.genius.com/2850c0020b27488dd3a32c0860c3a7c0.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Chapman",
+     "slug": "Nathan-chapman",
+     "url": "https://genius.com/artists/Nathan-chapman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1020732",
+     "header_image_url": "https://images.genius.com/07551c9c7497a4258ad73c800cc8921b.720x720x1.jpg",
+     "id": 1020732,
+     "image_url": "https://images.genius.com/07551c9c7497a4258ad73c800cc8921b.720x720x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Marks",
+     "slug": "Tim-marks",
+     "url": "https://genius.com/artists/Tim-marks"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/403764",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 403764,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tommy Simmsss",
+     "slug": "Tommy-simmsss",
+     "url": "https://genius.com/artists/Tommy-simmsss"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/588290",
+     "header_image_url": "https://images.genius.com/2af0c807e12e13bce663f323a0e39dcf.444x444x1.jpg",
+     "id": 588290,
+     "image_url": "https://images.genius.com/2af0c807e12e13bce663f323a0e39dcf.444x444x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tommy Sims",
+     "slug": "Tommy-sims",
+     "url": "https://genius.com/artists/Tommy-sims"
+    }
+   ]
+  },
+  {
+   "label": "Conductor",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/651015",
+     "header_image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+     "id": 651015,
+     "image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Buckmaster",
+     "slug": "Paul-buckmaster",
+     "url": "https://genius.com/artists/Paul-buckmaster"
+    }
+   ]
+  },
+  {
+   "label": "Drums",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/221231",
+     "header_image_url": "https://images.genius.com/da1358d0b40936cf5af5c0fcdbe68dce.478x478x1.jpg",
+     "id": 221231,
+     "image_url": "https://images.genius.com/da1358d0b40936cf5af5c0fcdbe68dce.478x478x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Gardner",
+     "slug": "John-gardner",
+     "url": "https://genius.com/artists/John-gardner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/644090",
+     "header_image_url": "https://images.genius.com/b6f05ae821a5b3a09218729275aa0281.1000x1000x1.jpg",
+     "id": 644090,
+     "image_url": "https://images.genius.com/b6f05ae821a5b3a09218729275aa0281.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Buda",
+     "slug": "Nick-buda",
+     "url": "https://genius.com/artists/Nick-buda"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1022715",
+     "header_image_url": "https://images.genius.com/975a557b42672b3b8fc1591843a7bf49.750x362x1.jpg",
+     "id": 1022715,
+     "image_url": "https://images.genius.com/9bc4acd5e2772a515e60f0461ff0c84e.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shannon Forrest",
+     "slug": "Shannon-forrest",
+     "url": "https://genius.com/artists/Shannon-forrest"
+    }
+   ]
+  },
+  {
+   "label": "Fiddle",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/682167",
+     "header_image_url": "https://images.genius.com/a2b1a4a948dd6cb3b20d3b8da90571fc.270x270x1.jpg",
+     "id": 682167,
+     "image_url": "https://images.genius.com/a2b1a4a948dd6cb3b20d3b8da90571fc.270x270x1.jpg",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rob Hajacos",
+     "slug": "Rob-hajacos",
+     "url": "https://genius.com/artists/Rob-hajacos"
+    }
+   ]
+  },
+  {
+   "label": "Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1130165",
+     "header_image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+     "id": 1130165,
+     "image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryan Sutton",
+     "slug": "Bryan-sutton",
+     "url": "https://genius.com/artists/Bryan-sutton"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1929394",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1929394,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Grant Mickelson",
+     "slug": "Grant-mickelson",
+     "url": "https://genius.com/artists/Grant-mickelson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1414884",
+     "header_image_url": "https://images.genius.com/bea333c0c01d058a8d3e67fabd8ca41a.276x276x1.jpg",
+     "id": 1414884,
+     "image_url": "https://images.genius.com/bea333c0c01d058a8d3e67fabd8ca41a.276x276x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Meadows",
+     "slug": "Mike-meadows",
+     "url": "https://genius.com/artists/Mike-meadows"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/29547",
+     "header_image_url": "https://images.genius.com/e70fc2142f15ddb216d30cf37221afc1.1000x525x1.jpg",
+     "id": 29547,
+     "image_url": "https://images.genius.com/2850c0020b27488dd3a32c0860c3a7c0.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Chapman",
+     "slug": "Nathan-chapman",
+     "url": "https://genius.com/artists/Nathan-chapman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1929395",
+     "header_image_url": "https://images.genius.com/5610a48f4665f0e5b23d69ba29d72014.900x900x1.jpg",
+     "id": 1929395,
+     "image_url": "https://images.genius.com/5610a48f4665f0e5b23d69ba29d72014.900x900x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Sidoti",
+     "slug": "Paul-sidoti",
+     "url": "https://genius.com/artists/Paul-sidoti"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  },
+  {
+   "label": "Hammond B-3 Organ",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/994787",
+     "header_image_url": "https://images.genius.com/6a7c58ed9b0011ba62f2e247790305d9.720x720x1.jpg",
+     "id": 994787,
+     "image_url": "https://images.genius.com/6a7c58ed9b0011ba62f2e247790305d9.720x720x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Lauer",
+     "slug": "Tim-lauer",
+     "url": "https://genius.com/artists/Tim-lauer"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1049237",
+     "header_image_url": "https://images.genius.com/8caf7da2eefa71eb45901c8382405c25.592x267x1.jpg",
+     "id": 1049237,
+     "image_url": "https://images.genius.com/6e092f0a564e981e179633b70f45e493.644x644x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Big Machine Records",
+     "slug": "Big-machine-records",
+     "url": "https://genius.com/artists/Big-machine-records"
+    }
+   ]
+  },
+  {
+   "label": "Mandolin",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/29547",
+     "header_image_url": "https://images.genius.com/e70fc2142f15ddb216d30cf37221afc1.1000x525x1.jpg",
+     "id": 29547,
+     "image_url": "https://images.genius.com/2850c0020b27488dd3a32c0860c3a7c0.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Chapman",
+     "slug": "Nathan-chapman",
+     "url": "https://genius.com/artists/Nathan-chapman"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/515186",
+     "header_image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+     "id": 515186,
+     "image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Niebank",
+     "slug": "Justin-niebank",
+     "url": "https://genius.com/artists/Justin-niebank"
+    }
+   ]
+  },
+  {
+   "label": "Orchestra Arranger",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/651015",
+     "header_image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+     "id": 651015,
+     "image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Buckmaster",
+     "slug": "Paul-buckmaster",
+     "url": "https://genius.com/artists/Paul-buckmaster"
+    }
+   ]
+  },
+  {
+   "label": "Organ",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/29547",
+     "header_image_url": "https://images.genius.com/e70fc2142f15ddb216d30cf37221afc1.1000x525x1.jpg",
+     "id": 29547,
+     "image_url": "https://images.genius.com/2850c0020b27488dd3a32c0860c3a7c0.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Chapman",
+     "slug": "Nathan-chapman",
+     "url": "https://genius.com/artists/Nathan-chapman"
+    }
+   ]
+  },
+  {
+   "label": "Percussion",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/287455",
+     "header_image_url": "https://images.genius.com/8923d25da9f8f3e1800f1d535311035f.376x376x1.jpg",
+     "id": 287455,
+     "image_url": "https://images.genius.com/7c04b4970a502d3878178cc4b4db3b96.376x376x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Al Wilson",
+     "slug": "Al-wilson",
+     "url": "https://genius.com/artists/Al-wilson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/644089",
+     "header_image_url": "https://images.genius.com/6bef0a34d440b70a6500c4b16dc7b66b.225x225x1.jpg",
+     "id": 644089,
+     "image_url": "https://images.genius.com/6bef0a34d440b70a6500c4b16dc7b66b.225x225x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric Darken",
+     "slug": "Eric-darken",
+     "url": "https://genius.com/artists/Eric-darken"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1049237",
+     "header_image_url": "https://images.genius.com/8caf7da2eefa71eb45901c8382405c25.592x267x1.jpg",
+     "id": 1049237,
+     "image_url": "https://images.genius.com/6e092f0a564e981e179633b70f45e493.644x644x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Big Machine Records",
+     "slug": "Big-machine-records",
+     "url": "https://genius.com/artists/Big-machine-records"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/29547",
+     "header_image_url": "https://images.genius.com/e70fc2142f15ddb216d30cf37221afc1.1000x525x1.jpg",
+     "id": 29547,
+     "image_url": "https://images.genius.com/2850c0020b27488dd3a32c0860c3a7c0.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Chapman",
+     "slug": "Nathan-chapman",
+     "url": "https://genius.com/artists/Nathan-chapman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/994787",
+     "header_image_url": "https://images.genius.com/6a7c58ed9b0011ba62f2e247790305d9.720x720x1.jpg",
+     "id": 994787,
+     "image_url": "https://images.genius.com/6a7c58ed9b0011ba62f2e247790305d9.720x720x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Lauer",
+     "slug": "Tim-lauer",
+     "url": "https://genius.com/artists/Tim-lauer"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/575194",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 575194,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chad Carlson",
+     "slug": "Chad-carlson",
+     "url": "https://genius.com/artists/Chad-carlson"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/124003",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 124003,
+     "image_url": "https://images.genius.com/4cd49e85424f55e5359ebcc3c34e5eeb.339x339x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chuck Ainlay",
+     "slug": "Chuck-ainlay",
+     "url": "https://genius.com/artists/Chuck-ainlay"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/515186",
+     "header_image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+     "id": 515186,
+     "image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Niebank",
+     "slug": "Justin-niebank",
+     "url": "https://genius.com/artists/Justin-niebank"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/214012",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 214012,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Churchyard",
+     "slug": "Steve-churchyard",
+     "url": "https://genius.com/artists/Steve-churchyard"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/542327",
+     "header_image_url": "https://images.genius.com/5e9015ec5113fcc18bfd80dc3305ceee.229x229x1.jpg",
+     "id": 542327,
+     "image_url": "https://images.genius.com/5e9015ec5113fcc18bfd80dc3305ceee.229x229x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Marcantonio",
+     "slug": "Steve-marcantonio",
+     "url": "https://genius.com/artists/Steve-marcantonio"
+    }
+   ]
+  },
+  {
+   "label": "Steel Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/976140",
+     "header_image_url": "https://images.genius.com/7c1cb28daf6bbd201bbca5fbd2748c58.403x452x1.jpg",
+     "id": 976140,
+     "image_url": "https://images.genius.com/4651eff9ae300a3ac66f441fd05ba7c3.695x695x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Smith Curry",
+     "slug": "Smith-curry",
+     "url": "https://genius.com/artists/Smith-curry"
+    }
+   ]
+  },
+  {
+   "label": "Strings",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/665031",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 665031,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Carmichael",
+     "slug": "Chris-carmichael",
+     "url": "https://genius.com/artists/Chris-carmichael"
+    }
+   ]
+  },
+  {
+   "label": "Strings Arranger",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/665031",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 665031,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Carmichael",
+     "slug": "Chris-carmichael",
+     "url": "https://genius.com/artists/Chris-carmichael"
+    }
+   ]
+  },
+  {
+   "label": "Synthesizer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/29547",
+     "header_image_url": "https://images.genius.com/e70fc2142f15ddb216d30cf37221afc1.1000x525x1.jpg",
+     "id": 29547,
+     "image_url": "https://images.genius.com/2850c0020b27488dd3a32c0860c3a7c0.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Chapman",
+     "slug": "Nathan-chapman",
+     "url": "https://genius.com/artists/Nathan-chapman"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/14980",
+     "header_image_url": "https://images.genius.com/f5f8f5564d28c7e543d979b535390d82.1000x521x1.jpg",
+     "id": 14980,
+     "image_url": "https://s3.amazonaws.com/rapgenius/Woodkid.png",
+     "index_character": "w",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Woodkid",
+     "slug": "Woodkid",
+     "url": "https://genius.com/artists/Woodkid",
+     "iq": 108
+    }
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/2520",
+    "artist_names": "Taylor Swift",
+    "full_title": "Mine by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/e8ec1dcb11983800e1ea4cf871ead157.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/e8ec1dcb11983800e1ea4cf871ead157.1000x1000x1.jpg",
+    "id": 2520,
+    "instrumental": false,
+    "lyrics_owner_id": 7,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1708900163,
+    "path": "/Taylor-swift-mine-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 45,
+    "relationships_index_url": "https://genius.com/Taylor-swift-mine-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 8,
+     "day": 4
+    },
+    "release_date_for_display": "August 4, 2010",
+    "release_date_with_abbreviated_month_for_display": "Aug. 4, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e8ec1dcb11983800e1ea4cf871ead157.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/e8ec1dcb11983800e1ea4cf871ead157.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 404327
+    },
+    "title": "Mine",
+    "title_with_featured": "Mine",
+    "updated_by_human_at": 1712893509,
+    "url": "https://genius.com/Taylor-swift-mine-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Intro]\nOh-oh, oh-oh\nOh-oh, oh-oh\n\n[Verse 1]\nYou were in college working part time waitin' tables\nLeft a small town, never looked back\nI was a flight risk with a fear of falling\nWonderin' why we bother with love if it never lasts\n\n[Pre-Chorus]\nI say, \"Can you believe it?\"\nAs we're lyin' on the couch\nThe moment I could see it\nYes, yes, I can see it now\n\n[Chorus]\nDo you remember, we were sittin' there by the water?\nYou put your arm around me for the first time\nYou made a rebel of a careless man's careful daughter\nYou are the best thing that's ever been mine\n\n[Verse 2]\nFlash forward and we're takin' on the world together\nAnd there's a drawer of my things at your place\nYou learn my secrets and you figure out why I'm guarded\nYou say we'll never make my parents' mistakes\n\n[Pre-Chorus]\nBut we got bills to pay\nWe got nothing figured out\nWhen it was hard to take\nYes, yes, this is what I thought about\n\n[Chorus]\nDo you remember, we were sittin' there by the water?\nYou put your arm around me for the first time\nYou made a rebel of a careless man's careful daughter\nYou are the best thing that's ever been mine\nDo you remember all the city lights on the water?\nYou saw me start to believe for the first time\nYou made a rebel of a careless man's careful daughter\nYou are the best thing that's ever been mine\n\n[Post-Chorus]\nOh-oh, oh-oh\n\n[Bridge]\nAnd I remember that fight, 2:30AM\nAs everything was slipping right out of our hands\nI ran out crying and you followed me out into the street\nBraced myself for the goodbye\n'Cause that's all I've ever known\nThen you took me by surprise\nYou said, \"I'll never leave you alone\"\n\n[Chorus]\nYou said, \"I remember how we felt sitting by the water\nAnd every time I look at you, it's like the first time\nI fell in love with a careless man's careful daughter\nShe is the best thing that's ever been mine\"\n\n[Post-Chorus]\nHold on, make it last\nHold on, never turn back\n(Hold on) You made a rebel of a careless man's careful daughter (Make it last)\n(Hold on) You are the best thing that's ever been mine (Hold on)\n\n[Outro]\nYes, yes, do you believe it? (Hold on)\nYes, yes, we're gonna make it now (Hold on)\nYes, yes, I can see it\nYes, yes, I can see it now"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/132652",
+    "artist_names": "Taylor Swift",
+    "full_title": "Sparks Fly by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/35f475730d175b781a3da8aa6beda46d.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/35f475730d175b781a3da8aa6beda46d.1000x1000x1.jpg",
+    "id": 132652,
+    "instrumental": false,
+    "lyrics_owner_id": 134437,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1698183532,
+    "path": "/Taylor-swift-sparks-fly-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 44,
+    "relationships_index_url": "https://genius.com/Taylor-swift-sparks-fly-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/35f475730d175b781a3da8aa6beda46d.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/35f475730d175b781a3da8aa6beda46d.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 296943
+    },
+    "title": "Sparks Fly",
+    "title_with_featured": "Sparks Fly",
+    "updated_by_human_at": 1712893623,
+    "url": "https://genius.com/Taylor-swift-sparks-fly-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nThe way you move is like a full on rainstorm and I'm a house of cards\nYou're the kind of reckless that should send me runnin'\nBut I kinda know that I won't get far\nAnd you stood there in front of me, just close enough to touch\nClose enough to hope you couldn't see what I was thinkin' of\n\n[Chorus]\nDrop everything now, meet me in the pouring rain\nKiss me on the sidewalk, take away the pain\n'Cause I see sparks fly whenever you smile\nGet me with those green eyes, baby, as the lights go down\nGive me something that'll haunt me when you're not around\n'Cause I see sparks fly whenever you smile\n\n[Verse 2]\nMy mind forgets to remind me you're a bad idea\nYou touch me once and it's really somethin'\nYou find I'm even better than you imagined I would be\nI'm on my guard for the rest of the world\nBut with you, I know it's no good\nAnd I could wait patiently, but I really wish you would\n\n[Chorus]\nDrop everything now, meet me in the pouring rain\nKiss me on the sidewalk, take away the pain\n'Cause I see sparks fly whenever you smile\nGet me with those green eyes, baby, as the lights go down\nGive me something that'll haunt me when you're not around\n'Cause I see sparks fly whenever you smile\n\n[Bridge]\nI run my fingers through your hair and watch the lights go wild\nJust keep on keepin' your eyes on me, it's just wrong enough to make it feel right\nAnd lead me up the staircase, won't you whisper soft and slow?\nI'm captivated by you, baby, like a firework show\n\n[Chorus]\nDrop everything now, meet me in the pouring rain\nKiss me on the sidewalk (Ah-ah), take away the pain\n'Cause I see sparks fly whenever you smile\nGet me with those green eyes, baby, as the lights go down\nGive me something that'll haunt me when you're not around\n'Cause I see sparks fly whenever you smile\n\n[Outro]\nAnd the sparks fly\nOh, baby, smile\nAnd the sparks fly"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/3774",
+    "artist_names": "Taylor Swift",
+    "full_title": "Back to December by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/ed1b4f1922f5ab0ff2119a6f27c407cd.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/ed1b4f1922f5ab0ff2119a6f27c407cd.1000x1000x1.jpg",
+    "id": 3774,
+    "instrumental": false,
+    "lyrics_owner_id": 5947,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718175871,
+    "path": "/Taylor-swift-back-to-december-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 81,
+    "relationships_index_url": "https://genius.com/Taylor-swift-back-to-december-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 12
+    },
+    "release_date_for_display": "October 12, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 12, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ed1b4f1922f5ab0ff2119a6f27c407cd.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/ed1b4f1922f5ab0ff2119a6f27c407cd.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 309723
+    },
+    "title": "Back to December",
+    "title_with_featured": "Back to December",
+    "updated_by_human_at": 1718175871,
+    "url": "https://genius.com/Taylor-swift-back-to-december-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nI'm so glad you made time to see me\nHow's life? Tell me, how's your family?\nI haven't seen them in a while\nYou've been good, busier than ever\nWe small talk, work and the weather\nYour guard is up and I know why\n\n[Pre-Chorus]\nBecause the last time you saw me\nIs still burned in the back of your mind\nYou gave me roses and I left them there to die\n\n[Chorus]\nSo this is me swallowing my pride\nStandin' in front of you sayin', \"I'm sorry for that night\"\nAnd I go back to December all the time\nIt turns out freedom ain't nothing but missin' you\nWishin' I'd realized what I had when you were mine\nI go back to December, turn around and make it alright\nI go back to December all the time\n\n[Verse 2]\nThese days, I haven't been sleeping\nStayin' up, playing back myself leavin'\nWhen your birthday passed and I didn't call\nThen I think about summer, all the beautiful times\nI watched you laughing from the passenger side\nAnd realized I loved you in the fall\n\n[Pre-Chorus]\nAnd then the cold came, the dark days\nWhen fear crept into my mind\nYou gave me all your love and all I gave you was goodbye\n\n[Chorus]\nSo this is me swallowing my pride\nStandin' in front of you, sayin', \"I'm sorry for that night\"\nAnd I go back to December all the time\nIt turns out freedom ain't nothing but missin' you\nWishin' I'd realized what I had when you were mine\nI go back to December, turn around and change my own mind\nI go back to December all the time\n\n[Bridge]\nI miss your tanned skin, your sweet smile\nSo good to me, so right\nAnd how you held me in your arms that September night\nThe first time you ever saw me cry\nMaybe this is wishful thinkin'\nProbably mindless dreaming\nBut if we loved again, I swear I'd love you right\nI'd go back in time and change it, but I can't\nSo, if the chain is on your door, I understand\n\n[Chorus]\nBut this is me swallowing my pride\nStandin' in front of you, sayin', \"I'm sorry for that night\"\nAnd I go back to December\nIt turns out freedom ain't nothing but missin' you\nWishin' I'd realized what I had when you were mine\nI go back to December, turn around and make it alright\nI go back to December, turn around and change my own mind\nI go back to December all the time\n\n[Outro]\nAll the time"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/50968",
+    "artist_names": "Taylor Swift",
+    "full_title": "Speak Now by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/15ecb9353dcffc3a59b3a27819096889.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/15ecb9353dcffc3a59b3a27819096889.1000x1000x1.jpg",
+    "id": 50968,
+    "instrumental": false,
+    "lyrics_owner_id": 18300,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1686960054,
+    "path": "/Taylor-swift-speak-now-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 41,
+    "relationships_index_url": "https://genius.com/Taylor-swift-speak-now-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 5
+    },
+    "release_date_for_display": "October 5, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 5, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/15ecb9353dcffc3a59b3a27819096889.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/15ecb9353dcffc3a59b3a27819096889.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 177709
+    },
+    "title": "Speak Now",
+    "title_with_featured": "Speak Now",
+    "updated_by_human_at": 1714905217,
+    "url": "https://genius.com/Taylor-swift-speak-now-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nI am not the kind of girl\nWho should be rudely bargin' in on a white veil occasion\nBut you are not the kind of boy\nWho should be marrying the wrong girl\nI sneak in and see your friends\nAnd her snotty little family all dressed in pastel\nAnd she is yelling at a bridesmaid\nSomewhere back inside a room\nWearin' a gown shaped like a pastry\n\n[Pre-Chorus]\nThis is surely not what you thought it would be\nI lose myself in a daydream\nWhere I stand and say\n\n[Chorus]\nDon't say yes, run away now\nI'll meet you when you're out\nOf the church, at the back door\nDon't wait or say a single vow\nYou need to hear me out\nAnd they said, \"Speak now\"\n\n[Verse 2]\nFond gestures are exchanged\nAnd the organ starts to play a song that sounds like a death march\nAnd I am hiding in the curtains\nIt seems that I was uninvited by your lovely bride-to-be\n\n[Pre-Chorus]\nShe floats down the aisle like a pageant queen\nBut I know you wish it was me\nYou wish it was me, don't you?\n\n[Chorus]\nDon't say yes, run away now\nI'll meet you when you're out\nOf the church, at the back door\nDon't wait or say a single vow\nYou need to hear me out\nAnd they said, \"Speak now\"\nDon't say yes, run away now (Run away now)\nI'll meet you when you're out\nOf the church, at the back door\nDon't wait or say a single vow (Say a single vow)\nYour time is running out\nAnd they said, \"Speak now\"\n\n[Post-Chorus]\nOoh (Run away now), la\nOoh (Say a single vow), ooh\n\n[Bridge]\nI hear the preacher say\n\"Speak now or forever hold your peace\"\nThere's the silence, there's my last chance\nI stand up with shaky hands, all eyes on me\nHorrified looks from everyone in the room\nBut I'm only lookin' at you\n\n[Verse 3]\nI am not the kind of girl\nWho should be rudely bargin' in on a white veil occasion\nBut you are not the kind of boy\nWho should be marrying the wrong girl, haha\n\n[Chorus]\nSo, don't say yes, run away now\nI'll meet you when you're out\nOf the church, at the back door\nDon't wait or say a single vow\nYou need to hear me out\nThey said, \"Speak now\"\nAnd you say, \"Let's run away now (Run away now)\nI'll meet you when I'm out\nOf my tux, at the back door\nBaby, I didn't say my vows (Say a single vow)\nSo glad you were around\nWhen they said, 'Speak now'\""
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/78585",
+    "artist_names": "Taylor Swift",
+    "full_title": "Dear John by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "id": 78585,
+    "instrumental": false,
+    "lyrics_owner_id": 112957,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710860435,
+    "path": "/Taylor-swift-dear-john-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 49,
+    "relationships_index_url": "https://genius.com/Taylor-swift-dear-john-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 602023
+    },
+    "title": "Dear John",
+    "title_with_featured": "Dear John",
+    "updated_by_human_at": 1733888392,
+    "url": "https://genius.com/Taylor-swift-dear-john-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nLong were the nights when\nMy days once revolved around you\nCounting my footsteps\nPraying the floor won't fall through again\nAnd my mother accused me of losing my mind\nBut I swore I was fine\nYou paint me a blue sky\nThen go back and turn it to rain\nAnd I lived in your chess game\nBut you changed the rules everyday\nWondering which version of you I might get on the phone tonight\nWell, I stopped pickin' up and this song is to let you know why\n\n[Chorus]\nDear John, I see it all now that you're gone\nDon't you think I was too young to be messed with?\nThe girl in the dress cried the whole way home\nI should've known\n\n[Verse 2]\nWell, maybe it's me\nAnd my blind optimism to blame\nOr maybe it's you and your sick need\nTo give love and take it away\nAnd you'll add my name to your long list of traitors\nWho don't understand\nAnd I look back in regret how I ignored when they said\n\"Run as fast as you can\"\n\n[Chorus]\nDear John, I see it all now that you're gone\nDon't you think I was too young to be messed with?\nThe girl in the dress cried the whole way home\nDear John, I see it all now, it was wrong\nDon't you think nineteen's too young\nTo be played by your dark, twisted games when I loved you so?\nI should've known\n\n[Bridge]\nYou are an expert at sorry and keeping lines blurry\nNever impressed by me acing your tests\nAll the girls that you've run dry have tired lifeless eyes\n'Cause you burned them out\nBut I took your matches before fire could catch me\nSo don't look now\nI'm shining like fireworks over your sad empty town\nOh, oh\n\n[Chorus]\nDear John, I see it all now that you're gone\nDon't you think I was too young to be messed with?\nThe girl in the dress cried the whole way home\nI see it all now that you're gone\nDon't you think I was too young to be messed with?\nThe girl in the dress wrote you a song\nYou should've known\n\n[Outro]\nYou should've known\nDon't you think I was too young?\nYou should've known"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/132654",
+    "artist_names": "Taylor Swift",
+    "full_title": "Mean by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/0630bdb7d6672ab9a9fa7ccabd89193c.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/0630bdb7d6672ab9a9fa7ccabd89193c.1000x1000x1.jpg",
+    "id": 132654,
+    "instrumental": false,
+    "lyrics_owner_id": 134437,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1733322329,
+    "path": "/Taylor-swift-mean-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 41,
+    "relationships_index_url": "https://genius.com/Taylor-swift-mean-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0630bdb7d6672ab9a9fa7ccabd89193c.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/0630bdb7d6672ab9a9fa7ccabd89193c.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 452387
+    },
+    "title": "Mean",
+    "title_with_featured": "Mean",
+    "updated_by_human_at": 1733322329,
+    "url": "https://genius.com/Taylor-swift-mean-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nYou, with your words like knives\nAnd swords and weapons that you use against me\nYou have knocked me off my feet again\nGot me feeling like I'm nothing\nYou, with your voice like nails on a chalkboard\nCalling me out when I'm wounded\nYou, pickin' on the weaker man\n\n[Pre-Chorus]\nWell, you can take me down\nWith just one single blow\nBut you don't know what you don't know\n\n[Chorus]\nSomeday, I'll be livin' in a big, ole city\nAnd all you're ever gonna be is mean\nSomeday, I'll be big enough so you can't hit me\nAnd all you're ever gonna be is mean\nWhy you gotta be so mean?\n\n[Verse 2]\nYou, with your switching sides\nAnd your wildfire lies and your humiliation\nYou have pointed out my flaws again\nAs if I don't already see them\nI walk with my head down, trying to block you out\n'Cause I'll never impress you\nI just wanna feel okay again\n\n[Pre-Chorus]\nI bet you got pushed around\nSomebody made you cold\nBut the cycle ends right now\n'Cause you can't lead me down that road\nAnd you don't know what you don't know\n\n[Chorus]\nSomeday, I'll be livin' in a big, ole city\nAnd all you're ever gonna be is mean\nSomeday, I'll be big enough so you can't hit me\nAnd all you're ever gonna be is mean\nWhy you gotta be so mean?\n\n[Bridge]\nAnd I can see you years from now in a bar\nTalking over a football game\nWith that same big, loud opinion\nBut nobody's listening\nWashed up and ranting about the same old bitter things\nDrunk and grumblin' on about how I can't sing\nBut all you are is mean\n\n[Buildup]\nAll you are is mean\nAnd a liar, and pathetic\nAnd alone in life, and mean\nAnd mean, and mean, and mean\n\n[Chorus]\nBut someday, I'll be livin' in a big, ole city\nAnd all you're ever gonna be is mean\nYeah, someday, I'll be big enough so you can't hit me\nAnd all you're ever gonna be is mean\nWhy you gotta be so mean?\nSomeday, I'll be livin' in a big, ole city\n(Why you gotta be so mean?)\nAnd all you're ever gonna be is mean\n(Why you gotta be so mean?)\nSomeday, I'll be big enough so you can't hit me\n(Why you gotta be so mean?)\nAnd all you're ever gonna be is mean\nWhy you gotta be so mean?"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/132656",
+    "artist_names": "Taylor Swift",
+    "full_title": "The Story Of Us by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/7ac6d46869af9f6a334a588b050deeb4.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/7ac6d46869af9f6a334a588b050deeb4.1000x1000x1.jpg",
+    "id": 132656,
+    "instrumental": false,
+    "lyrics_owner_id": 134437,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1706867924,
+    "path": "/Taylor-swift-the-story-of-us-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 34,
+    "relationships_index_url": "https://genius.com/Taylor-swift-the-story-of-us-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7ac6d46869af9f6a334a588b050deeb4.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/7ac6d46869af9f6a334a588b050deeb4.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "concurrents": 2,
+     "hot": false,
+     "pageviews": 406189
+    },
+    "title": "The Story Of Us",
+    "title_with_featured": "The Story Of Us",
+    "updated_by_human_at": 1712894141,
+    "url": "https://genius.com/Taylor-swift-the-story-of-us-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nI used to think, one day, we'd tell the story of us\nHow we met and the sparks flew instantly\nAnd people would say, \"They're the lucky ones\"\nI used to know my place was the spot next to you\nNow, I'm searching the room for an empty seat\n'Cause lately, I don't even know what page you're on\n\n[Pre-Chorus]\nOh, a simple complication\nMiscommunications lead to fallout\nSo many things that I wish you knew\nSo many walls up, I can't break through\n\n[Chorus]\nNow, I'm standin' alone in a crowded room\nAnd we're not speakin'\nAnd I'm dyin' to know\nIs it killin' you like it's killin' me? Yeah\nI don't know what to say since the twist of fate\nWhen it all broke down\nAnd the story of us looks a lot like a tragedy now\n\n[Post-Chorus]\nNext chapter\n\n[Verse 2]\nHow'd we end up this way?\nSee me nervously pulling at my clothes and trying to look busy\nAnd you're doin' your best to avoid me\nI'm starting to think, one day, I'll tell the story of us\nHow I was losing my mind when I saw you here\nBut you held your pride like you should've held me\n\n[Pre-Chorus]\nOh, I'm scared to see the ending\nWhy are we pretending this is nothin'?\nI'd tell you I miss you, but I don't know how\nI've never heard silence quite this loud\n\n[Chorus]\nNow, I'm standin' alone in a crowded room\nAnd we're not speakin'\nAnd I'm dyin' to know\nIs it killin' you like it's killin' me? Yeah\nI don't know what to say since the twist of fate\nWhen it all broke down\nAnd the story of us looks a lot like a tragedy now\n\n[Bridge]\nThis is lookin' like a contest\nOf who can act like they care less\nBut I liked it better when you were on my side\nThe battle's in your hands now\nBut I would lay my armor down\nIf you said you'd rather love than fight\n\n[Pre-Chorus]\nSo many things that you wish I knew\nBut the story of us might be ending soon\n\n[Chorus]\nNow, I'm standin' alone in a crowded room\nAnd we're not speakin'\nAnd I'm dyin' to know\nIs it killin' you like it's killin' me? Yeah\nAnd I don't know what to say since the twist of fate\nWhen it all broke down\nAnd the story of us looks a lot like a tragedy now, now, now\nAnd we're not speakin'\nAnd I'm dyin' to know\nIs it killin' you like it's killin' me? Yeah\nI don't know what to say since the twist of fate\n'Cause we're going down\nAnd the story of us looks a lot like a tragedy now\n\n[Outro]\nThe end"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/132659",
+    "artist_names": "Taylor Swift",
+    "full_title": "Never Grow Up by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "id": 132659,
+    "instrumental": false,
+    "lyrics_owner_id": 134437,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728231898,
+    "path": "/Taylor-swift-never-grow-up-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 25,
+    "relationships_index_url": "https://genius.com/Taylor-swift-never-grow-up-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 229953
+    },
+    "title": "Never Grow Up",
+    "title_with_featured": "Never Grow Up",
+    "updated_by_human_at": 1733888320,
+    "url": "https://genius.com/Taylor-swift-never-grow-up-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nYour little hand's wrapped around my finger\nAnd it's so quiet in the world tonight\nYour little eyelids flutter 'cause you're dreaming\nSo I tuck you in, turn on your favourite nightlight\n\n[Pre-Chorus]\nTo you, everything's funny\nYou got nothing to regret\nI'd give all I have, honey\nIf you could stay like that\n\n[Chorus]\nOh, darling, don't you ever grow up\nDon't you ever grow up, just stay this little\nOh, darling, don't you ever grow up\nDon't you ever grow up, it could stay this simple\nI won't let nobody hurt you\nWon't let no one break your heart\nAnd no one will desert you\nJust try to never grow up\n\n[Post-Chorus]\nNever grow up\n\n[Verse 2]\nYou're in the car, on the way to the movies\nAnd you're mortified your mom's dropping you off\nAt fourteen, there's just so much you can't do\nAnd you can't wait to move out someday and call your own shots\n\n[Pre-Chorus]\nBut don't make her drop you off around the block\nRemember that she's gettin' older, too\nAnd don't lose the way that you dance around\nIn your PJs getting ready for school\n\n[Chorus]\nOh, darling, don't you ever grow up\nDon't you ever grow up, just stay this little\nOh, darling, don't you ever grow up\nDon't you ever grow up, it could stay this simple\nNo one's ever burned you\nNothing's ever left you scarred\nAnd even though you want to\nJust try to never grow up\n\n[Bridge]\nTake pictures in your mind of your childhood room\nMemorize what it sounded like when your dad gets home\nRemember the footsteps, remember the words said\nAnd all your little brother's favorite songs\nI just realized everything I have is, someday, gonna be gone\n\n[Verse 3]\nSo, here I am in my new apartment\nIn a big city, they just dropped me off\nIt's so much colder than I thought it would be\nSo I tuck myself in and turn my nightlight on\n\n[Chorus]\nWish I'd never grown up\nI wish I'd never grown up\nOh, I don't wanna grow up\nWish I'd never grown up, I could still be little\nOh, I don't wanna grow up\nWish I'd never grown up, it could still be simple\nOh, darling, don't you ever grow up\nDon't you ever grow up, just stay this little\nOh, darlin', don't you ever grow up\nDon't you ever grow up, it could stay this simple\nI won't let nobody hurt you (Never grow up)\nWon't let no one break your heart\nAnd even though you want to\nPlease, try to never grow up\n\n[Outro]\nOh, oh (Never grow up)\nDon't you ever grow up\nOh (Never grow up)\nJust never grow up"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/61663",
+    "artist_names": "Taylor Swift",
+    "full_title": "Enchanted by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "id": 61663,
+    "instrumental": false,
+    "lyrics_owner_id": 23695,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1726577254,
+    "path": "/Taylor-swift-enchanted-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 69,
+    "relationships_index_url": "https://genius.com/Taylor-swift-enchanted-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 965102
+    },
+    "title": "Enchanted",
+    "title_with_featured": "Enchanted",
+    "updated_by_human_at": 1733888155,
+    "url": "https://genius.com/Taylor-swift-enchanted-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nThere I was again tonight\nForcing laughter, faking smiles\nSame old tired, lonely place\nWalls of insincerity\nShifting eyes and vacancy\nVanished when I saw your face\nAll I can say is it was enchanting to meet you\n\n[Verse 2]\nYour eyes whispered, \"Have we met?\"\nAcross the room, your silhouette\nStarts to make its way to me\nThe playful conversation starts\nCounter all your quick remarks\nLike passing notes in secrecy\nAnd it was enchanting to meet you\nAll I can say is I was enchanted to meet you\n\n[Chorus]\nThis night is sparklin', don't you let it go\nI'm wonderstruck, blushin' all the way home\nI'll spend forever wonderin' if you knew\nI was enchanted to meet you\n\n[Verse 3]\nThe lingering question kept me up\n2AM, who do you love?\nI wonder 'til I'm wide awake\nAnd now, I'm pacing back and forth\nWishing you were at my door\nI'd open up and you would say\n\"Hey, it was enchanting to meet you\"\nAll I know is I was enchanted to meet you\n\n[Chorus]\nThis night is sparklin', don't you let it go\nI'm wonderstruck, blushin' all the way home\nI'll spend forever wonderin' if you knew\nThis night is flawless, don't you let it go\nI'm wonderstruck, dancing around all alone\nI'll spend forever wonderin' if you knew\nI was enchanted to meet you\n\n[Bridge]\nThis is me praying that\nThis was the very first page\nNot where the storyline ends\nMy thoughts will echo your name\nUntil I see you again\nThese are the words I held back\nAs I was leaving too soon\nI was enchanted to meet you\nPlease, don't be in love with someone else\nPlease, don't have somebody waiting on you\nPlease, don't be in love with someone else (Ooh)\nPlease, don't have somebody waiting on you (Ooh, oh)\n\n[Chorus]\nThis night is sparklin', don't you let it go\nI'm wonderstruck, blushin' all the way home\nI'll spend forever wonderin' if you knew\nThis night is flawless (Please, don't be in love with someone else)\nDon't you let it go\nI'm wonderstruck (Please, don't have somebody waiting on you)\nDancing around all alone\nI'll spend forever (Please, don't be in love with someone else)\nWonderin' if you knew\nI was enchanted to meet you\n\n[Outro]\nPlease, don't be in love with someone else\nPlease, don't have somebody waiting on you"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/58813",
+    "artist_names": "Taylor Swift",
+    "full_title": "Better Than Revenge by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "id": 58813,
+    "instrumental": false,
+    "lyrics_owner_id": 45877,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728231878,
+    "path": "/Taylor-swift-better-than-revenge-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 30,
+    "relationships_index_url": "https://genius.com/Taylor-swift-better-than-revenge-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 372282
+    },
+    "title": "Better Than Revenge",
+    "title_with_featured": "Better Than Revenge",
+    "updated_by_human_at": 1733888299,
+    "url": "https://genius.com/Taylor-swift-better-than-revenge-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Intro]\nNow, go stand in the corner and think about what you did (Ha)\nHaha, time for a little revenge\n\n[Verse 1]\nThe story starts when it was hot and it was summer and\nI had it all, I had him right there where I wanted him\nShe came along, got him alone, and let's hear the applause\nShe took him faster than you can say \"Sabotage\"\nI never saw it coming, wouldn't have suspected it\nI underestimated just who I was dealing with\nShe had to know the pain was beating on me like a drum\nShe underestimated just who she was stealing from\n\n[Chorus]\nShe's not a saint and she's not what you think\nShe's an actress, woah\nShe's better known for the things that she does\nOn the mattress, woah\nSoon, she's gonna find stealing other people's toys\nOn the playground won't make you many friends\nShe should keep in mind, she should keep in mind\nThere is nothing I do better than revenge, ha\n\n[Verse 2]\nShe looks at life like it's a party and she's on the list\nShe looks at me like I'm a trend and she's so over it\nI think her ever-present frown is a little troubling and\nShe thinks I'm psycho 'cause I like to rhyme her name with things\nBut sophistication isn't what you wear or who you know\nOr pushing people down to get you where you wanna go\nOh, they didn't teach you that in prep school so it's up to me\nBut no amount of vintage dresses gives you dignity\n(Think about what you did)\n\n[Chorus]\nShe's not a saint and she's not what you think\nShe's an actress, woah\nShe's better known for the things that she does\nOn the mattress, woah\nSoon, she's gonna find stealing other people's toys\nOn the playground won't make you many friends\nShe should keep in mind, she should keep in mind\nThere is nothing I do better than revenge, ha\n\n[Bridge]\nI'm just another thing for you to roll your eyes at, honey\nYou might have him, but haven't you heard?\nI'm just another thing for you to roll your eyes at, honey\nYou might have him, but I always get the last word\nWoah, woah-ah-oh\n\n[Chorus]\nShe's not a saint and she's not what you think\nShe's an actress, woah (She deserved it)\nShe's better known for the things that she does\nOn the mattress, woah\nSoon, she's gonna find stealing other people's toys\nOn the playground won't make you many friends\nShe should keep in mind, she should keep in mind\nThere is nothing I do better than revenge\n\n[Outro]\nDo you still feel like you know what you're doing?\n'Cause I don't think you do, oh (No, no, no, no)\nDo you still feel like you know what you're doing? (No)\nI don't think you do, I don't think you do\nLet's hear the applause (Come on, come on)\nCome on, show me how much better you are\n(So much better, yeah?)\nSee, you deserve some applause\n'Cause you're so much better\nShe took him faster than you could say \"Sabotage\""
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/83166",
+    "artist_names": "Taylor Swift",
+    "full_title": "Innocent by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "id": 83166,
+    "instrumental": false,
+    "lyrics_owner_id": 124303,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1703559070,
+    "path": "/Taylor-swift-innocent-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 32,
+    "relationships_index_url": "https://genius.com/Taylor-swift-innocent-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 9,
+     "day": 12
+    },
+    "release_date_for_display": "September 12, 2010",
+    "release_date_with_abbreviated_month_for_display": "Sep. 12, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 281381
+    },
+    "title": "Innocent",
+    "title_with_featured": "Innocent",
+    "updated_by_human_at": 1733888281,
+    "url": "https://genius.com/Taylor-swift-innocent-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nI guess you really did it this time\nLeft yourself in your war path\nLost your balance on a tightrope\nLost your mind trying to get it back\n\n[Pre-Chorus]\nWasn't it easier in your lunchbox days?\nAlways a bigger bed to crawl into\nWasn't it beautiful when you believed in everything\nAnd everybody believed in you?\n\n[Chorus]\nIt's alright, just wait and see\nYour string of lights is still bright to me, oh\nWho you are is not where you've been\nYou're still an innocent\nYou're still an innocent\n\n[Verse 2]\nDid some things you can't speak of\nBut at night, you live it all again\nYou wouldn't be shattered on the floor now\nIf only you had seen what you know now then\n\n[Pre-Chorus]\nWasn't it easier in your firefly-catching days?\nWhen everything out of reach\nSomeone bigger brought down to you\nWasn't it beautiful running wild 'til you fell asleep\nBefore the monsters caught up to you?\n\n[Chorus]\nIt's alright, just wait and see\nYour string of lights is still bright to me, oh\nWho you are is not where you've been\nYou're still an innocent\nIt's okay, life is a tough crowd\nThirty-two and still growing up now\nWho you are is not what you did\nYou're still an innocent\n\n[Bridge]\nTime turns flames to embers\nYou'll have new Septembers\nEvery one of us has messed up, too, ooh\nMinds change like the weather\nI hope you remember\nToday is never too late to be brand new, oh\n\n[Chorus]\nIt's alright, just wait and see\nYour string of lights is still bright to me, oh\nWho you are is not where you've been\nYou're still an innocent\nIt's okay, life is a tough crowd\nThirty-two and still growing up now\nWho you are is not what you did\nYou're still an innocent\nYou're still an innocent\n\n[Outro]\nLost your balance on a tightrope, oh\nIt's never too late to get it back"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/52592",
+    "artist_names": "Taylor Swift",
+    "full_title": "Haunted by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "id": 52592,
+    "instrumental": false,
+    "lyrics_owner_id": 23117,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1733664682,
+    "path": "/Taylor-swift-haunted-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 46,
+    "relationships_index_url": "https://genius.com/Taylor-swift-haunted-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 241628
+    },
+    "title": "Haunted",
+    "title_with_featured": "Haunted",
+    "updated_by_human_at": 1733888258,
+    "url": "https://genius.com/Taylor-swift-haunted-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nYou and I walk a fragile line\nI have known it all this time\nBut I never thought I'd live to see it break\nIt's getting dark and it's all too quiet\nAnd I can't trust anything now\nAnd it's coming over you like it's all a big mistake\n\n[Pre-Chorus]\nWoah, holding my breath\nWon't lose you again\nSomething's made your eyes go cold\n\n[Chorus]\nCome on, come on, don't leave me like this\nI thought I had you figured out\nSomething's gone terribly wrong\nYou're all I wanted\nCome on, come on, don't leave me like this\nI thought I had you figured out\nCan't breathe whenever you're gone\nCan't turn back now, I'm haunted\n\n[Verse 2]\nStood there and watched you walk away\nFrom everything we had\nBut I still mean every word I said to you\nHe will try to take away my pain\nAnd he just might make me smile\nBut the whole time, I'm wishing he was you instead\n\n[Pre-Chorus]\nOh, holding my breath\nWon't see you again\nSomething keeps me holding onto nothing\n\n[Chorus]\nCome on, come on, don't leave me like this\nI thought I had you figured out\nSomething's gone terribly wrong\nYou're all I wanted\nCome on, come on, don't leave me like this\nI thought I had you figured out\nCan't breathe whenever you're gone\nCan't turn back now, I'm haunted\n\n[Bridge]\nI know, I know\nI just know\nYou're not gone\nYou can't be gone, no\n\n[Chorus]\nCome on, come on, don't leave me like this\nI thought I had you figured out\nSomething's gone terribly wrong\nWon't finish what you started\nCome on, come on, don't leave me like this\nI thought I had you figured out\nCan't breathe whenever you're gone\nI can't go back, I'm haunted\n\n[Outro]\nOh-oh, oh-oh, oh-oh, oh\nYou and I walk a fragile line\nI have known it all this time\nNever ever thought I'd see it break\nNever thought I'd see it"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/132661",
+    "artist_names": "Taylor Swift",
+    "full_title": "Last Kiss by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "id": 132661,
+    "instrumental": false,
+    "lyrics_owner_id": 134437,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714500425,
+    "path": "/Taylor-swift-last-kiss-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 42,
+    "relationships_index_url": "https://genius.com/Taylor-swift-last-kiss-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 421913
+    },
+    "title": "Last Kiss",
+    "title_with_featured": "Last Kiss",
+    "updated_by_human_at": 1733888241,
+    "url": "https://genius.com/Taylor-swift-last-kiss-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nI still remember the look on your face\nLit through the darkness at 1:58\nThe words that you whispered for just us to know\nYou told me you loved me, so why did you go away?\nAway\n\n[Verse 2]\nI do recall now, the smell of the rain\nFresh on the pavement, I ran off the plane\nThat July ninth, the beat of your heart\nIt jumps through your shirt, I can still feel your arms\n\n[Pre-Chorus]\nBut now I'll go\nSit on the floor wearing your clothes\nAll that I know is I don't know\nHow to be something you miss\n\n[Chorus]\nI never thought we'd have a last kiss\nI never imagined we'd end like this\nYour name, forever the name on my lips\n\n[Verse 3]\nI do remember the swing of your step\nThe life of the party, you're showing off again\nAnd I'd roll my eyes and then you'd pull me in\nI'm not much for dancing, but for you, I did\nBecause I love your handshake, meeting my father\nI love how you walk with your hands in your pockets\nHow you'd kiss me when I was in the middle of saying something\nThere's not a day I don't miss those rude interruptions\n\n[Pre-Chorus]\nAnd I'll go\nSit on the floor wearing your clothes\nAll that I know is I don't know\nHow to be something you miss\n\n[Chorus]\nI never thought we'd have a last kiss\nI never imagined we'd end like this\nYour name, forever the name on my lips, ooh\n\n[Bridge]\nSo I'll watch your life in pictures like I used to watch you sleep\nAnd I feel you forget me like I used to feel you breathe\nAnd I'll keep up with our old friends just to ask them how you are\nHope it's nice where you are\n\n[Verse 4]\nAnd I hope the sun shines and it's a beautiful day\nAnd something reminds you you wish you had stayed\nYou can plan for a change in the weather and time\nBut I never planned on you changing your mind\n\n[Pre-Chorus]\nSo, I'll go\nSit on the floor wearing your clothes\nAll that I know is I don't know\nHow to be something you miss\n\n[Chorus]\nI never thought we'd have a last kiss\nI never imagined we'd end like this\nYour name, forever the name on my lips\n\n[Outro]\nJust like our last kiss\nForever the name on my lips\nForever the name on my lips\nJust like our last"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/132663",
+    "artist_names": "Taylor Swift",
+    "full_title": "Long Live by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "id": 132663,
+    "instrumental": false,
+    "lyrics_owner_id": 134437,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720856413,
+    "path": "/Taylor-swift-long-live-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 35,
+    "relationships_index_url": "https://genius.com/Taylor-swift-long-live-sample",
+    "release_date_components": {
+     "year": 2010,
+     "month": 10,
+     "day": 25
+    },
+    "release_date_for_display": "October 25, 2010",
+    "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 880986
+    },
+    "title": "Long Live",
+    "title_with_featured": "Long Live",
+    "updated_by_human_at": 1733888212,
+    "url": "https://genius.com/Taylor-swift-long-live-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nI said, \"Remember this moment\"\nIn the back of my mind\nThe time we stood with our shaking hands\nThe crowds in stands went wild\nWe were the kings and the queens\nAnd they read off our names\nThe night you danced like you knew our lives\nWould never be the same\nYou held your head like a hero\nOn a history book page\nIt was the end of a decade\nBut the start of an age\n\n[Chorus]\nLong live the walls we crashed through\nHow the kingdom lights shined just for me and you\nI was screaming, \"Long live all the magic we made\"\nAnd bring on all the pretenders\nOne day, we will be remembered\n\n[Verse 2]\nI said, \"Remember this feeling\"\nI pass the pictures around\nOf all the years that we stood there on the sidelines\nWishing for right now\nWe are the kings and the queens\nYou traded your baseball cap for a crown\nWhen they gave us our trophies\nAnd we held them up for our town\nAnd the cynics were outraged\nScreaming, \"This is absurd\"\n'Cause for a moment, a band of thieves\nIn ripped up jeans got to rule the world\n\n[Chorus]\nLong live the walls we crashed through\nHow the kingdom lights shined just for me and you\nI was screaming, \"Long live all the magic we made\"\nAnd bring on all the pretenders, I'm not afraid\nLong live all the mountains we moved\nI had the time of my life fighting dragons with you\nI was screaming, \"Long live that look on your face\"\nAnd bring on all the pretenders\nOne day, we will be remembered\n\n[Bridge]\nHold on to spinning around\nConfetti falls to the ground\nMay these memories break our fall\nWill you take a moment? Promise me this\nThat you'll stand by me forever\nBut if, God forbid, fate should step in\nAnd force us into a goodbye\nIf you have children some day\nWhen they point to the pictures\nPlease, tell 'em my name\nTell 'em how the crowds went wild\nTell 'em how I hope they shine\nLong live the walls we crashed through\nI had the time of my life with you\n\n[Chorus]\nLong, long live the walls we crashed through\nHow the kingdom lights shined just for me and you\nAnd I was screaming, \"Long live all the magic we made\"\nAnd bring on all the pretenders, I'm not afraid\nSinging, \"Long live all the mountains we moved\"\nI had the time of my life fighting dragons with you\nAnd long, long live that look on your face\nAnd bring on all the pretenders\nOne day, we will be remembered"
+   }
+  }
+ ]
+}

@@ -1,0 +1,436 @@
+
+## Getting Taylor Swifts songs from spotify
+
+
+```{python}
+import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
+import pandas as pd
+from spotipy.oauth2 import SpotifyOAuth
+import requests
+import time
+
+from openai_setting import (
+    own_id)
+from openai_setting import (
+    own_secret_id)
+
+from openai_setting import (genius_token)
+
+
+client_id = own_id
+client_secret = own_secret_id
+redirect_uri = "http://localhost:3000"
+
+sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(client_id, client_secret))
+
+# Example: Fetch artist info
+results = sp.search(q="Taylor Swift", type="artist", limit=1)
+print(results)
+
+
+
+```
+
+
+
+```{python}
+# Test authentication
+try:
+    results = sp.search(q="Taylor Swift", type="artist", limit=1)
+    print("Authentication successful!")
+except Exception as e:
+    print(f"Authentication failed: {e}")
+```
+
+```{python}
+# Extract Taylor Swift's artist ID
+artist_id = results['artists']['items'][0]['id']
+print(f"Taylor Swift's Artist ID: {artist_id}")
+
+```
+
+
+```{python}
+# Fetch Taylor Swift's albums
+albums = sp.artist_albums(artist_id, album_type="album", limit=50)
+
+# Extract album details
+album_data = []
+for album in albums['items']:
+    album_data.append({
+        'album_name': album['name'],
+        'release_date': album['release_date']
+    })
+
+
+df_albums = pd.DataFrame(album_data)
+
+df_albums['album_name'] = df_albums['album_name'].str.strip().str.lower()
+
+
+
+df_albums.to_csv("outputs/album_release.csv", index=False)
+
+```
+
+
+```{python}
+df_albums
+```
+
+```{python}
+# Initialize lists to store clean album names and IDs
+album_names = []
+clean_albums = []
+
+# Iterate through all albums
+for album in albums['items']:
+    album_name = album['name']
+    album_id = album['id']
+
+    # Check for duplicates and unwanted editions
+    if (
+        album_name[:3] not in album_names and  # Ensure unique album by first 3 characters
+        'remix' not in album_name.lower() and  # Exclude remixes
+        'karaoke' not in album_name.lower() and  # Exclude karaoke versions
+        'live' not in album_name.lower()  # Exclude live versions
+    ):
+        album_names.append(album_name[:3])  # Track unique names
+        clean_albums.append({"id": album_id, "name": album_name, "release_date": album['release_date']})
+
+# Convert clean albums to a DataFrame for easier viewing
+df_clean_albums = pd.DataFrame(clean_albums)
+
+
+
+# Display the cleaned album list
+df_clean_albums
+
+
+
+```
+
+```{python}
+
+
+token_url = "https://accounts.spotify.com/api/token"
+headers = {"Content-Type": "application/x-www-form-urlencoded"}
+data = {"grant_type": "client_credentials"}
+
+response = requests.post(token_url, headers=headers, data=data, auth=(client_id, client_secret))
+token_data = response.json()
+access_token = token_data['access_token']
+print(f"New Access Token: {access_token}")
+
+```
+
+```{python}
+
+# Your access token
+access_token = "BQCJ_g_rG5ay5aEO-xmnAasuKQI8665EEtvwruNSwD75stokqoS4JEJIe8AbargU-8hYWojbB8uwRTBGrF8WknvaZ1LsFcXSPpf0znV3xIlghvGS91s"
+
+# Set up headers with the access token
+headers = {
+    "Authorization": f"Bearer {access_token}"
+}
+```
+
+```{python}
+print(clean_albums)
+
+```
+
+```{python}
+
+
+
+# Add a short delay between API requests
+time.sleep(0.1)  # 100ms
+
+
+# Initialize a list to store track details
+album_tracks = []
+
+# Fetch tracks for each album
+for album in clean_albums:
+    album_id = album['id']
+    album_name = album['name']
+    release_date = album['release_date']
+    
+    # Get the tracks for the album
+    tracks_url = f"https://api.spotify.com/v1/albums/{album_id}/tracks"
+    response = requests.get(tracks_url, headers=headers)
+    tracks_data = response.json()
+    
+
+    # Extract track details
+    for track in tracks_data['items']:
+        track_id = track['id']
+
+
+        # Fetch detailed track information to get the popularity score
+        track_details_url = f"https://api.spotify.com/v1/tracks/{track_id}"
+        track_response = requests.get(track_details_url, headers=headers)
+        track_details = track_response.json()
+
+        # Extract details and add to the list
+        track_info = {
+            "album_name": album_name,
+            "album_release_date": release_date,
+            "track_name": track['name'],
+            "track_number": track['track_number'],
+            "track_id": track['id'],
+            "explicit": track['explicit'],
+            "duration_ms": track['duration_ms'],
+            "popularity": track_details.get('popularity', None),  # Correct way to fetch popularity
+        }
+        album_tracks.append(track_info)
+        time.sleep(0.1)  # Delay to avoid rate limits
+
+# Convert to DataFrame for easier viewing
+df_album_tracks2 = pd.DataFrame(album_tracks)
+
+
+```
+
+```{python}
+df_album_tracks2.to_csv("outputs/df_album_tracks2.csv", index=False)
+```
+
+
+
+```{python}
+taylor_tracks = pd.read_csv("outputs/df_album_tracks2.csv")
+spotify_data = pd.read_csv("outputs/spotify-data.csv")
+```
+
+```{python}
+
+taylor_tracks['album_name'] = taylor_tracks['album_name'].str.strip().str.lower()
+spotify_data['album_name'] = spotify_data['album_name'].str.strip().str.lower()
+
+taylor_tracks['track_name'] = taylor_tracks['track_name'].str.strip().str.lower()
+spotify_data['track_name'] = spotify_data['track_name'].str.strip().str.lower()
+
+```
+
+```{python}
+# Merge the two dataframes based on 'track_name'
+spotify_pop = spotify_data.merge(
+    taylor_tracks[['track_name', 'popularity']],  # Keep only 'track_name' and 'popularity' from taylor_tracks
+    on='track_name',
+    how='left'  # Keep all rows from spotify_data
+)
+
+spotify_pop
+```
+
+```{python}
+spotify_pop['album_name'].unique()
+```
+
+```{python}
+# Drop duplicates from spotify_pop
+spotify_pop_no_duplicates = spotify_pop.drop_duplicates()
+
+spotify_pop_no_duplicates=spotify_pop_no_duplicates.query("artist == 'Taylor Swift'")
+
+spotify_pop_no_duplicates = spotify_pop.drop_duplicates(subset=['track_name', 'album_name'])
+
+
+spotify_pop_no_duplicates.head(50)
+
+```
+
+## Music lyrics
+
+```{python}
+from lyricsgenius import Genius
+
+albums = spotify_pop_no_duplicates['album_name'].unique()  # Example: Extract unique album names from spotify_pop
+
+token = genius_token
+
+genius = Genius(access_token=token,timeout=13, sleep_time=0.6)
+
+# Initialize a dictionary to store lyrics
+track_lyrics = {}
+
+
+non_saved_albums = []
+for album in albums: 
+    album_genius = genius.search_album(album, 'Taylor Swift')
+    try: 
+        album_genius.save_lyrics()
+    except AttributeError:
+        non_saved_albums.append(album)
+
+```
+
+
+```{python}
+# Check the saved JSON files
+json_files = glob.glob("Lyrics_*.json")
+print(f"Saved JSON files: {json_files}")
+
+# Check albums that couldn't be saved
+print(f"Albums without lyrics: {non_saved_albums}")
+
+```
+
+
+
+```{python}
+# Drop rows with NaN in album_name
+spotify_pop_no_duplicates = spotify_pop_no_duplicates.dropna(subset=['album_name'])
+
+# Verify the result
+print(f"Remaining rows after dropping NaN albums: {len(spotify_pop_no_duplicates)}")
+
+```
+
+```{python}
+import glob
+import json
+import re
+import string
+import nltk
+from nltk.corpus import stopwords
+```
+
+
+### cleaning lyrics
+
+```{python}
+
+
+# Initialize the dictionary for cleaned lyrics
+cleaned_lyrics_dict = {}
+
+# Process each JSON file
+for file in glob.glob("Lyrics_*.json"):
+    with open(file, 'r') as json_file:
+        data = json.load(json_file)
+        
+        # Extract lyrics for each track
+        for track in data['tracks']:
+            track_name = track['song']['title'].strip().lower()
+            raw_lyrics = track['song']['lyrics']
+            
+            # Clean the lyrics (remove custom stopwords like [Verse 1])
+            custom_stopwords = set(re.findall(r'\[([^]]*)\]', raw_lyrics))
+            cleaned_lyrics = ' '.join(
+                [word for word in re.sub(r'[^\w\s]', '', raw_lyrics).split() if word not in custom_stopwords]
+            )
+            
+            # Save cleaned lyrics to the dictionary
+            cleaned_lyrics_dict[track_name] = cleaned_lyrics
+
+# Debug: Check a few entries in the dictionary
+print("Sample cleaned lyrics:", list(cleaned_lyrics_dict.items())[:5])
+
+```
+
+```{python}
+spotify_pop_no_duplicates.query("album_name == 'midnights'")
+```
+
+
+```{python}
+spotify_pop_no_duplicates["album_name"].unique()
+```
+
+
+```{python}
+
+def text_process(lyrics, custom_stopwords):
+    """
+    Cleans the lyrics by removing custom stopwords and punctuation.
+    """
+    # Remove custom stopwords (like [Verse 1], [Chorus])
+    no_custom_stopwords = re.sub(r"\[.*?\]", "", lyrics)
+    
+    # Remove excessive whitespace
+    no_whitespace = " ".join(no_custom_stopwords.split())
+    
+    return no_whitespace
+
+```
+
+```{python}
+# Initialize the dictionary for cleaned lyrics
+cleaned_lyrics_dict = {}
+
+# Process each JSON file
+for file in glob.glob("Lyrics_*.json"):
+    with open(file, 'r') as json_file:
+        data = json.load(json_file)
+        
+        for track in data['tracks']:
+            track_name = track['song']['title'].strip().lower()
+            raw_lyrics = track['song']['lyrics']
+            
+            # Extract custom stopwords (like [Verse 1], [Chorus])
+            custom_stopwords = set(re.findall(r"\[([^]]*)\]", raw_lyrics))
+            
+            # Clean the lyrics
+            cleaned_lyrics = text_process(raw_lyrics, custom_stopwords)
+            
+            # Save cleaned lyrics to the dictionary
+            cleaned_lyrics_dict[track_name] = cleaned_lyrics
+
+# Debug: Check cleaned lyrics
+print("Sample cleaned lyrics:", list(cleaned_lyrics_dict.items())[:5])
+
+```
+
+```{python}
+# Print a sample of the cleaned_lyrics_dict keys
+print("Keys in cleaned_lyrics_dict:", list(cleaned_lyrics_dict.keys())[:10])
+
+
+```
+
+### matching lyrics to the tracks
+
+```{python}
+from fuzzywuzzy import process
+
+# Generate a mapping of spotify_pop track names to closest lyrics keys
+track_name_mapping = {}
+for track in spotify_pop_no_duplicates['track_name']:
+    closest_match, score = process.extractOne(track, cleaned_lyrics_dict.keys())
+    track_name_mapping[track] = (closest_match, score)
+
+# Display the mapping and similarity scores
+print("Track Name Mapping:")
+for track, (match, score) in track_name_mapping.items():
+    print(f"Spotify Track: {track} -> Closest Match: {match}, Score: {score}")
+
+```
+
+
+```{python}
+
+
+# Map normalized track names to cleaned lyrics
+spotify_pop_no_duplicates['cleaned_lyrics'] = spotify_pop_no_duplicates['track_name'].map(normalized_lyrics_dict)
+
+
+
+
+spotify_pop_no_duplicates.query("album_name=='midnights'")
+```
+
+### Saving it to a dataframe
+```{python}
+
+spotify_pop_no_duplicates.to_csv("outputs/taylor_tracks_lyrics.csv", index=False, quoting=1)
+
+```
+
+
+
+
+

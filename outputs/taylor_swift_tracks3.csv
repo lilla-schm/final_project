@@ -1,0 +1,549 @@
+album_name,album_release,track_name,track_number,single_release,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_ms,key_name,mode_name,key_mode,popularity
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Fortnight (feat. Post Malone),1,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,The Tortured Poets Department,2,2024-04-19,True,,,,,,,,,,,,,,C,Minor,C Minor,72
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,My Boy Only Breaks His Favorite Toys,3,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Down Bad,4,2024-04-19,True,,,,,,,,,,,,,,C,Minor,C Minor,74
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,"So Long, London",5,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,But Daddy I Love Him,6,2024-04-19,True,,,,,,,,,,,,,,C,Minor,C Minor,73
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Fresh Out The Slammer,7,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Florida!!! (feat. Florence + The Machine),8,2024-04-19,True,,,,,,,,,,,,,,C,Minor,C Minor,71
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Guilty as Sin?,9,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,75
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Who’s Afraid of Little Old Me?,10,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,I Can Fix Him (No Really I Can),11,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,loml,12,2024-04-19,True,,,,,,,,,,,,,,C,Minor,C Minor,73
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,I Can Do It With a Broken Heart,13,2024-04-19,True,,,,,,,,,,,,,,C,Minor,C Minor,74
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,The Smallest Man Who Ever Lived,14,2024-04-19,True,,,,,,,,,,,,,,C,Minor,C Minor,73
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,The Alchemy,15,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Clara Bow,16,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,The Black Dog,17,2024-04-19,True,,,,,,,,,,,,,,C,Minor,C Minor,73
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,imgonnagetyouback,18,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,The Albatross,19,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Chloe or Sam or Sophia or Marcus,20,2024-04-19,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+THE TORTURED POETS DEPARTMENT,2024-04-18,Fortnight (feat. Post Malone),1,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,84
+THE TORTURED POETS DEPARTMENT,2024-04-18,The Tortured Poets Department,2,2024-04-18,True,,,,,,,,,,,,,,C,Minor,C Minor,68
+THE TORTURED POETS DEPARTMENT,2024-04-18,My Boy Only Breaks His Favorite Toys,3,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,70
+THE TORTURED POETS DEPARTMENT,2024-04-18,Down Bad,4,2024-04-18,True,,,,,,,,,,,,,,C,Minor,C Minor,74
+THE TORTURED POETS DEPARTMENT,2024-04-18,"So Long, London",5,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,70
+THE TORTURED POETS DEPARTMENT,2024-04-18,But Daddy I Love Him,6,2024-04-18,True,,,,,,,,,,,,,,C,Minor,C Minor,70
+THE TORTURED POETS DEPARTMENT,2024-04-18,Fresh Out The Slammer,7,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+THE TORTURED POETS DEPARTMENT,2024-04-18,Florida!!! (feat. Florence + The Machine),8,2024-04-18,True,,,,,,,,,,,,,,C,Minor,C Minor,70
+THE TORTURED POETS DEPARTMENT,2024-04-18,Guilty as Sin?,9,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,75
+THE TORTURED POETS DEPARTMENT,2024-04-18,Who’s Afraid of Little Old Me?,10,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+THE TORTURED POETS DEPARTMENT,2024-04-18,I Can Fix Him (No Really I Can),11,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+THE TORTURED POETS DEPARTMENT,2024-04-18,loml,12,2024-04-18,True,,,,,,,,,,,,,,C,Minor,C Minor,69
+THE TORTURED POETS DEPARTMENT,2024-04-18,I Can Do It With a Broken Heart,13,2024-04-18,True,,,,,,,,,,,,,,C,Minor,C Minor,81
+THE TORTURED POETS DEPARTMENT,2024-04-18,The Smallest Man Who Ever Lived,14,2024-04-18,True,,,,,,,,,,,,,,C,Minor,C Minor,69
+THE TORTURED POETS DEPARTMENT,2024-04-18,The Alchemy,15,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,67
+THE TORTURED POETS DEPARTMENT,2024-04-18,Clara Bow,16,2024-04-18,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+1989 (Taylor's Version) [Deluxe],2023-10-27,Welcome To New York (Taylor's Version),1,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+1989 (Taylor's Version) [Deluxe],2023-10-27,Blank Space (Taylor's Version),2,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+1989 (Taylor's Version) [Deluxe],2023-10-27,Style (Taylor's Version),3,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+1989 (Taylor's Version) [Deluxe],2023-10-27,Out Of The Woods (Taylor's Version),4,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+1989 (Taylor's Version) [Deluxe],2023-10-27,All You Had To Do Was Stay (Taylor's Version),5,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+1989 (Taylor's Version) [Deluxe],2023-10-27,Shake It Off (Taylor's Version),6,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+1989 (Taylor's Version) [Deluxe],2023-10-27,I Wish You Would (Taylor's Version),7,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+1989 (Taylor's Version) [Deluxe],2023-10-27,Bad Blood (Taylor's Version),8,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+1989 (Taylor's Version) [Deluxe],2023-10-27,Wildest Dreams (Taylor's Version),9,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+1989 (Taylor's Version) [Deluxe],2023-10-27,How You Get The Girl (Taylor's Version),10,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+1989 (Taylor's Version) [Deluxe],2023-10-27,This Love (Taylor’s Version),11,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+1989 (Taylor's Version) [Deluxe],2023-10-27,I Know Places (Taylor's Version),12,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+1989 (Taylor's Version) [Deluxe],2023-10-27,Clean (Taylor's Version),13,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+1989 (Taylor's Version) [Deluxe],2023-10-27,Wonderland (Taylor's Version),14,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+1989 (Taylor's Version) [Deluxe],2023-10-27,You Are In Love (Taylor's Version),15,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+1989 (Taylor's Version) [Deluxe],2023-10-27,New Romantics (Taylor's Version),16,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+1989 (Taylor's Version) [Deluxe],2023-10-27,"""Slut!"" (Taylor's Version) (From The Vault)",17,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+1989 (Taylor's Version) [Deluxe],2023-10-27,Say Don't Go (Taylor's Version) (From The Vault),18,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+1989 (Taylor's Version) [Deluxe],2023-10-27,Now That We Don't Talk (Taylor's Version) (From The Vault),19,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+1989 (Taylor's Version) [Deluxe],2023-10-27,Suburban Legends (Taylor's Version) (From The Vault),20,2023-10-27,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+1989 (Taylor's Version),2023-10-26,Welcome To New York (Taylor's Version),1,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,67
+1989 (Taylor's Version),2023-10-26,Blank Space (Taylor's Version),2,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,75
+1989 (Taylor's Version),2023-10-26,Style (Taylor's Version),3,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,75
+1989 (Taylor's Version),2023-10-26,Out Of The Woods (Taylor's Version),4,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,70
+1989 (Taylor's Version),2023-10-26,All You Had To Do Was Stay (Taylor's Version),5,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+1989 (Taylor's Version),2023-10-26,Shake It Off (Taylor's Version),6,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+1989 (Taylor's Version),2023-10-26,I Wish You Would (Taylor's Version),7,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+1989 (Taylor's Version),2023-10-26,Bad Blood (Taylor's Version),8,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+1989 (Taylor's Version),2023-10-26,Wildest Dreams (Taylor's Version),9,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+1989 (Taylor's Version),2023-10-26,How You Get The Girl (Taylor's Version),10,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+1989 (Taylor's Version),2023-10-26,This Love (Taylor’s Version),11,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+1989 (Taylor's Version),2023-10-26,I Know Places (Taylor's Version),12,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+1989 (Taylor's Version),2023-10-26,Clean (Taylor's Version),13,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+1989 (Taylor's Version),2023-10-26,Wonderland (Taylor's Version),14,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+1989 (Taylor's Version),2023-10-26,You Are In Love (Taylor's Version),15,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,67
+1989 (Taylor's Version),2023-10-26,New Romantics (Taylor's Version),16,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,70
+1989 (Taylor's Version),2023-10-26,"""Slut!"" (Taylor's Version) (From The Vault)",17,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+1989 (Taylor's Version),2023-10-26,Say Don't Go (Taylor's Version) (From The Vault),18,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,70
+1989 (Taylor's Version),2023-10-26,Now That We Don't Talk (Taylor's Version) (From The Vault),19,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+1989 (Taylor's Version),2023-10-26,Suburban Legends (Taylor's Version) (From The Vault),20,2023-10-26,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+Speak Now (Taylor's Version),2023-07-07,Mine (Taylor's Version),1,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+Speak Now (Taylor's Version),2023-07-07,Sparks Fly (Taylor’s Version),2,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+Speak Now (Taylor's Version),2023-07-07,Back To December (Taylor's Version),3,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,72
+Speak Now (Taylor's Version),2023-07-07,Speak Now (Taylor's Version),4,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+Speak Now (Taylor's Version),2023-07-07,Dear John (Taylor's Version),5,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+Speak Now (Taylor's Version),2023-07-07,Mean (Taylor's Version),6,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+Speak Now (Taylor's Version),2023-07-07,The Story Of Us (Taylor's Version),7,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+Speak Now (Taylor's Version),2023-07-07,Never Grow Up (Taylor's Version),8,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Speak Now (Taylor's Version),2023-07-07,Enchanted (Taylor's Version),9,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,76
+Speak Now (Taylor's Version),2023-07-07,Better Than Revenge (Taylor's Version),10,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+Speak Now (Taylor's Version),2023-07-07,Innocent (Taylor's Version),11,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Speak Now (Taylor's Version),2023-07-07,Haunted (Taylor's Version),12,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+Speak Now (Taylor's Version),2023-07-07,Last Kiss (Taylor's Version),13,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,67
+Speak Now (Taylor's Version),2023-07-07,Long Live (Taylor's Version),14,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+Speak Now (Taylor's Version),2023-07-07,Ours (Taylor’s Version),15,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+Speak Now (Taylor's Version),2023-07-07,Superman (Taylor’s Version),16,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Speak Now (Taylor's Version),2023-07-07,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),17,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+Speak Now (Taylor's Version),2023-07-07,When Emma Falls in Love (Taylor’s Version) (From The Vault),18,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Speak Now (Taylor's Version),2023-07-07,I Can See You (Taylor’s Version) (From The Vault),19,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+Speak Now (Taylor's Version),2023-07-07,Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),20,2023-07-07,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+Midnights (The Til Dawn Edition),2023-05-26,Lavender Haze,1,2023-05-26,True,,,,,,,,,,,,,,C,Minor,C Minor,62
+Midnights (The Til Dawn Edition),2023-05-26,Maroon,2,2023-05-26,True,,,,,,,,,,,,,,C,Minor,C Minor,62
+Midnights (The Til Dawn Edition),2023-05-26,Anti-Hero,3,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+Midnights (The Til Dawn Edition),2023-05-26,Snow On The Beach (feat. Lana Del Rey),4,2023-05-26,True,,,,,,,,,,,,,,C,Minor,C Minor,59
+Midnights (The Til Dawn Edition),2023-05-26,"You're On Your Own, Kid",5,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+Midnights (The Til Dawn Edition),2023-05-26,Midnight Rain,6,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Midnights (The Til Dawn Edition),2023-05-26,Question...?,7,2023-05-26,True,,,,,,,,,,,,,,C,Minor,C Minor,59
+Midnights (The Til Dawn Edition),2023-05-26,Vigilante Shit,8,2023-05-26,True,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (The Til Dawn Edition),2023-05-26,Bejeweled,9,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Midnights (The Til Dawn Edition),2023-05-26,Labyrinth,10,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Midnights (The Til Dawn Edition),2023-05-26,Karma,11,2023-05-26,True,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (The Til Dawn Edition),2023-05-26,Sweet Nothing,12,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Midnights (The Til Dawn Edition),2023-05-26,Mastermind,13,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (The Til Dawn Edition),2023-05-26,The Great War,14,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (The Til Dawn Edition),2023-05-26,Bigger Than The Whole Sky,15,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+Midnights (The Til Dawn Edition),2023-05-26,Paris,16,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+Midnights (The Til Dawn Edition),2023-05-26,High Infidelity,17,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+Midnights (The Til Dawn Edition),2023-05-26,Glitch,18,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+Midnights (The Til Dawn Edition),2023-05-26,"Would've, Could've, Should've",19,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (The Til Dawn Edition),2023-05-26,Dear Reader,20,2023-05-26,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+Midnights (3am Edition),2022-10-22,Lavender Haze,1,2022-10-22,True,,,,,,,,,,,,,,C,Minor,C Minor,59
+Midnights (3am Edition),2022-10-22,Maroon,2,2022-10-22,True,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (3am Edition),2022-10-22,Anti-Hero,3,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Midnights (3am Edition),2022-10-22,Snow On The Beach (feat. Lana Del Rey),4,2022-10-22,True,,,,,,,,,,,,,,C,Minor,C Minor,58
+Midnights (3am Edition),2022-10-22,"You're On Your Own, Kid",5,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (3am Edition),2022-10-22,Midnight Rain,6,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Midnights (3am Edition),2022-10-22,Question...?,7,2022-10-22,True,,,,,,,,,,,,,,C,Minor,C Minor,56
+Midnights (3am Edition),2022-10-22,Vigilante Shit,8,2022-10-22,True,,,,,,,,,,,,,,C,Minor,C Minor,58
+Midnights (3am Edition),2022-10-22,Bejeweled,9,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (3am Edition),2022-10-22,Labyrinth,10,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+Midnights (3am Edition),2022-10-22,Karma,11,2022-10-22,True,,,,,,,,,,,,,,C,Minor,C Minor,61
+Midnights (3am Edition),2022-10-22,Sweet Nothing,12,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+Midnights (3am Edition),2022-10-22,Mastermind,13,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Midnights (3am Edition),2022-10-22,The Great War,14,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+Midnights (3am Edition),2022-10-22,Bigger Than The Whole Sky,15,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+Midnights (3am Edition),2022-10-22,Paris,16,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+Midnights (3am Edition),2022-10-22,High Infidelity,17,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Midnights (3am Edition),2022-10-22,Glitch,18,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Midnights (3am Edition),2022-10-22,"Would've, Could've, Should've",19,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+Midnights (3am Edition),2022-10-22,Dear Reader,20,2022-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Midnights,2022-10-21,Lavender Haze,1,2022-10-21,True,,,,,,,,,,,,,,C,Minor,C Minor,73
+Midnights,2022-10-21,Maroon,2,2022-10-21,True,,,,,,,,,,,,,,C,Minor,C Minor,70
+Midnights,2022-10-21,Anti-Hero,3,2022-10-21,False,,,,,,,,,,,,,,C,Minor,C Minor,81
+Midnights,2022-10-21,Snow On The Beach (feat. Lana Del Rey),4,2022-10-21,True,,,,,,,,,,,,,,C,Minor,C Minor,67
+Midnights,2022-10-21,"You're On Your Own, Kid",5,2022-10-21,False,,,,,,,,,,,,,,C,Minor,C Minor,76
+Midnights,2022-10-21,Midnight Rain,6,2022-10-21,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+Midnights,2022-10-21,Question...?,7,2022-10-21,True,,,,,,,,,,,,,,C,Minor,C Minor,64
+Midnights,2022-10-21,Vigilante Shit,8,2022-10-21,True,,,,,,,,,,,,,,C,Minor,C Minor,70
+Midnights,2022-10-21,Bejeweled,9,2022-10-21,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+Midnights,2022-10-21,Labyrinth,10,2022-10-21,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+Midnights,2022-10-21,Karma,11,2022-10-21,True,,,,,,,,,,,,,,C,Minor,C Minor,75
+Midnights,2022-10-21,Sweet Nothing,12,2022-10-21,False,,,,,,,,,,,,,,C,Minor,C Minor,67
+Midnights,2022-10-21,Mastermind,13,2022-10-21,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+Red (Taylor's Version),2021-11-12,State Of Grace (Taylor's Version),1,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Red (Taylor's Version),2021-11-12,Red (Taylor's Version),2,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+Red (Taylor's Version),2021-11-12,Treacherous (Taylor's Version),3,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Red (Taylor's Version),2021-11-12,I Knew You Were Trouble (Taylor's Version),4,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+Red (Taylor's Version),2021-11-12,All Too Well (Taylor's Version),5,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+Red (Taylor's Version),2021-11-12,22 (Taylor's Version),6,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+Red (Taylor's Version),2021-11-12,I Almost Do (Taylor's Version),7,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+Red (Taylor's Version),2021-11-12,We Are Never Ever Getting Back Together (Taylor's Version),8,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,72
+Red (Taylor's Version),2021-11-12,Stay Stay Stay (Taylor's Version),9,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Red (Taylor's Version),2021-11-12,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),10,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+Red (Taylor's Version),2021-11-12,Holy Ground (Taylor's Version),11,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+Red (Taylor's Version),2021-11-12,Sad Beautiful Tragic (Taylor's Version),12,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Red (Taylor's Version),2021-11-12,The Lucky One (Taylor's Version),13,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Red (Taylor's Version),2021-11-12,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),14,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+Red (Taylor's Version),2021-11-12,Starlight (Taylor's Version),15,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Red (Taylor's Version),2021-11-12,Begin Again (Taylor's Version),16,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+Red (Taylor's Version),2021-11-12,The Moment I Knew (Taylor's Version),17,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Red (Taylor's Version),2021-11-12,Come Back...Be Here (Taylor's Version),18,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+Red (Taylor's Version),2021-11-12,Girl At Home (Taylor's Version),19,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Red (Taylor's Version),2021-11-12,State Of Grace (Acoustic Version) (Taylor's Version),20,2021-11-12,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Fearless (Taylor's Version),2021-04-09,Fearless (Taylor’s Version),1,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+Fearless (Taylor's Version),2021-04-09,Fifteen (Taylor’s Version),2,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Fearless (Taylor's Version),2021-04-09,Love Story (Taylor’s Version),3,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,75
+Fearless (Taylor's Version),2021-04-09,Hey Stephen (Taylor’s Version),4,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+Fearless (Taylor's Version),2021-04-09,White Horse (Taylor’s Version),5,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+Fearless (Taylor's Version),2021-04-09,You Belong With Me (Taylor’s Version),6,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,79
+Fearless (Taylor's Version),2021-04-09,Breathe (feat. Colbie Caillat) (Taylor’s Version),7,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Fearless (Taylor's Version),2021-04-09,Tell Me Why (Taylor’s Version),8,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+Fearless (Taylor's Version),2021-04-09,You’re Not Sorry (Taylor’s Version),9,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Fearless (Taylor's Version),2021-04-09,The Way I Loved You (Taylor’s Version),10,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+Fearless (Taylor's Version),2021-04-09,Forever & Always (Taylor’s Version),11,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+Fearless (Taylor's Version),2021-04-09,The Best Day (Taylor’s Version),12,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Fearless (Taylor's Version),2021-04-09,Change (Taylor’s Version),13,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+Fearless (Taylor's Version),2021-04-09,Jump Then Fall (Taylor’s Version),14,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Fearless (Taylor's Version),2021-04-09,Untouchable (Taylor’s Version),15,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Fearless (Taylor's Version),2021-04-09,Forever & Always (Piano Version) (Taylor’s Version),16,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+Fearless (Taylor's Version),2021-04-09,Come In With The Rain (Taylor’s Version),17,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,56
+Fearless (Taylor's Version),2021-04-09,Superstar (Taylor’s Version),18,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,56
+Fearless (Taylor's Version),2021-04-09,The Other Side Of The Door (Taylor’s Version),19,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Fearless (Taylor's Version),2021-04-09,Today Was A Fairytale (Taylor’s Version),20,2021-04-09,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+evermore (deluxe version),2021-01-07,willow,1,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+evermore (deluxe version),2021-01-07,champagne problems,2,2021-01-07,True,,,,,,,,,,,,,,C,Minor,C Minor,66
+evermore (deluxe version),2021-01-07,gold rush,3,2021-01-07,True,,,,,,,,,,,,,,C,Minor,C Minor,63
+evermore (deluxe version),2021-01-07,‘tis the damn season,4,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+evermore (deluxe version),2021-01-07,tolerate it,5,2021-01-07,True,,,,,,,,,,,,,,C,Minor,C Minor,64
+evermore (deluxe version),2021-01-07,"no body, no crime (feat. HAIM)",6,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+evermore (deluxe version),2021-01-07,happiness,7,2021-01-07,True,,,,,,,,,,,,,,C,Minor,C Minor,62
+evermore (deluxe version),2021-01-07,dorothea,8,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+evermore (deluxe version),2021-01-07,coney island (feat. The National),9,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+evermore (deluxe version),2021-01-07,ivy,10,2021-01-07,True,,,,,,,,,,,,,,C,Minor,C Minor,63
+evermore (deluxe version),2021-01-07,cowboy like me,11,2021-01-07,True,,,,,,,,,,,,,,C,Minor,C Minor,63
+evermore (deluxe version),2021-01-07,long story short,12,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+evermore (deluxe version),2021-01-07,marjorie,13,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+evermore (deluxe version),2021-01-07,closure,14,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+evermore (deluxe version),2021-01-07,evermore (feat. Bon Iver),15,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+evermore (deluxe version),2021-01-07,right where you left me - bonus track,16,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+evermore (deluxe version),2021-01-07,it’s time to go - bonus track,17,2021-01-07,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+evermore,2020-12-11,willow,1,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+evermore,2020-12-11,champagne problems,2,2020-12-11,True,,,,,,,,,,,,,,C,Minor,C Minor,75
+evermore,2020-12-11,gold rush,3,2020-12-11,True,,,,,,,,,,,,,,C,Minor,C Minor,65
+evermore,2020-12-11,‘tis the damn season,4,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,67
+evermore,2020-12-11,tolerate it,5,2020-12-11,True,,,,,,,,,,,,,,C,Minor,C Minor,70
+evermore,2020-12-11,"no body, no crime (feat. HAIM)",6,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+evermore,2020-12-11,happiness,7,2020-12-11,True,,,,,,,,,,,,,,C,Minor,C Minor,63
+evermore,2020-12-11,dorothea,8,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+evermore,2020-12-11,coney island (feat. The National),9,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+evermore,2020-12-11,ivy,10,2020-12-11,True,,,,,,,,,,,,,,C,Minor,C Minor,64
+evermore,2020-12-11,cowboy like me,11,2020-12-11,True,,,,,,,,,,,,,,C,Minor,C Minor,64
+evermore,2020-12-11,long story short,12,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+evermore,2020-12-11,marjorie,13,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+evermore,2020-12-11,closure,14,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+evermore,2020-12-11,evermore (feat. Bon Iver),15,2020-12-11,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,the 1,1,2020-11-25,True,,,,,,,,,,,,,,C,Minor,C Minor,45
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,cardigan,2,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,47
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,the last great american dynasty,3,2020-11-25,True,,,,,,,,,,,,,,C,Minor,C Minor,44
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,exile (feat. Bon Iver),4,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,46
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,my tears ricochet,5,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,45
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,mirrorball,6,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,seven,7,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,august,8,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,45
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,this is me trying,9,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,44
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,illicit affairs,10,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,invisible string,11,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,mad woman,12,2020-11-25,True,,,,,,,,,,,,,,C,Minor,C Minor,41
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,epiphany,13,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,betty,14,2020-11-25,True,,,,,,,,,,,,,,C,Minor,C Minor,42
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,peace,15,2020-11-25,True,,,,,,,,,,,,,,C,Minor,C Minor,41
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,hoax,16,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,the lakes - bonus track,17,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,42
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,the 1 - the long pond studio sessions,1,2020-11-25,True,,,,,,,,,,,,,,C,Minor,C Minor,51
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,cardigan - the long pond studio sessions,2,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,53
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,the last great american dynasty - the long pond studio sessions,3,2020-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+folklore (deluxe version),2020-08-18,the 1,1,2020-08-18,True,,,,,,,,,,,,,,C,Minor,C Minor,64
+folklore (deluxe version),2020-08-18,cardigan,2,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+folklore (deluxe version),2020-08-18,the last great american dynasty,3,2020-08-18,True,,,,,,,,,,,,,,C,Minor,C Minor,63
+folklore (deluxe version),2020-08-18,exile (feat. Bon Iver),4,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+folklore (deluxe version),2020-08-18,my tears ricochet,5,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,65
+folklore (deluxe version),2020-08-18,mirrorball,6,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+folklore (deluxe version),2020-08-18,seven,7,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+folklore (deluxe version),2020-08-18,august,8,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+folklore (deluxe version),2020-08-18,this is me trying,9,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+folklore (deluxe version),2020-08-18,illicit affairs,10,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+folklore (deluxe version),2020-08-18,invisible string,11,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+folklore (deluxe version),2020-08-18,mad woman,12,2020-08-18,True,,,,,,,,,,,,,,C,Minor,C Minor,61
+folklore (deluxe version),2020-08-18,epiphany,13,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+folklore (deluxe version),2020-08-18,betty,14,2020-08-18,True,,,,,,,,,,,,,,C,Minor,C Minor,61
+folklore (deluxe version),2020-08-18,peace,15,2020-08-18,True,,,,,,,,,,,,,,C,Minor,C Minor,60
+folklore (deluxe version),2020-08-18,hoax,16,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+folklore (deluxe version),2020-08-18,the lakes - bonus track,17,2020-08-18,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+folklore,2020-07-24,the 1,1,2020-07-24,True,,,,,,,,,,,,,,C,Minor,C Minor,73
+folklore,2020-07-24,cardigan,2,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,82
+folklore,2020-07-24,the last great american dynasty,3,2020-07-24,True,,,,,,,,,,,,,,C,Minor,C Minor,67
+folklore,2020-07-24,exile (feat. Bon Iver),4,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,76
+folklore,2020-07-24,my tears ricochet,5,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,78
+folklore,2020-07-24,mirrorball,6,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+folklore,2020-07-24,seven,7,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+folklore,2020-07-24,august,8,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,82
+folklore,2020-07-24,this is me trying,9,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,72
+folklore,2020-07-24,illicit affairs,10,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,74
+folklore,2020-07-24,invisible string,11,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+folklore,2020-07-24,mad woman,12,2020-07-24,True,,,,,,,,,,,,,,C,Minor,C Minor,63
+folklore,2020-07-24,epiphany,13,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+folklore,2020-07-24,betty,14,2020-07-24,True,,,,,,,,,,,,,,C,Minor,C Minor,69
+folklore,2020-07-24,peace,15,2020-07-24,True,,,,,,,,,,,,,,C,Minor,C Minor,64
+folklore,2020-07-24,hoax,16,2020-07-24,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Lover,2019-08-23,I Forgot That You Existed,1,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+Lover,2019-08-23,Cruel Summer,2,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,88
+Lover,2019-08-23,Lover,3,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,83
+Lover,2019-08-23,The Man,4,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,78
+Lover,2019-08-23,The Archer,5,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+Lover,2019-08-23,I Think He Knows,6,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+Lover,2019-08-23,Miss Americana & The Heartbreak Prince,7,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,75
+Lover,2019-08-23,Paper Rings,8,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,75
+Lover,2019-08-23,Cornelia Street,9,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+Lover,2019-08-23,Death By A Thousand Cuts,10,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+Lover,2019-08-23,London Boy,11,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,70
+Lover,2019-08-23,Soon You’ll Get Better (feat. The Chicks),12,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Lover,2019-08-23,False God,13,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+Lover,2019-08-23,You Need To Calm Down,14,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,76
+Lover,2019-08-23,Afterglow,15,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,72
+Lover,2019-08-23,ME! (feat. Brendon Urie of Panic! At The Disco),16,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,72
+Lover,2019-08-23,It’s Nice To Have A Friend,17,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+Lover,2019-08-23,Daylight,18,2019-08-23,False,,,,,,,,,,,,,,C,Minor,C Minor,76
+reputation,2017-11-10,...Ready For It?,1,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,78
+reputation,2017-11-10,End Game,2,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,71
+reputation,2017-11-10,I Did Something Bad,3,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+reputation,2017-11-10,Don’t Blame Me,4,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,82
+reputation,2017-11-10,Delicate,5,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,78
+reputation,2017-11-10,Look What You Made Me Do,6,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,78
+reputation,2017-11-10,So It Goes...,7,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,66
+reputation,2017-11-10,Gorgeous,8,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+reputation,2017-11-10,Getaway Car,9,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,76
+reputation,2017-11-10,King Of My Heart,10,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,70
+reputation,2017-11-10,Dancing With Our Hands Tied,11,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+reputation,2017-11-10,Dress,12,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+reputation,2017-11-10,This Is Why We Can't Have Nice Things,13,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,67
+reputation,2017-11-10,Call It What You Want,14,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,73
+reputation,2017-11-10,New Year’s Day,15,2017-11-10,False,,,,,,,,,,,,,,C,Minor,C Minor,70
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,All Too Well,1,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,33
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Wildest Dreams,2,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,The Best Day,3,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,26
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Red,4,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,30
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Holy Ground,5,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,26
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Teardrops On My Guitar - Radio Single Remix,6,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,28
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Our Song,7,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,32
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,22,8,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,33
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,I Knew You Were Trouble.,9,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,33
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,I Don’t Wanna Live Forever (Fifty Shades Darker),10,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,79
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Mean,11,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,29
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,How You Get The Girl,12,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,28
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,So It Goes...,13,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Fifteen,14,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,26
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Mine,15,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,34
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Sparks Fly,16,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,28
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,State Of Grace,17,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,25
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Haunted,18,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,27
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Never Grow Up,19,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,27
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,Treacherous,20,2017-11-09,False,,,,,,,,,,,,,,C,Minor,C Minor,23
+1989 (Deluxe),2014-01-01,Welcome To New York,1,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,45
+1989 (Deluxe),2014-01-01,Blank Space,2,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,79
+1989 (Deluxe),2014-01-01,Style,3,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,76
+1989 (Deluxe),2014-01-01,Out Of The Woods,4,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,56
+1989 (Deluxe),2014-01-01,All You Had To Do Was Stay,5,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,44
+1989 (Deluxe),2014-01-01,Shake It Off,6,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,78
+1989 (Deluxe),2014-01-01,I Wish You Would,7,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,48
+1989 (Deluxe),2014-01-01,Bad Blood,8,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,48
+1989 (Deluxe),2014-01-01,Wildest Dreams,9,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+1989 (Deluxe),2014-01-01,How You Get The Girl,10,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+1989 (Deluxe),2014-01-01,This Love,11,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,47
+1989 (Deluxe),2014-01-01,I Know Places,12,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,47
+1989 (Deluxe),2014-01-01,Clean,13,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+1989 (Deluxe),2014-01-01,Wonderland,14,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,51
+1989 (Deluxe),2014-01-01,You Are In Love,15,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+1989 (Deluxe),2014-01-01,New Romantics,16,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+1989 (Deluxe),2014-01-01,I Know Places - Voice Memo,17,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,0
+1989 (Deluxe),2014-01-01,I Wish You Would - Voice Memo,18,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,0
+1989 (Deluxe),2014-01-01,Blank Space - Voice Memo,19,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,0
+1989,2014-01-01,Welcome To New York,1,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,56
+1989,2014-01-01,Blank Space,2,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+1989,2014-01-01,Style,3,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,53
+1989,2014-01-01,Out Of The Woods,4,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,42
+1989,2014-01-01,All You Had To Do Was Stay,5,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+1989,2014-01-01,Shake It Off,6,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,50
+1989,2014-01-01,I Wish You Would,7,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+1989,2014-01-01,Bad Blood,8,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+1989,2014-01-01,Wildest Dreams,9,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,72
+1989,2014-01-01,How You Get The Girl,10,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,39
+1989,2014-01-01,This Love,11,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+1989,2014-01-01,I Know Places,12,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,39
+1989,2014-01-01,Clean,13,2014-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Red (Deluxe Edition),2012-10-22,State Of Grace,1,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+Red (Deluxe Edition),2012-10-22,Red,2,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,51
+Red (Deluxe Edition),2012-10-22,Treacherous,3,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Red (Deluxe Edition),2012-10-22,I Knew You Were Trouble.,4,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+Red (Deluxe Edition),2012-10-22,All Too Well,5,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,56
+Red (Deluxe Edition),2012-10-22,22,6,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,56
+Red (Deluxe Edition),2012-10-22,I Almost Do,7,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,39
+Red (Deluxe Edition),2012-10-22,We Are Never Ever Getting Back Together,8,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,55
+Red (Deluxe Edition),2012-10-22,Stay Stay Stay,9,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,45
+Red (Deluxe Edition),2012-10-22,The Last Time,10,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+Red (Deluxe Edition),2012-10-22,Holy Ground,11,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+Red (Deluxe Edition),2012-10-22,Sad Beautiful Tragic,12,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Red (Deluxe Edition),2012-10-22,The Lucky One,13,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Red (Deluxe Edition),2012-10-22,Everything Has Changed,14,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+Red (Deluxe Edition),2012-10-22,Starlight,15,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Red (Deluxe Edition),2012-10-22,Begin Again,16,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+Red (Deluxe Edition),2012-10-22,The Moment I Knew,17,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Red (Deluxe Edition),2012-10-22,Come Back...Be Here,18,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+Red (Deluxe Edition),2012-10-22,Girl At Home,19,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Red (Deluxe Edition),2012-10-22,Treacherous - Original Demo Recording,20,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,31
+Red,2012-10-22,State Of Grace,1,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Red,2012-10-22,Red,2,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,55
+Red,2012-10-22,Treacherous,3,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Red,2012-10-22,I Knew You Were Trouble.,4,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,58
+Red,2012-10-22,All Too Well,5,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,41
+Red,2012-10-22,22,6,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+Red,2012-10-22,I Almost Do,7,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Red,2012-10-22,We Are Never Ever Getting Back Together,8,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,56
+Red,2012-10-22,Stay Stay Stay,9,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Red,2012-10-22,The Last Time,10,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Red,2012-10-22,Holy Ground,11,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Red,2012-10-22,Sad Beautiful Tragic,12,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,33
+Red,2012-10-22,The Lucky One,13,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,34
+Red,2012-10-22,Everything Has Changed,14,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,48
+Red,2012-10-22,Starlight,15,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,34
+Red,2012-10-22,Begin Again,16,2012-10-22,False,,,,,,,,,,,,,,C,Minor,C Minor,54
+Speak Now World Tour Live,2010-10-25,Sparks Fly - Live/2011,1,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Speak Now World Tour Live,2010-10-25,Mine - Live/2011,2,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Speak Now World Tour Live,2010-10-25,The Story Of Us - Live,3,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Speak Now World Tour Live,2010-10-25,Mean - Live/2011,4,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Speak Now World Tour Live,2010-10-25,Ours - Live/2011,5,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Speak Now World Tour Live,2010-10-25,Back To December/Apologize/You're Not Sorry - Live/2011/Medley,6,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,44
+Speak Now World Tour Live,2010-10-25,Better Than Revenge - Live/2011,7,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Speak Now World Tour Live,2010-10-25,Speak Now - Live/2011,8,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Speak Now World Tour Live,2010-10-25,Last Kiss - Live/2011,9,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Speak Now World Tour Live,2010-10-25,Drops Of Jupiter - Live/2011,10,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,44
+Speak Now World Tour Live,2010-10-25,Bette Davis Eyes - Live/2011,11,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,39
+Speak Now World Tour Live,2010-10-25,I Want You Back - Live/2011,12,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Speak Now World Tour Live,2010-10-25,Dear John - Live/2011,13,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Speak Now World Tour Live,2010-10-25,Enchanted - Live/2011,14,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Speak Now World Tour Live,2010-10-25,Haunted - Live/2011,15,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Speak Now World Tour Live,2010-10-25,Long Live - Live/2011,16,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Speak Now,2010-10-25,Mine - POP Mix,1,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Speak Now,2010-10-25,Sparks Fly,2,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,50
+Speak Now,2010-10-25,Back To December,3,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,62
+Speak Now,2010-10-25,Speak Now,4,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,47
+Speak Now,2010-10-25,Dear John,5,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+Speak Now,2010-10-25,Mean,6,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+Speak Now,2010-10-25,The Story Of Us,7,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,46
+Speak Now,2010-10-25,Never Grow Up,8,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,46
+Speak Now,2010-10-25,Enchanted,9,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,68
+Speak Now,2010-10-25,Better Than Revenge,10,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,51
+Speak Now,2010-10-25,Innocent,11,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Speak Now,2010-10-25,Haunted,12,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,44
+Speak Now,2010-10-25,Last Kiss,13,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,48
+Speak Now,2010-10-25,Long Live,14,2010-10-25,False,,,,,,,,,,,,,,C,Minor,C Minor,48
+Speak Now (Deluxe Package),2010-01-01,Mine - POP Mix,1,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,39
+Speak Now (Deluxe Package),2010-01-01,Sparks Fly,2,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,47
+Speak Now (Deluxe Package),2010-01-01,Back To December,3,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Speak Now (Deluxe Package),2010-01-01,Speak Now,4,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+Speak Now (Deluxe Package),2010-01-01,Dear John,5,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+Speak Now (Deluxe Package),2010-01-01,Mean,6,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+Speak Now (Deluxe Package),2010-01-01,The Story Of Us,7,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Speak Now (Deluxe Package),2010-01-01,Never Grow Up,8,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,41
+Speak Now (Deluxe Package),2010-01-01,Enchanted,9,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,69
+Speak Now (Deluxe Package),2010-01-01,Better Than Revenge,10,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,50
+Speak Now (Deluxe Package),2010-01-01,Innocent,11,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Speak Now (Deluxe Package),2010-01-01,Haunted,12,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,42
+Speak Now (Deluxe Package),2010-01-01,Last Kiss,13,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+Speak Now (Deluxe Package),2010-01-01,Long Live,14,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+Speak Now (Deluxe Package),2010-01-01,Ours,15,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,44
+Speak Now (Deluxe Package),2010-01-01,If This Was A Movie,16,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,43
+Speak Now (Deluxe Package),2010-01-01,Superman,17,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Speak Now (Deluxe Package),2010-01-01,Back To December - Acoustic,18,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,47
+Speak Now (Deluxe Package),2010-01-01,Haunted - Acoustic Version,19,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,41
+Speak Now (Deluxe Package),2010-01-01,Mine,20,2010-01-01,False,,,,,,,,,,,,,,C,Minor,C Minor,54
+Fearless (Platinum Edition),2008-11-11,Jump Then Fall,1,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Fearless (Platinum Edition),2008-11-11,Untouchable,2,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+Fearless (Platinum Edition),2008-11-11,Forever & Always - Piano Version,3,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Fearless (Platinum Edition),2008-11-11,Come In With The Rain,4,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Fearless (Platinum Edition),2008-11-11,SuperStar,5,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,34
+Fearless (Platinum Edition),2008-11-11,The Other Side Of The Door,6,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Fearless (Platinum Edition),2008-11-11,Fearless,7,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,47
+Fearless (Platinum Edition),2008-11-11,Fifteen,8,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Fearless (Platinum Edition),2008-11-11,Love Story,9,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,54
+Fearless (Platinum Edition),2008-11-11,Hey Stephen,10,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+Fearless (Platinum Edition),2008-11-11,White Horse,11,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+Fearless (Platinum Edition),2008-11-11,You Belong With Me,12,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,55
+Fearless (Platinum Edition),2008-11-11,Breathe,13,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Fearless (Platinum Edition),2008-11-11,Tell Me Why,14,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Fearless (Platinum Edition),2008-11-11,You're Not Sorry,15,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,39
+Fearless (Platinum Edition),2008-11-11,The Way I Loved You,16,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,45
+Fearless (Platinum Edition),2008-11-11,Forever & Always,17,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+Fearless (Platinum Edition),2008-11-11,The Best Day,18,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Fearless (Platinum Edition),2008-11-11,Change,19,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Fearless,2008-11-11,Fearless,1,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,22
+Fearless,2008-11-11,Fifteen,2,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,18
+Fearless,2008-11-11,Love Story,3,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,29
+Fearless,2008-11-11,Hey Stephen,4,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,17
+Fearless,2008-11-11,White Horse,5,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,18
+Fearless,2008-11-11,You Belong With Me,6,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,28
+Fearless,2008-11-11,Breathe,7,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,16
+Fearless,2008-11-11,Tell Me Why,8,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,14
+Fearless,2008-11-11,You're Not Sorry,9,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,15
+Fearless,2008-11-11,The Way I Loved You,10,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,16
+Fearless,2008-11-11,Forever & Always,11,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,15
+Fearless,2008-11-11,The Best Day,12,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,13
+Fearless,2008-11-11,Change,13,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,13
+Fearless,2008-11-11,Our Song,14,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,19
+Fearless,2008-11-11,Teardrops On My Guitar,15,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,21
+Fearless,2008-11-11,Should've Said No,16,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,18
+Fearless,2008-11-11,Love Story - J Stax Radio Mix,17,2008-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,17
+Live From Clear Channel Stripped 2008,2008-06-28,Love Story - Live From Clear Channel Stripped 2008,1,2008-06-28,False,,,,,,,,,,,,,,C,Minor,C Minor,32
+Live From Clear Channel Stripped 2008,2008-06-28,Fearless - Live From Clear Channel Stripped 2008,2,2008-06-28,False,,,,,,,,,,,,,,C,Minor,C Minor,32
+Live From Clear Channel Stripped 2008,2008-06-28,Beautiful Eyes - Live From Clear Channel Stripped 2008,3,2008-06-28,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+Live From Clear Channel Stripped 2008,2008-06-28,Untouchable - Live From Clear Channel Stripped 2008,4,2008-06-28,False,,,,,,,,,,,,,,C,Minor,C Minor,29
+Live From Clear Channel Stripped 2008,2008-06-28,Teardrops On My Guitar - Live From Clear Channel Stripped 2008,5,2008-06-28,False,,,,,,,,,,,,,,C,Minor,C Minor,27
+Live From Clear Channel Stripped 2008,2008-06-28,Picture To Burn - Live From Clear Channel Stripped 2008,6,2008-06-28,False,,,,,,,,,,,,,,C,Minor,C Minor,26
+Live From Clear Channel Stripped 2008,2008-06-28,Should've Said No - Live From Clear Channel Stripped 2008,7,2008-06-28,False,,,,,,,,,,,,,,C,Minor,C Minor,27
+Live From Clear Channel Stripped 2008,2008-06-28,Change - Live From Clear Channel Stripped 2008,8,2008-06-28,False,,,,,,,,,,,,,,C,Minor,C Minor,24
+Taylor Swift (Deluxe Edition),2006-10-24,Tim McGraw,1,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+Taylor Swift (Deluxe Edition),2006-10-24,Picture To Burn,2,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+Taylor Swift (Deluxe Edition),2006-10-24,Teardrops On My Guitar - Radio Single Remix,3,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Taylor Swift (Deluxe Edition),2006-10-24,A Place in this World,4,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+Taylor Swift (Deluxe Edition),2006-10-24,Cold As You,5,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+Taylor Swift (Deluxe Edition),2006-10-24,The Outside,6,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,50
+Taylor Swift (Deluxe Edition),2006-10-24,Tied Together with a Smile,7,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,50
+Taylor Swift (Deluxe Edition),2006-10-24,Stay Beautiful,8,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,50
+Taylor Swift (Deluxe Edition),2006-10-24,Should've Said No,9,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,57
+Taylor Swift (Deluxe Edition),2006-10-24,Mary's Song (Oh My My My),10,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,53
+Taylor Swift (Deluxe Edition),2006-10-24,Our Song,11,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,60
+Taylor Swift (Deluxe Edition),2006-10-24,I'm Only Me When I'm With You,12,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+Taylor Swift (Deluxe Edition),2006-10-24,Invisible,13,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,50
+Taylor Swift (Deluxe Edition),2006-10-24,A Perfectly Good Heart,14,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+Taylor Swift (Deluxe Edition),2006-10-24,Teardrops on My Guitar - Pop Version,15,2006-10-24,False,,,,,,,,,,,,,,C,Minor,C Minor,52
+I Can Do It With a Broken Heart (Dombresky Remix),2024-09-13,I Can Do It With a Broken Heart - Dombresky Remix,1,2024-09-13,True,,,,,,,,,,,,,,C,Minor,C Minor,54
+I Can Do It With a Broken Heart (Dombresky Remix),2024-09-13,I Can Do It With a Broken Heart,2,2024-09-13,True,,,,,,,,,,,,,,C,Minor,C Minor,45
+I Can Do It With a Broken Heart (Dombresky Remix),2024-09-13,I Can Do It With a Broken Heart - Instrumental,3,2024-09-13,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+I Can Do It With a Broken Heart,2024-07-16,I Can Do It With a Broken Heart,1,2024-07-16,True,,,,,,,,,,,,,,C,Minor,C Minor,51
+I Can Do It With a Broken Heart,2024-07-16,I Can Do It With a Broken Heart - Instrumental,2,2024-07-16,False,,,,,,,,,,,,,,C,Minor,C Minor,42
+Fortnight (Acoustic Version),2024-07-09,Fortnight (feat. Post Malone) - Acoustic Version,1,2024-07-09,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Fortnight (Acoustic Version),2024-07-09,Fortnight (feat. Post Malone) - Cults Remix,2,2024-07-09,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Fortnight (Acoustic Version),2024-07-09,Fortnight (feat. Post Malone),3,2024-07-09,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Fortnight (feat. Post Malone) [BLOND:ISH Remix],2024-05-22,Fortnight (feat. Post Malone) - BLOND:ISH Remix,1,2024-05-22,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Fortnight (feat. Post Malone) [BLOND:ISH Remix],2024-05-22,Fortnight (feat. Post Malone),2,2024-05-22,False,,,,,,,,,,,,,,C,Minor,C Minor,39
+You're Losing Me (From The Vault),2023-11-29,You’re Losing Me (From The Vault),1,2023-11-29,False,,,,,,,,,,,,,,C,Minor,C Minor,75
+The Cruelest Summer,2023-10-19,Cruel Summer - Live from TS | The Eras Tour,1,2023-10-19,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+The Cruelest Summer,2023-10-19,Cruel Summer - LP Giobbi Remix,2,2023-10-19,False,,,,,,,,,,,,,,C,Minor,C Minor,31
+The Cruelest Summer,2023-10-19,Cruel Summer - LP Giobbi Remix - Extended Version,3,2023-10-19,False,,,,,,,,,,,,,,C,Minor,C Minor,35
+The Cruelest Summer,2023-10-19,Cruel Summer,4,2023-10-19,False,,,,,,,,,,,,,,C,Minor,C Minor,34
+Lavender Haze (Acoustic Version),2023-03-31,Lavender Haze - Acoustic Version,1,2023-03-31,True,,,,,,,,,,,,,,C,Minor,C Minor,53
+Lavender Haze (Remixes),2023-03-03,Lavender Haze - Tensnake Remix,1,2023-03-03,True,,,,,,,,,,,,,,C,Minor,C Minor,39
+Lavender Haze (Remixes),2023-03-03,Lavender Haze - Snakehips Remix,2,2023-03-03,True,,,,,,,,,,,,,,C,Minor,C Minor,48
+Lavender Haze (Remixes),2023-03-03,Lavender Haze - Jungle Remix,3,2023-03-03,True,,,,,,,,,,,,,,C,Minor,C Minor,37
+Lavender Haze (Remixes),2023-03-03,Lavender Haze - Felix Jaehn Remix,4,2023-03-03,True,,,,,,,,,,,,,,C,Minor,C Minor,39
+Lavender Haze (Remixes),2023-03-03,Lavender Haze,5,2023-03-03,True,,,,,,,,,,,,,,C,Minor,C Minor,39
+Lavender Haze (Felix Jaehn Remix),2023-02-10,Lavender Haze - Felix Jaehn Remix,1,2023-02-10,True,,,,,,,,,,,,,,C,Minor,C Minor,47
+Anti-Hero (Acoustic Version),2022-11-25,Anti-Hero - Acoustic Version,1,2022-11-25,False,,,,,,,,,,,,,,C,Minor,C Minor,53
+Anti-Hero (ILLENIUM Remix),2022-11-18,Anti-Hero - ILLENIUM Remix,1,2022-11-18,False,,,,,,,,,,,,,,C,Minor,C Minor,49
+Anti-Hero (Remixes),2022-11-11,Anti-Hero (feat. Bleachers),1,2022-11-11,True,,,,,,,,,,,,,,C,Minor,C Minor,36
+Anti-Hero (Remixes),2022-11-11,Anti-Hero - Roosevelt Remix,2,2022-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,37
+Anti-Hero (Remixes),2022-11-11,Anti-Hero - Kungs Remix,3,2022-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,59
+Anti-Hero (Remixes),2022-11-11,Anti-Hero - Jayda G Remix,4,2022-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,36
+Anti-Hero (Remixes),2022-11-11,Anti-Hero,5,2022-11-11,False,,,,,,,,,,,,,,C,Minor,C Minor,28
+Anti-Hero (feat. Bleachers),2022-11-08,Anti-Hero (feat. Bleachers),1,2022-11-08,True,,,,,,,,,,,,,,C,Minor,C Minor,50
+Anti-Hero (feat. Bleachers),2022-11-08,Anti-Hero,2,2022-11-08,False,,,,,,,,,,,,,,C,Minor,C Minor,29
+Carolina (From The Motion Picture “Where The Crawdads Sing”),2022-06-24,Carolina - From The Motion Picture “Where The Crawdads Sing”,1,2022-06-24,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Carolina (From The Motion Picture “Where The Crawdads Sing”),2022-06-24,"Carolina - ""Where The Crawdads Sing"" - Video Edition",2,2022-06-24,False,,,,,,,,,,,,,,C,Minor,C Minor,44
+All Too Well (10 Minute Version) (The Short Film),2022-06-11,All Too Well (10 Minute Version) (The Short Film),1,2022-06-11,True,,,,,,,,,,,,,,C,Minor,C Minor,47
+This Love (Taylor’s Version),2022-05-06,This Love (Taylor’s Version),1,2022-05-06,False,,,,,,,,,,,,,,C,Minor,C Minor,63
+This Love (Taylor’s Version),2022-05-06,Wildest Dreams (Taylor's Version),2,2022-05-06,False,,,,,,,,,,,,,,C,Minor,C Minor,47
+The Joker And The Queen (feat. Taylor Swift),2022-02-11,The Joker And The Queen (feat. Taylor Swift),1,2022-02-11,False,,,,,,,,,,,,,,C,Minor,C Minor,61
+Message In A Bottle (Fat Max G Remix) (Taylor’s Version),2022-01-21,Message In A Bottle (Fat Max G Remix) (Taylor’s Version),1,2022-01-21,False,,,,,,,,,,,,,,C,Minor,C Minor,48
+Message In A Bottle (Fat Max G Remix) (Taylor’s Version),2022-01-21,Message In A Bottle (Taylor's Version) (From The Vault),2,2022-01-21,False,,,,,,,,,,,,,,C,Minor,C Minor,40
+Christmas Tree Farm (Old Timey Version),2021-11-22,Christmas Tree Farm - Old Timey Version,1,2021-11-22,False,,,,,,,,,,,,,,C,Minor,C Minor,64
+Christmas Tree Farm,2021-11-22,Christmas Tree Farm,1,2021-11-22,False,,,,,,,,,,,,,,C,Minor,C Minor,48
+Christmas Tree Farm,2021-11-22,Christmas Tree Farm - Old Timey Version,2,2021-11-22,False,,,,,,,,,,,,,,C,Minor,C Minor,38
+Christmas Tree Farm,2021-11-22,Christmas Tree Farm - Recorded Live at the 2019 iHeartRadio Jingle Ball,3,2021-11-22,False,,,,,,,,,,,,,,C,Minor,C Minor,33
+All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios,2021-11-18,All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios,1,2021-11-18,True,,,,,,,,,,,,,,C,Minor,C Minor,59

@@ -1,0 +1,3698 @@
+{
+ "_type": "album",
+ "api_path": "/albums/710140",
+ "cover_art_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+ "full_title": "evermore by Taylor Swift",
+ "id": 710140,
+ "name": "evermore",
+ "name_with_artist": "evermore (artist: Taylor Swift)",
+ "primary_artist_names": "Taylor Swift",
+ "release_date_components": {
+  "year": 2020,
+  "month": 12,
+  "day": 11
+ },
+ "release_date_for_display": "December 11, 2020",
+ "url": "https://genius.com/albums/Taylor-swift/Evermore",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/1177",
+  "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+  "id": 1177,
+  "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Taylor Swift",
+  "slug": "Taylor-swift",
+  "url": "https://genius.com/artists/Taylor-swift",
+  "iq": 1544
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1177",
+   "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+   "id": 1177,
+   "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+   "index_character": "t",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Taylor Swift",
+   "slug": "Taylor-swift",
+   "url": "https://genius.com/artists/Taylor-swift",
+   "iq": 1544
+  }
+ ],
+ "comment_count": 17,
+ "custom_header_image_url": null,
+ "description_preview": "Taylor Swift\u2019s ninth studio album, evermore, was her second major release in 2020, arriving only five months after folklore. Swift has described the two albums as \u2018sister records,\u2019 with evermore serving as a continuation and further artistic venture into \u2018the forest of this music\u2019.\n\nIn contrast to Swift\u2019s usual structured and extensive album rollouts, evermore\u2013much like folklore\u2013was announced via social media sixteen hours prior to release. Shortly after the announcement, she explained her reasoning for surprising fans with another album:\n\nEver since I was 13, I\u2019ve been excited about turning 31 because it\u2019s my lucky number backwards, which is why I wanted to surprise you with this now. You\u2019ve all been so caring, supportive and thoughtful on my birthdays and so this time I thought I would give you something!\n\nSwift also dedicated evermore to people who turn to music in effort to \u2018cope with missing loved ones,\u2019 acknowledging the unusual loneliness of the 2020 winter holiday season due to the COVID-19 pandemic.\n\nLike folklore, the writing on evermore was a collaborative effort between Swift, Aaron Dessner (of The National), Jack Antonoff, Joe Alwyn, and Bon Iver. The album is notable for containing three artist features (HAIM, The National, and Bon Iver), the most of any of Swift\u2019s studio records to date.\n\nA music video for the lead single, \u201cwillow,\u201d was released alongside the album at midnight on December 11, 2020.",
+ "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+ "lock_state": "super_locked",
+ "pyongs_count": 24,
+ "release_date": "2020-12-11",
+ "tracking_paths": {
+  "aggregate": "/albums/Taylor-swift/Evermore",
+  "concurrent": "/albums/Taylor-swift/Evermore"
+ },
+ "current_user_metadata": {
+  "permissions": [
+   "create_comment"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "destroy",
+   "pyong",
+   "lock",
+   "super_lock",
+   "unlock",
+   "sort_songs",
+   "edit_multiple_primary_artist",
+   "see_short_id",
+   "create_question"
+  ],
+  "interactions": {
+   "pyong": false
+  }
+ },
+ "song_pageviews": 17859567,
+ "cover_arts": [
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/710140",
+   "id": 573766,
+   "image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+   "thumbnail_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+   "url": "https://genius.com/album_cover_arts/573766",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/710140",
+   "id": 573781,
+   "image_url": "https://images.genius.com/3400ad2fb5356233b09e6261c8d5dcf2.1000x1000x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/3400ad2fb5356233b09e6261c8d5dcf2.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/573781",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  },
+  {
+   "_type": "cover_art",
+   "annotated": true,
+   "api_path": "/albums/710140",
+   "id": 574183,
+   "image_url": "https://images.genius.com/f45979be004c464ee2d364687176c103.685x685x1.jpg",
+   "thumbnail_image_url": "https://images.genius.com/f45979be004c464ee2d364687176c103.300x300x1.jpg",
+   "url": "https://genius.com/album_cover_arts/574183",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "destroy"
+    ]
+   }
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8901159,
+  "annotator_login": "TYFNA",
+  "api_path": "/referents/21569437",
+  "classification": "accepted",
+  "fragment": "evermore",
+  "id": 21569437,
+  "ios_app_url": "genius://referents/21569437",
+  "is_description": true,
+  "is_image": false,
+  "path": "/21569437/Evermore/Evermore",
+  "range": {
+   "content": "evermore"
+  },
+  "song_id": null,
+  "url": "https://genius.com/21569437/Evermore/Evermore",
+  "verified_annotator_ids": [],
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "add_pinned_annotation_to",
+    "add_community_annotation_to"
+   ],
+   "relationships": {}
+  },
+  "tracking_paths": {
+   "aggregate": "/21569437/Evermore/Evermore",
+   "concurrent": "/albums/Taylor-swift/Evermore"
+  },
+  "twitter_share_message": "\u201cTaylor Swift\u2019s ninth studio album, evermore, was her second major release in 2020, arriving only\u2026\u201d \u2014@Genius",
+  "annotatable": {
+   "_type": "album",
+   "api_path": "/albums/710140",
+   "context": "Taylor Swift",
+   "id": 710140,
+   "image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+   "link_title": "evermore",
+   "title": "evermore",
+   "type": "Album",
+   "url": "https://genius.com/albums/Taylor-swift/Evermore"
+  },
+  "annotations": [
+   {
+    "_type": "annotation",
+    "api_path": "/annotations/21569437",
+    "being_created": false,
+    "body": {
+     "plain": "Taylor Swift\u2019s ninth studio album, evermore, was her second major release in 2020, arriving only five months after folklore. Swift has described the two albums as \u2018sister records,\u2019 with evermore serving as a continuation and further artistic venture into \u2018the forest of this music\u2019.\n\nIn contrast to Swift\u2019s usual structured and extensive album rollouts, evermore\u2013much like folklore\u2013was announced via social media sixteen hours prior to release. Shortly after the announcement, she explained her reasoning for surprising fans with another album:\n\nEver since I was 13, I\u2019ve been excited about turning 31 because it\u2019s my lucky number backwards, which is why I wanted to surprise you with this now. You\u2019ve all been so caring, supportive and thoughtful on my birthdays and so this time I thought I would give you something!\n\nSwift also dedicated evermore to people who turn to music in effort to \u2018cope with missing loved ones,\u2019 acknowledging the unusual loneliness of the 2020 winter holiday season due to the COVID-19 pandemic.\n\nLike folklore, the writing on evermore was a collaborative effort between Swift, Aaron Dessner (of The National), Jack Antonoff, Joe Alwyn, and Bon Iver. The album is notable for containing three artist features (HAIM, The National, and Bon Iver), the most of any of Swift\u2019s studio records to date.\n\nA music video for the lead single, \u201cwillow,\u201d was released alongside the album at midnight on December 11, 2020."
+    },
+    "comment_count": 0,
+    "community": true,
+    "created_at": 1607605795,
+    "custom_preview": null,
+    "deleted": false,
+    "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/21569437/standalone_embed'><a href='https://genius.com/21569437/Evermore/Evermore'>evermore</a><br><a href='https://genius.com/albums/Taylor-swift/Evermore'>&#8213; evermore</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>",
+    "has_voters": true,
+    "id": 21569437,
+    "needs_exegesis": false,
+    "pinned": false,
+    "proposed_edit_count": 0,
+    "pyongs_count": null,
+    "referent_id": 21569437,
+    "share_url": "https://genius.com/21569437",
+    "source": null,
+    "state": "accepted",
+    "twitter_share_message": "\u201cTaylor Swift\u2019s ninth studio album, evermore, was her second major release in 2020, arriving only five mo\u2026\u201d \u2014@Genius",
+    "url": "https://genius.com/21569437/Evermore/Evermore",
+    "verified": false,
+    "votes_total": 67,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "report_as_abusive",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "accepted_by": {
+     "_type": "user",
+     "about_me_summary": "it\u2019s you and me, that\u2019s my whole world",
+     "api_path": "/users/9266743",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/d6931c999ab1f5cacb5c09655cfec264",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/d6931c999ab1f5cacb5c09655cfec264",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/d6931c999ab1f5cacb5c09655cfec264",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/d6931c999ab1f5cacb5c09655cfec264",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/1bb645a9ffcd30075d521fb97e193eff.1000x1000x1.jpg",
+     "human_readable_role_for_display": "Editor",
+     "id": 9266743,
+     "iq": 48635,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "theheartbreakprince",
+     "name": "\u200btheheartbreakprince",
+     "role_for_display": "editor",
+     "url": "https://genius.com/theheartbreakprince",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "authors": [
+     {
+      "_type": "user_attribution",
+      "attribution": 0.4340425531914894,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "SUP.\n\nI recently decided that I should try and put my music knowledge to good use and help out around here. Outside that, I\u2019d love to talk with you about any kind of music under the sun.\n\nI have a love of old school hip-hop, Motown, and indie/alternative specifically, but you can find me jamming to all genres, really.",
+       "api_path": "/users/4119693",
+       "avatar": {
+        "tiny": {
+         "url": "https://filepicker-images.genius.com/lOXhvI5LTjKNxd07XXoj_avatar.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://filepicker-images.genius.com/lOXhvI5LTjKNxd07XXoj_avatar.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://filepicker-images.genius.com/lOXhvI5LTjKNxd07XXoj_avatar.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://filepicker-images.genius.com/lOXhvI5LTjKNxd07XXoj_avatar.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://filepicker-images.genius.com/tekg7fbudgk",
+       "human_readable_role_for_display": "Editor",
+       "id": 4119693,
+       "iq": 15407,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "wafflehouseindex",
+       "name": "wafflehouseindex",
+       "role_for_display": "editor",
+       "url": "https://genius.com/wafflehouseindex",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "_type": "user_attribution",
+      "attribution": 0.2893617021276596,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "I love all sorts of music, mainly pop.\n\n\n\nFailure does not exist. The only thing I think failure exists in is not ever trying. That\u2019s the biggest failure that you can commit.\n\n~ Jameela Jamil\n\nThe truth is that you shouldn\u2019t match your insides to other people\u2019s insides. Life is an inside job and we just have to do our best.\n\n~ Sia\n\n\n\n1,000 IQ on 19-10-2019",
+       "api_path": "/users/8901159",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b0318a7989e0baa362a5b05362c559f4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b0318a7989e0baa362a5b05362c559f4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b0318a7989e0baa362a5b05362c559f4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b0318a7989e0baa362a5b05362c559f4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://filepicker-images.genius.com/lz0u9ytsjro",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8901159,
+       "iq": 10297,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "TYFNA",
+       "name": "TYFNA",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/TYFNA",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "_type": "user_attribution",
+      "attribution": 0.2680851063829787,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "it\u2019s you and me, that\u2019s my whole world",
+       "api_path": "/users/9266743",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d6931c999ab1f5cacb5c09655cfec264",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d6931c999ab1f5cacb5c09655cfec264",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d6931c999ab1f5cacb5c09655cfec264",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d6931c999ab1f5cacb5c09655cfec264",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/1bb645a9ffcd30075d521fb97e193eff.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 9266743,
+       "iq": 48635,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "theheartbreakprince",
+       "name": "\u200btheheartbreakprince",
+       "role_for_display": "editor",
+       "url": "https://genius.com/theheartbreakprince",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "_type": "user_attribution",
+      "attribution": 0.00851063829787234,
+      "pinned_role": null,
+      "user": {
+       "_type": "user",
+       "about_me_summary": "are you bored yet?",
+       "api_path": "/users/4716059",
+       "avatar": {
+        "tiny": {
+         "url": "https://filepicker-images.genius.com/k1ykmqyhk4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://filepicker-images.genius.com/k1ykmqyhk4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://filepicker-images.genius.com/k1ykmqyhk4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://filepicker-images.genius.com/k1ykmqyhk4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://filepicker-images.genius.com/3fnyex0irhp",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4716059,
+       "iq": 6569,
+       "is_meme_verified": false,
+       "is_verified": false,
+       "login": "skywriting",
+       "name": "skywriting",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/skywriting",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "created_by": {
+     "_type": "user",
+     "about_me_summary": "I love all sorts of music, mainly pop.\n\n\n\nFailure does not exist. The only thing I think failure exists in is not ever trying. That\u2019s the biggest failure that you can commit.\n\n~ Jameela Jamil\n\nThe truth is that you shouldn\u2019t match your insides to other people\u2019s insides. Life is an inside job and we just have to do our best.\n\n~ Sia\n\n\n\n1,000 IQ on 19-10-2019",
+     "api_path": "/users/8901159",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/b0318a7989e0baa362a5b05362c559f4",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/b0318a7989e0baa362a5b05362c559f4",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/b0318a7989e0baa362a5b05362c559f4",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/b0318a7989e0baa362a5b05362c559f4",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://filepicker-images.genius.com/lz0u9ytsjro",
+     "human_readable_role_for_display": "Contributor",
+     "id": 8901159,
+     "iq": 10297,
+     "is_meme_verified": false,
+     "is_verified": false,
+     "login": "TYFNA",
+     "name": "TYFNA",
+     "role_for_display": "contributor",
+     "url": "https://genius.com/TYFNA",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    "rejection_comment": null,
+    "top_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "performance_groups": [
+  {
+   "label": "Photography",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2331293",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2331293,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beth Garrabrant",
+     "slug": "Beth-garrabrant",
+     "url": "https://genius.com/artists/Beth-garrabrant"
+    }
+   ]
+  }
+ ],
+ "song_performances": [
+  {
+   "label": "Featuring",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/3f15191e4a8eb92acc4c2c90c787a5f7.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/43588",
+     "header_image_url": "https://images.genius.com/5dfdaed7791dec55659e349afe6eafbb.1000x400x1.jpg",
+     "id": 43588,
+     "image_url": "https://images.genius.com/f43451dd0dfb9612bb7c791abd16a667.1000x1000x1.jpg",
+     "index_character": "h",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "HAIM",
+     "slug": "Haim",
+     "url": "https://genius.com/artists/Haim",
+     "iq": 832
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/658",
+     "header_image_url": "https://images.genius.com/96aaa9ddba355dc1a4e9f6cfb06fe105.1000x381x1.jpg",
+     "id": 658,
+     "image_url": "https://images.genius.com/f3c14d049d6d818aac3ef2e2131eb86b.1000x1000x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The National",
+     "slug": "The-national",
+     "url": "https://genius.com/artists/The-national"
+    }
+   ]
+  },
+  {
+   "label": "Producers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/623586",
+     "header_image_url": "https://images.genius.com/fe557ce492c5d7b71c73f19e035286be.600x450x1.jpg",
+     "id": 623586,
+     "image_url": "https://images.genius.com/dde1af94453774e5ca60365e308faad7.379x379x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BJ Burton",
+     "slug": "Bj-burton",
+     "url": "https://genius.com/artists/Bj-burton"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/572968",
+     "header_image_url": "https://images.genius.com/e3811a6fa91606b52a0d6a75333a9309.1000x815x1.jpg",
+     "id": 572968,
+     "image_url": "https://images.genius.com/21b113f0cbc223ad16d3915f0074d033.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryce Dessner",
+     "slug": "Bryce-dessner",
+     "url": "https://genius.com/artists/Bryce-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/673589",
+     "header_image_url": "https://images.genius.com/fa32726677bc5479da12966e30f410aa.700x466x1.jpg",
+     "id": 673589,
+     "image_url": "https://images.genius.com/b85edc0f87f9d6d9abd75b90f0d75238.389x389x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James McAlister",
+     "slug": "James-mcalister",
+     "url": "https://genius.com/artists/James-mcalister"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  },
+  {
+   "label": "Writers",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/572968",
+     "header_image_url": "https://images.genius.com/e3811a6fa91606b52a0d6a75333a9309.1000x815x1.jpg",
+     "id": 572968,
+     "image_url": "https://images.genius.com/21b113f0cbc223ad16d3915f0074d033.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryce Dessner",
+     "slug": "Bryce-dessner",
+     "url": "https://genius.com/artists/Bryce-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2443316",
+     "header_image_url": "https://images.genius.com/2866990368ce588872d0415a92432cdc.404x404x1.jpg",
+     "id": 2443316,
+     "image_url": "https://images.genius.com/2866990368ce588872d0415a92432cdc.404x404x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joe Alwyn",
+     "slug": "Joe-alwyn",
+     "url": "https://genius.com/artists/Joe-alwyn"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  },
+  {
+   "label": "Assistant Recording Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1308107",
+     "header_image_url": "https://images.genius.com/39a465e7d73d7657a5c9e848d8b58ec8.200x200x1.jpg",
+     "id": 1308107,
+     "image_url": "https://images.genius.com/39a465e7d73d7657a5c9e848d8b58ec8.200x200x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Rooney",
+     "slug": "John-rooney",
+     "url": "https://genius.com/artists/John-rooney"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/773139",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 773139,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Sher",
+     "slug": "Jon-sher",
+     "url": "https://genius.com/artists/Jon-sher"
+    }
+   ]
+  },
+  {
+   "label": "Background Vocals",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/22245",
+     "header_image_url": "https://images.genius.com/6732046924a214e9395fed1fa61cfee4.790x395x1.jpg",
+     "id": 22245,
+     "image_url": "https://images.genius.com/4f433c1cd6f42838fb5037e1cb395a10.332x332x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Danielle Haim",
+     "slug": "Danielle-haim",
+     "url": "https://genius.com/artists/Danielle-haim"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/679645",
+     "header_image_url": "https://images.genius.com/f4e8678c5a181bff6a74df7d14f2e0ff.680x907x1.jpg",
+     "id": 679645,
+     "image_url": "https://images.genius.com/31ffc076542cd506ea6b59b7199278c9.279x279x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Este Haim",
+     "slug": "Este-haim",
+     "url": "https://genius.com/artists/Este-haim"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/306634",
+     "header_image_url": "https://images.genius.com/3c136470b1e9bfb54a670098321262e5.1000x333x1.jpg",
+     "id": 306634,
+     "image_url": "https://images.genius.com/0f68e79956db190c4b1cb4d92659a3bf.320x320x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marcus Mumford",
+     "slug": "Marcus-mumford",
+     "url": "https://genius.com/artists/Marcus-mumford"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2515249",
+     "header_image_url": "https://images.genius.com/183ca0d8d429f2eb8df71031ea93477c.824x824x1.png",
+     "id": 2515249,
+     "image_url": "https://images.genius.com/183ca0d8d429f2eb8df71031ea93477c.824x824x1.png",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marjorie Finlay",
+     "slug": "Marjorie-finlay",
+     "url": "https://genius.com/artists/Marjorie-finlay"
+    }
+   ]
+  },
+  {
+   "label": "Banjo",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    }
+   ]
+  },
+  {
+   "label": "Bass",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/910610",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 910610,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Logan Coale",
+     "slug": "Logan-coale",
+     "url": "https://genius.com/artists/Logan-coale"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/679655",
+     "header_image_url": "https://images.genius.com/c3d98ecec587a2478fb707e1759d0b19.380x380x1.jpg",
+     "id": 679655,
+     "image_url": "https://images.genius.com/c3d98ecec587a2478fb707e1759d0b19.380x380x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scott Devendorf",
+     "slug": "Scott-devendorf",
+     "url": "https://genius.com/artists/Scott-devendorf"
+    }
+   ]
+  },
+  {
+   "label": "Celesta",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1259929",
+     "header_image_url": "https://images.genius.com/dc3b9fe59ab91eb2986becc304bcb915.1000x1000x1.jpg",
+     "id": 1259929,
+     "image_url": "https://images.genius.com/dc3b9fe59ab91eb2986becc304bcb915.1000x1000x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikey Freedom Hart",
+     "slug": "Mikey-freedom-hart",
+     "url": "https://genius.com/artists/Mikey-freedom-hart"
+    }
+   ]
+  },
+  {
+   "label": "Cello",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/910615",
+     "header_image_url": "https://images.genius.com/abb6e8f20eb40ff0001c4392b2621b22.500x375x1.jpg",
+     "id": 910615,
+     "image_url": "https://images.genius.com/1a8036d4d154b42718f1e67b8e10c877.375x375x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Clarice Jensen",
+     "slug": "Clarice-jensen",
+     "url": "https://genius.com/artists/Clarice-jensen"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1192391",
+     "header_image_url": "https://images.genius.com/3777c7e734490fe8bad6cd0fcfaa34fd.1000x746x1.jpg",
+     "id": 1192391,
+     "image_url": "https://images.genius.com/fb8977e632be60f1b0b62e468ee89cda.1000x1000x1.jpg",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gabriel Cabezas",
+     "slug": "Gabriel-cabezas",
+     "url": "https://genius.com/artists/Gabriel-cabezas"
+    }
+   ]
+  },
+  {
+   "label": "Clarinet",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/645596",
+     "header_image_url": "https://images.genius.com/fdaf9decdb8501ec9cd633d9d63792d1.250x250x1.jpg",
+     "id": 645596,
+     "image_url": "https://images.genius.com/fdaf9decdb8501ec9cd633d9d63792d1.250x250x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stuart Bogie",
+     "slug": "Stuart-bogie",
+     "url": "https://genius.com/artists/Stuart-bogie"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1319239",
+     "header_image_url": "https://images.genius.com/e5e6b30289448f983a9c2a21ec25c610.640x640x1.png",
+     "id": 1319239,
+     "image_url": "https://images.genius.com/e5e6b30289448f983a9c2a21ec25c610.640x640x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Taylor Swift Music",
+     "slug": "Taylor-swift-music",
+     "url": "https://genius.com/artists/Taylor-swift-music"
+    }
+   ]
+  },
+  {
+   "label": "Drum Machine",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/679654",
+     "header_image_url": "https://images.genius.com/21c63c956fc9c96167342990868b1ad2.709x709x1.jpg",
+     "id": 679654,
+     "image_url": "https://images.genius.com/21c63c956fc9c96167342990868b1ad2.709x709x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryan Devendorf",
+     "slug": "Bryan-devendorf",
+     "url": "https://genius.com/artists/Bryan-devendorf"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/673589",
+     "header_image_url": "https://images.genius.com/fa32726677bc5479da12966e30f410aa.700x466x1.jpg",
+     "id": 673589,
+     "image_url": "https://images.genius.com/b85edc0f87f9d6d9abd75b90f0d75238.389x389x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James McAlister",
+     "slug": "James-mcalister",
+     "url": "https://genius.com/artists/James-mcalister"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/29463",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 29463,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Olson",
+     "slug": "Ryan-olson",
+     "url": "https://genius.com/artists/Ryan-olson"
+    }
+   ]
+  },
+  {
+   "label": "Drums",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/679654",
+     "header_image_url": "https://images.genius.com/21c63c956fc9c96167342990868b1ad2.709x709x1.jpg",
+     "id": 679654,
+     "image_url": "https://images.genius.com/21c63c956fc9c96167342990868b1ad2.709x709x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryan Devendorf",
+     "slug": "Bryan-devendorf",
+     "url": "https://genius.com/artists/Bryan-devendorf"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/673589",
+     "header_image_url": "https://images.genius.com/fa32726677bc5479da12966e30f410aa.700x466x1.jpg",
+     "id": 673589,
+     "image_url": "https://images.genius.com/b85edc0f87f9d6d9abd75b90f0d75238.389x389x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James McAlister",
+     "slug": "James-mcalister",
+     "url": "https://genius.com/artists/James-mcalister"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1253980",
+     "header_image_url": "https://images.genius.com/a38692afc4605553d72e0cb8f008323b.600x600x1.jpg",
+     "id": 1253980,
+     "image_url": "https://images.genius.com/a38692afc4605553d72e0cb8f008323b.600x600x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Treuting",
+     "slug": "Jason-treuting",
+     "url": "https://genius.com/artists/Jason-treuting"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/209516",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 209516,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J.T. Bates",
+     "slug": "Jt-bates",
+     "url": "https://genius.com/artists/Jt-bates"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1926584",
+     "header_image_url": "https://images.genius.com/417f7e1bbfd9677773fbae0be57e2c2f.333x333x1.jpg",
+     "id": 1926584,
+     "image_url": "https://images.genius.com/417f7e1bbfd9677773fbae0be57e2c2f.333x333x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Riddleberger",
+     "slug": "Michael-riddleberger",
+     "url": "https://genius.com/artists/Michael-riddleberger"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1257599",
+     "header_image_url": "https://images.genius.com/9764df6777c66d81473d8c856b8566ef.332x332x1.jpg",
+     "id": 1257599,
+     "image_url": "https://images.genius.com/9764df6777c66d81473d8c856b8566ef.332x332x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sean Hutchinson",
+     "slug": "Sean-hutchinson",
+     "url": "https://genius.com/artists/Sean-hutchinson"
+    }
+   ]
+  },
+  {
+   "label": "Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/42625",
+     "header_image_url": "https://images.genius.com/7f019b5808fa45fc739969a73b97eadd.839x839x1.jpg",
+     "id": 42625,
+     "image_url": "https://images.genius.com/7f019b5808fa45fc739969a73b97eadd.839x839x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ariel Rechtshaid",
+     "slug": "Ariel-rechtshaid",
+     "url": "https://genius.com/artists/Ariel-rechtshaid"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/230799",
+     "header_image_url": "https://images.genius.com/ddc9e600dd0b3ad5d5c12368ff489aa9.374x374x1.jpg",
+     "id": 230799,
+     "image_url": "https://images.genius.com/ddc9e600dd0b3ad5d5c12368ff489aa9.374x374x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonathan Low",
+     "slug": "Jonathan-low",
+     "url": "https://genius.com/artists/Jonathan-low"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/643394",
+     "header_image_url": "https://images.genius.com/05e2e9280aea07dd1012d017303ce3b3.743x495x1.png",
+     "id": 643394,
+     "image_url": "https://images.genius.com/47af513134004e2cafe3b8c02271601a.674x674x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Sisk",
+     "slug": "Laura-sisk",
+     "url": "https://genius.com/artists/Laura-sisk"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/983471",
+     "header_image_url": "https://images.genius.com/6f112a89d455e06cd4b864ffa40825dd.1000x278x1.jpg",
+     "id": 983471,
+     "image_url": "https://images.genius.com/f6b94408cd55ac93fc25ebff50a3de8d.640x640x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Matt DiMona",
+     "slug": "Matt-dimona",
+     "url": "https://genius.com/artists/Matt-dimona",
+     "iq": 1090
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/666663",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 666663,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Robin Baynton",
+     "slug": "Robin-baynton",
+     "url": "https://genius.com/artists/Robin-baynton"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/631179",
+     "header_image_url": "https://images.genius.com/bc0043a61ca274748e549510ae0bfdb7.667x1000x1.jpg",
+     "id": 631179,
+     "image_url": "https://images.genius.com/9aab70239642550c43fa0f884ab239b3.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sean O\u2019Brien",
+     "slug": "Sean-obrien",
+     "url": "https://genius.com/artists/Sean-obrien"
+    }
+   ]
+  },
+  {
+   "label": "Flute",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1023997",
+     "header_image_url": "https://images.genius.com/8f58b4c5a75452197dfa466568d07267.686x386x1.jpg",
+     "id": 1023997,
+     "image_url": "https://images.genius.com/c85023664f4e79b751df43b4e7696499.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Sopp",
+     "slug": "Alex-sopp",
+     "url": "https://genius.com/artists/Alex-sopp"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/645596",
+     "header_image_url": "https://images.genius.com/fdaf9decdb8501ec9cd633d9d63792d1.250x250x1.jpg",
+     "id": 645596,
+     "image_url": "https://images.genius.com/fdaf9decdb8501ec9cd633d9d63792d1.250x250x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stuart Bogie",
+     "slug": "Stuart-bogie",
+     "url": "https://genius.com/artists/Stuart-bogie"
+    }
+   ]
+  },
+  {
+   "label": "French Horn",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/713367",
+     "header_image_url": "https://images.genius.com/12406544807722f9ff5d995c4ff938c8.335x250x1.jpg",
+     "id": 713367,
+     "image_url": "https://images.genius.com/e59af5ff066f70e5af8fa6f557ad7963.249x249x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "CARM",
+     "slug": "Carm",
+     "url": "https://genius.com/artists/Carm"
+    }
+   ]
+  },
+  {
+   "label": "Glockenspiel",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1253980",
+     "header_image_url": "https://images.genius.com/a38692afc4605553d72e0cb8f008323b.600x600x1.jpg",
+     "id": 1253980,
+     "image_url": "https://images.genius.com/a38692afc4605553d72e0cb8f008323b.600x600x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Treuting",
+     "slug": "Jason-treuting",
+     "url": "https://genius.com/artists/Jason-treuting"
+    }
+   ]
+  },
+  {
+   "label": "Guitar",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/572968",
+     "header_image_url": "https://images.genius.com/e3811a6fa91606b52a0d6a75333a9309.1000x815x1.jpg",
+     "id": 572968,
+     "image_url": "https://images.genius.com/21b113f0cbc223ad16d3915f0074d033.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryce Dessner",
+     "slug": "Bryce-dessner",
+     "url": "https://genius.com/artists/Bryce-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/387049",
+     "header_image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "id": 387049,
+     "image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Kaufman",
+     "slug": "Josh-kaufman",
+     "url": "https://genius.com/artists/Josh-kaufman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1259929",
+     "header_image_url": "https://images.genius.com/dc3b9fe59ab91eb2986becc304bcb915.1000x1000x1.jpg",
+     "id": 1259929,
+     "image_url": "https://images.genius.com/dc3b9fe59ab91eb2986becc304bcb915.1000x1000x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikey Freedom Hart",
+     "slug": "Mikey-freedom-hart",
+     "url": "https://genius.com/artists/Mikey-freedom-hart"
+    }
+   ]
+  },
+  {
+   "label": "Hammond B-3 Organ",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/152144",
+     "header_image_url": "https://images.genius.com/64c4b541fc5344e77e410f8aaf8b1be1.600x479x1.jpg",
+     "id": 152144,
+     "image_url": "https://images.genius.com/e37d51a15c69ef30e1156e3f999d2b1b.600x600x1.jpg",
+     "index_character": "n",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Lloyd",
+     "slug": "Nick-lloyd",
+     "url": "https://genius.com/artists/Nick-lloyd"
+    }
+   ]
+  },
+  {
+   "label": "Harmonica",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/387049",
+     "header_image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "id": 387049,
+     "image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Kaufman",
+     "slug": "Josh-kaufman",
+     "url": "https://genius.com/artists/Josh-kaufman"
+    }
+   ]
+  },
+  {
+   "label": "Harmonium",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/387049",
+     "header_image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "id": 387049,
+     "image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Kaufman",
+     "slug": "Josh-kaufman",
+     "url": "https://genius.com/artists/Josh-kaufman"
+    }
+   ]
+  },
+  {
+   "label": "Horns",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1137223",
+     "header_image_url": "https://images.genius.com/12aa45fc3d995c43c450c675b257ceea.740x740x1.jpg",
+     "id": 1137223,
+     "image_url": "https://images.genius.com/12aa45fc3d995c43c450c675b257ceea.740x740x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Evan Smith",
+     "slug": "Evan-smith",
+     "url": "https://genius.com/artists/Evan-smith"
+    }
+   ]
+  },
+  {
+   "label": "Horns Arranger",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1014372",
+     "header_image_url": "https://images.genius.com/be7dbc0cf197b5ff60392be25688f4b3.423x423x1.jpg",
+     "id": 1014372,
+     "image_url": "https://images.genius.com/be7dbc0cf197b5ff60392be25688f4b3.423x423x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Lanz",
+     "slug": "Ben-lanz",
+     "url": "https://genius.com/artists/Ben-lanz"
+    }
+   ]
+  },
+  {
+   "label": "Keyboards",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/369749",
+     "header_image_url": "https://images.genius.com/cc25b749863ac9ca52093d49131093b7.888x441x1.jpg",
+     "id": 369749,
+     "image_url": "https://images.genius.com/9148f2ed5b51f5e6be1bba7bd714f1f4.1000x1000x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Doveman",
+     "slug": "Doveman",
+     "url": "https://genius.com/artists/Doveman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/673589",
+     "header_image_url": "https://images.genius.com/fa32726677bc5479da12966e30f410aa.700x466x1.jpg",
+     "id": 673589,
+     "image_url": "https://images.genius.com/b85edc0f87f9d6d9abd75b90f0d75238.389x389x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James McAlister",
+     "slug": "James-mcalister",
+     "url": "https://genius.com/artists/James-mcalister"
+    }
+   ]
+  },
+  {
+   "label": "Mandolin",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/387049",
+     "header_image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "id": 387049,
+     "image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Kaufman",
+     "slug": "Josh-kaufman",
+     "url": "https://genius.com/artists/Josh-kaufman"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/633555",
+     "header_image_url": "https://images.genius.com/c34b7238c22f591aaada82f571282c95.770x430x1.png",
+     "id": 633555,
+     "image_url": "https://images.genius.com/3c33c552c34a3ef318af212fa9e54daf.863x863x1.png",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Calbi",
+     "slug": "Greg-calbi",
+     "url": "https://genius.com/artists/Greg-calbi"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1042587",
+     "header_image_url": "https://images.genius.com/f210252d612812f92bd04e66a42f05c9.512x512x1.jpg",
+     "id": 1042587,
+     "image_url": "https://images.genius.com/f210252d612812f92bd04e66a42f05c9.512x512x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Fallone",
+     "slug": "Steve-fallone",
+     "url": "https://genius.com/artists/Steve-fallone"
+    }
+   ]
+  },
+  {
+   "label": "Mellotron",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/230799",
+     "header_image_url": "https://images.genius.com/ddc9e600dd0b3ad5d5c12368ff489aa9.374x374x1.jpg",
+     "id": 230799,
+     "image_url": "https://images.genius.com/ddc9e600dd0b3ad5d5c12368ff489aa9.374x374x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonathan Low",
+     "slug": "Jonathan-low",
+     "url": "https://genius.com/artists/Jonathan-low"
+    }
+   ]
+  },
+  {
+   "label": "Orchestration",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/572968",
+     "header_image_url": "https://images.genius.com/e3811a6fa91606b52a0d6a75333a9309.1000x815x1.jpg",
+     "id": 572968,
+     "image_url": "https://images.genius.com/21b113f0cbc223ad16d3915f0074d033.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryce Dessner",
+     "slug": "Bryce-dessner",
+     "url": "https://genius.com/artists/Bryce-dessner"
+    }
+   ]
+  },
+  {
+   "label": "Organ",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/387049",
+     "header_image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "id": 387049,
+     "image_url": "https://images.genius.com/bd92756b1399aff1ba5c574e52dc6096.1000x1000x1.png",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Kaufman",
+     "slug": "Josh-kaufman",
+     "url": "https://genius.com/artists/Josh-kaufman"
+    }
+   ]
+  },
+  {
+   "label": "Percussion",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/679654",
+     "header_image_url": "https://images.genius.com/21c63c956fc9c96167342990868b1ad2.709x709x1.jpg",
+     "id": 679654,
+     "image_url": "https://images.genius.com/21c63c956fc9c96167342990868b1ad2.709x709x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryan Devendorf",
+     "slug": "Bryan-devendorf",
+     "url": "https://genius.com/artists/Bryan-devendorf"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/673589",
+     "header_image_url": "https://images.genius.com/fa32726677bc5479da12966e30f410aa.700x466x1.jpg",
+     "id": 673589,
+     "image_url": "https://images.genius.com/b85edc0f87f9d6d9abd75b90f0d75238.389x389x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James McAlister",
+     "slug": "James-mcalister",
+     "url": "https://genius.com/artists/James-mcalister"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1253980",
+     "header_image_url": "https://images.genius.com/a38692afc4605553d72e0cb8f008323b.600x600x1.jpg",
+     "id": 1253980,
+     "image_url": "https://images.genius.com/a38692afc4605553d72e0cb8f008323b.600x600x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Treuting",
+     "slug": "Jason-treuting",
+     "url": "https://genius.com/artists/Jason-treuting"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/209516",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 209516,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J.T. Bates",
+     "slug": "Jt-bates",
+     "url": "https://genius.com/artists/Jt-bates"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/572968",
+     "header_image_url": "https://images.genius.com/e3811a6fa91606b52a0d6a75333a9309.1000x815x1.jpg",
+     "id": 572968,
+     "image_url": "https://images.genius.com/21b113f0cbc223ad16d3915f0074d033.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryce Dessner",
+     "slug": "Bryce-dessner",
+     "url": "https://genius.com/artists/Bryce-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/369749",
+     "header_image_url": "https://images.genius.com/cc25b749863ac9ca52093d49131093b7.888x441x1.jpg",
+     "id": 369749,
+     "image_url": "https://images.genius.com/9148f2ed5b51f5e6be1bba7bd714f1f4.1000x1000x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Doveman",
+     "slug": "Doveman",
+     "url": "https://genius.com/artists/Doveman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/2c55ca79c98be9c695f136d95d3faadd.1000x233x1.png",
+     "id": 264329,
+     "image_url": "https://images.genius.com/80c1e6d33a36e323c7d7f516df16d2f6.819x819x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "slug": "Jack-antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 262
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2443316",
+     "header_image_url": "https://images.genius.com/2866990368ce588872d0415a92432cdc.404x404x1.jpg",
+     "id": 2443316,
+     "image_url": "https://images.genius.com/2866990368ce588872d0415a92432cdc.404x404x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joe Alwyn",
+     "slug": "Joe-alwyn",
+     "url": "https://genius.com/artists/Joe-alwyn"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/230799",
+     "header_image_url": "https://images.genius.com/ddc9e600dd0b3ad5d5c12368ff489aa9.374x374x1.jpg",
+     "id": 230799,
+     "image_url": "https://images.genius.com/ddc9e600dd0b3ad5d5c12368ff489aa9.374x374x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonathan Low",
+     "slug": "Jonathan-low",
+     "url": "https://genius.com/artists/Jonathan-low"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/679655",
+     "header_image_url": "https://images.genius.com/c3d98ecec587a2478fb707e1759d0b19.380x380x1.jpg",
+     "id": 679655,
+     "image_url": "https://images.genius.com/c3d98ecec587a2478fb707e1759d0b19.380x380x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scott Devendorf",
+     "slug": "Scott-devendorf",
+     "url": "https://genius.com/artists/Scott-devendorf"
+    }
+   ]
+  },
+  {
+   "label": "Programmer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/679654",
+     "header_image_url": "https://images.genius.com/21c63c956fc9c96167342990868b1ad2.709x709x1.jpg",
+     "id": 679654,
+     "image_url": "https://images.genius.com/21c63c956fc9c96167342990868b1ad2.709x709x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryan Devendorf",
+     "slug": "Bryan-devendorf",
+     "url": "https://genius.com/artists/Bryan-devendorf"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/673589",
+     "header_image_url": "https://images.genius.com/fa32726677bc5479da12966e30f410aa.700x466x1.jpg",
+     "id": 673589,
+     "image_url": "https://images.genius.com/b85edc0f87f9d6d9abd75b90f0d75238.389x389x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James McAlister",
+     "slug": "James-mcalister",
+     "url": "https://genius.com/artists/James-mcalister"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/230799",
+     "header_image_url": "https://images.genius.com/ddc9e600dd0b3ad5d5c12368ff489aa9.374x374x1.jpg",
+     "id": 230799,
+     "image_url": "https://images.genius.com/ddc9e600dd0b3ad5d5c12368ff489aa9.374x374x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonathan Low",
+     "slug": "Jonathan-low",
+     "url": "https://genius.com/artists/Jonathan-low"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/643394",
+     "header_image_url": "https://images.genius.com/05e2e9280aea07dd1012d017303ce3b3.743x495x1.png",
+     "id": 643394,
+     "image_url": "https://images.genius.com/47af513134004e2cafe3b8c02271601a.674x674x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Sisk",
+     "slug": "Laura-sisk",
+     "url": "https://genius.com/artists/Laura-sisk"
+    }
+   ]
+  },
+  {
+   "label": "Rhodes Piano",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1259929",
+     "header_image_url": "https://images.genius.com/dc3b9fe59ab91eb2986becc304bcb915.1000x1000x1.jpg",
+     "id": 1259929,
+     "image_url": "https://images.genius.com/dc3b9fe59ab91eb2986becc304bcb915.1000x1000x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikey Freedom Hart",
+     "slug": "Mikey-freedom-hart",
+     "url": "https://genius.com/artists/Mikey-freedom-hart"
+    }
+   ]
+  },
+  {
+   "label": "Synthesizer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1014372",
+     "header_image_url": "https://images.genius.com/be7dbc0cf197b5ff60392be25688f4b3.423x423x1.jpg",
+     "id": 1014372,
+     "image_url": "https://images.genius.com/be7dbc0cf197b5ff60392be25688f4b3.423x423x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Lanz",
+     "slug": "Ben-lanz",
+     "url": "https://genius.com/artists/Ben-lanz"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/572968",
+     "header_image_url": "https://images.genius.com/e3811a6fa91606b52a0d6a75333a9309.1000x815x1.jpg",
+     "id": 572968,
+     "image_url": "https://images.genius.com/21b113f0cbc223ad16d3915f0074d033.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bryce Dessner",
+     "slug": "Bryce-dessner",
+     "url": "https://genius.com/artists/Bryce-dessner"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/369749",
+     "header_image_url": "https://images.genius.com/cc25b749863ac9ca52093d49131093b7.888x441x1.jpg",
+     "id": 369749,
+     "image_url": "https://images.genius.com/9148f2ed5b51f5e6be1bba7bd714f1f4.1000x1000x1.jpg",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Doveman",
+     "slug": "Doveman",
+     "url": "https://genius.com/artists/Doveman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/673589",
+     "header_image_url": "https://images.genius.com/fa32726677bc5479da12966e30f410aa.700x466x1.jpg",
+     "id": 673589,
+     "image_url": "https://images.genius.com/b85edc0f87f9d6d9abd75b90f0d75238.389x389x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James McAlister",
+     "slug": "James-mcalister",
+     "url": "https://genius.com/artists/James-mcalister"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1259929",
+     "header_image_url": "https://images.genius.com/dc3b9fe59ab91eb2986becc304bcb915.1000x1000x1.jpg",
+     "id": 1259929,
+     "image_url": "https://images.genius.com/dc3b9fe59ab91eb2986becc304bcb915.1000x1000x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikey Freedom Hart",
+     "slug": "Mikey-freedom-hart",
+     "url": "https://genius.com/artists/Mikey-freedom-hart"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/45369",
+     "header_image_url": "https://images.genius.com/733e902def138ffff2d05ea89952cf9a.600x300x1.jpg",
+     "id": 45369,
+     "image_url": "https://images.genius.com/733e902def138ffff2d05ea89952cf9a.600x300x1.jpg",
+     "index_character": "p",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Patrik Berger",
+     "slug": "Patrik-berger",
+     "url": "https://genius.com/artists/Patrik-berger"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/990717",
+     "header_image_url": "https://images.genius.com/dbb3b489464f092cd16d0ef991abd238.1000x562x1.jpg",
+     "id": 990717,
+     "image_url": "https://images.genius.com/fc898e6752aef958869e47d345b181d2.853x853x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Trever Hagen",
+     "slug": "Trever-hagen",
+     "url": "https://genius.com/artists/Trever-hagen"
+    }
+   ]
+  },
+  {
+   "label": "Tambourine",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/243981",
+     "header_image_url": "https://images.genius.com/833a7ce67250800fb6554f335c17a16f.964x1000x1.jpg",
+     "id": 243981,
+     "image_url": "https://images.genius.com/a78df2fe8b828bcb95a5aef27e3aea59.1000x1000x1.jpg",
+     "index_character": "a",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Dessner",
+     "slug": "Aaron-dessner",
+     "url": "https://genius.com/artists/Aaron-dessner"
+    }
+   ]
+  },
+  {
+   "label": "Triangle",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    }
+   ]
+  },
+  {
+   "label": "Trombone",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1014372",
+     "header_image_url": "https://images.genius.com/be7dbc0cf197b5ff60392be25688f4b3.423x423x1.jpg",
+     "id": 1014372,
+     "image_url": "https://images.genius.com/be7dbc0cf197b5ff60392be25688f4b3.423x423x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Lanz",
+     "slug": "Ben-lanz",
+     "url": "https://genius.com/artists/Ben-lanz"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1039803",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 1039803,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Nelson",
+     "slug": "Dave-nelson",
+     "url": "https://genius.com/artists/Dave-nelson"
+    }
+   ]
+  },
+  {
+   "label": "Trumpet",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1192362",
+     "header_image_url": "https://images.genius.com/a6dcdccd057d6f0bfec6ab75f891ff02.640x425x1.jpg",
+     "id": 1192362,
+     "image_url": "https://images.genius.com/857160a941bac2e22173ac90fcb4ad7d.1000x1000x1.jpg",
+     "index_character": "k",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kyle Resnick",
+     "slug": "Kyle-resnick",
+     "url": "https://genius.com/artists/Kyle-resnick"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/990717",
+     "header_image_url": "https://images.genius.com/dbb3b489464f092cd16d0ef991abd238.1000x562x1.jpg",
+     "id": 990717,
+     "image_url": "https://images.genius.com/fc898e6752aef958869e47d345b181d2.853x853x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Trever Hagen",
+     "slug": "Trever-hagen",
+     "url": "https://genius.com/artists/Trever-hagen"
+    }
+   ]
+  },
+  {
+   "label": "Video 1st Assistant Director",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1818219",
+     "header_image_url": "https://images.genius.com/979c85edac15e1bbbe5caa157464cf04.400x400x1.jpg",
+     "id": 1818219,
+     "image_url": "https://images.genius.com/979c85edac15e1bbbe5caa157464cf04.400x400x1.jpg",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ev Salomon",
+     "slug": "Ev-salomon",
+     "url": "https://genius.com/artists/Ev-salomon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2126182",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2126182,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joe \u201cOz\u201d Osborne",
+     "slug": "Joe-oz-osborne",
+     "url": "https://genius.com/artists/Joe-oz-osborne"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  },
+  {
+   "label": "Video Director Of Photography",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2331719",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2331719,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rodrigo Prieto",
+     "slug": "Rodrigo-prieto",
+     "url": "https://genius.com/artists/Rodrigo-prieto"
+    }
+   ]
+  },
+  {
+   "label": "Video Editor",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2126180",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2126180,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "c",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chancler Haynes",
+     "slug": "Chancler-haynes",
+     "url": "https://genius.com/artists/Chancler-haynes"
+    }
+   ]
+  },
+  {
+   "label": "Video Executive Producer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2126181",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2126181,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "r",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rebecca Skinner",
+     "slug": "Rebecca-skinner",
+     "url": "https://genius.com/artists/Rebecca-skinner"
+    }
+   ]
+  },
+  {
+   "label": "Video Producer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2126179",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2126179,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jil Hardin",
+     "slug": "Jil-hardin",
+     "url": "https://genius.com/artists/Jil-hardin"
+    }
+   ]
+  },
+  {
+   "label": "Video Production Designer",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/661410",
+     "header_image_url": "https://images.genius.com/43223579c0103176f46e7cb3f7802510.231x231x1.png",
+     "id": 661410,
+     "image_url": "https://images.genius.com/43223579c0103176f46e7cb3f7802510.231x231x1.png",
+     "index_character": "e",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ethan Tobman",
+     "slug": "Ethan-tobman",
+     "url": "https://genius.com/artists/Ethan-tobman"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2414968",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2414968,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "f",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fernando Reina",
+     "slug": "Fernando-reina",
+     "url": "https://genius.com/artists/Fernando-reina"
+    }
+   ]
+  },
+  {
+   "label": "Video VFX Artist",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/2126189",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2126189,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "d",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Lebensfeld (Ingenuity Studios)",
+     "slug": "David-lebensfeld-ingenuity-studios",
+     "url": "https://genius.com/artists/David-lebensfeld-ingenuity-studios"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/2126188",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "id": 2126188,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1735850676",
+     "index_character": "g",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Grant Miller (Ingenuity Studios)",
+     "slug": "Grant-miller-ingenuity-studios",
+     "url": "https://genius.com/artists/Grant-miller-ingenuity-studios"
+    }
+   ]
+  },
+  {
+   "label": "Violin",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/1949492",
+     "header_image_url": "https://images.genius.com/f3e419e02124d69fd8b70d238924d02f.378x378x1.jpg",
+     "id": 1949492,
+     "image_url": "https://images.genius.com/f3e419e02124d69fd8b70d238924d02f.378x378x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby Hawk",
+     "slug": "Bobby-hawk",
+     "url": "https://genius.com/artists/Bobby-hawk"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1021688",
+     "header_image_url": "https://images.genius.com/92b52cbd6bbb47032b25969c35e566fc.800x1000x1.jpg",
+     "id": 1021688,
+     "image_url": "https://images.genius.com/24823f8e34e302706e0980bf6e8b1ce2.819x819x1.jpg",
+     "index_character": "y",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yuki Numata Resnick",
+     "slug": "Yuki-numata-resnick",
+     "url": "https://genius.com/artists/Yuki-numata-resnick"
+    }
+   ]
+  },
+  {
+   "label": "Vocals",
+   "artists": [
+    {
+     "_type": "artist",
+     "api_path": "/artists/21687",
+     "header_image_url": "https://images.genius.com/31c8642efba0976ea9f46e099ac6342d.586x312x1.jpg",
+     "id": 21687,
+     "image_url": "https://images.genius.com/939658960dc2301be4fd75f1230c8265.678x678x1.jpg",
+     "index_character": "j",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Vernon",
+     "slug": "Justin-vernon",
+     "url": "https://genius.com/artists/Justin-vernon"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/67092",
+     "header_image_url": "https://images.genius.com/66177b7c105089ae0c35dfe3374a8b5a.920x584x1.jpg",
+     "id": 67092,
+     "image_url": "https://images.genius.com/aa3ce6df4b42e43d8ef98d95f83782d3.1000x1000x1.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matt Berninger",
+     "slug": "Matt-berninger",
+     "url": "https://genius.com/artists/Matt-berninger"
+    },
+    {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    }
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/6260155",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bwillow by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/470f33317c22f26869b26b812ae9bebd.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/470f33317c22f26869b26b812ae9bebd.1000x1000x1.jpg",
+    "id": 6260155,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1730101187,
+    "path": "/Taylor-swift-willow-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 110,
+    "relationships_index_url": "https://genius.com/Taylor-swift-willow-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/470f33317c22f26869b26b812ae9bebd.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/470f33317c22f26869b26b812ae9bebd.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 1693917
+    },
+    "title": "\u200bwillow",
+    "title_with_featured": "\u200bwillow",
+    "updated_by_human_at": 1730101187,
+    "url": "https://genius.com/Taylor-swift-willow-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nI'm like the water when your ship rolled in that night\nRough on the surface, but you cut through like a knife\nAnd if it was an open-shut case\nI never would've known from that look on your face\nLost in your current like a priceless wine\n\n[Chorus]\nThe more that you say, the less I know\nWherever you stray, I follow\nI'm begging for you to take my hand\nWreck my plans, that's my man\n\n[Verse 2]\nLife was a willow and it bent right to your wind\nHead on the pillow, I could feel you sneakin' in\nAs if you were a mythical thing\nLike you were a trophy or a champion ring\nAnd there was one prize I'd cheat to win\n\n[Chorus]\nThe more that you say, the less I know\nWherever you stray, I follow\nI'm begging for you to take my hand\nWreck my plans, that's my man\nYou know that my train could take you home\nAnywhere else is hollow\nI'm begging for you to take my hand\nWreck my plans, that's my man\n\n[Bridge]\nLife was a willow and it bent right to your wind\nThey count me out time and time again\nLife was a willow and it bent right to your wind\nBut I come back stronger than a '90s trend\n\n[Verse 3]\nWait for the signal, and I'll meet you after dark\nShow me the places where the others gave you scars\nNow this is an open-shut case\nI guess I should've known from the look on your face\nEvery bait-and-switch was a work of art\n\n[Chorus]\nThe more that you say, the less I know\nWherever you stray, I follow\nI'm begging for you to take my hand\nWreck my plans, that's my man\nYou know that my train could take you home\nAnywhere else is hollow\nI'm begging for you to take my hand\nWreck my plans, that's my man\nThe more that you say, the less I know\nWherever you stray, I follow\nI'm begging for you to take my hand\nWreck my plans, that's my man\nYou know that my train could take you home\nAnywhere else is hollow\nI'm begging for you to take my hand\nWreck my plans, that's my man\n\n[Outro]\nHey, that's my man\nThat's my man\nYeah, that's my man\nEvery bait-and-switch was a work of art\nThat's my man\nHey, that's my man\nI'm begging for you to take my hand\nWreck my plans, that's my man"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/6260160",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bchampagne problems by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260160,
+    "instrumental": false,
+    "lyrics_owner_id": 1599419,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728244615,
+    "path": "/Taylor-swift-champagne-problems-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 113,
+    "relationships_index_url": "https://genius.com/Taylor-swift-champagne-problems-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 2182255
+    },
+    "title": "\u200bchampagne problems",
+    "title_with_featured": "\u200bchampagne problems",
+    "updated_by_human_at": 1728244615,
+    "url": "https://genius.com/Taylor-swift-champagne-problems-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nYou booked the night train for a reason\nSo you could sit there in this hurt\nBustling crowds or silent sleepers\nYou're not sure which is worse\n\n[Chorus]\nBecause I dropped your hand while dancing\nLeft you\u205fout\u205fthere\u205fstanding\nCrestfallen on the\u205flanding\nChampagne problems\nYour mom's\u205fring in your pocket\nMy picture in your wallet\nYour heart was glass, I dropped it\nChampagne problems\n\n[Verse 2]\nYou told your family for a reason\nYou couldn't keep it in\nYour sister splashed out on the bottle\nNow no one's celebrating\n\n[Chorus]\nDom P\u00e9rignon, you brought it\nNo crowd of friends applauded\nYour hometown skeptics called it\nChampagne problems\nYou had a speech, you're speechless\nLove slipped beyond your reaches\nAnd I couldn't give a reason\nChampagne problems\n\n[Bridge]\nYour Midas touch on the Chevy door\nNovember flush and your flannel cure\n\"This dorm was once a madhouse\"\nI made a joke, \"Well, it's made for me\"\nHow evergreen, our group of friends\nDon't think we'll say that word again\nAnd soon they'll have the nerve to deck the halls\nThat we once walked through\nOne for the money, two for the show\nI never was ready so I watch you go\nSometimes you just don't know the answer\n'Til someone's on their knees and asks you\n\"She would've made such a lovely bride\nWhat a shame she's fucked in the head,\" they said\nBut you'll find the real thing instead\nShe'll patch up your tapestry that I shred\n\n[Chorus]\nAnd hold your hand while dancing\nNever leave you standing\nCrestfallen on the landing\nWith champagne problems\nYour mom's ring in your pocket\nHer picture in your wallet\nYou won't remember all my\nChampagne problems\n\n[Outro]\nYou won't remember all my\nChampagne problems"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/6260161",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bgold rush by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260161,
+    "instrumental": false,
+    "lyrics_owner_id": 5529082,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1726783392,
+    "path": "/Taylor-swift-gold-rush-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 52,
+    "relationships_index_url": "https://genius.com/Taylor-swift-gold-rush-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 1158295
+    },
+    "title": "\u200bgold rush",
+    "title_with_featured": "\u200bgold rush",
+    "updated_by_human_at": 1726783392,
+    "url": "https://genius.com/Taylor-swift-gold-rush-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Intro]\nGleaming, twinkling\nEyes like sinking\nShips on waters\nSo inviting, I almost jump in\n\n[Chorus]\nBut I don't like a gold rush, gold rush\nI don't like anticipatin' my face in a red flush\nI don't like that anyone would die to feel your touch\nEverybody wants you\nEverybody wonders what it would be like to love you\nWalk past, quick brush\nI don't like slow motion, double vision in rose blush\nI don't like that falling feels like flying 'til the bone crush\nEverybody wants you\nBut I don't like a gold rush\n\n[Verse 1]\nWhat must it be like to grow up that beautiful?\nWith your hair falling into place like dominoes\nI see me padding across your wooden floors\nWith my Eagles T-shirt hanging from the door\n\n[Refrain]\nAt dinner parties, I call you out on your contrarian shit\nAnd the coastal town we wandered 'round had n\u0435ver seen a love as pure as it\nAnd th\u0435n it fades into the gray of my day-old tea\n'Cause it could never be\n\n[Chorus]\n'Cause I don't like a gold rush, gold rush\nI don't like anticipatin' my face in a red flush\nI don't like that anyone would die to feel your touch\nEverybody wants you\nEverybody wonders what it would be like to love you\nWalk past, quick brush\nI don't like slow motion, double vision in rose blush\nI don't like that falling feels like flying 'til the bone crush\nEverybody wants you\nBut I don't like a gold rush\n\n[Verse 2]\nWhat must it be like to grow up that beautiful?\nWith your hair falling into place like dominoes\nMy mind turns your life into folklore\nI can't dare to dream about you anymore\n\n[Refrain]\nAt dinner parties, I won't call you out on your contrarian shit\nAnd the coastal town we never found will never see a love as pure as it\n'Cause it fades into the gray of my day-old tea\n'Cause it will never be\n\n[Outro]\nGleaming, twinkling\nEyes like sinking\nShips on waters\nSo inviting, I almost jump in"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/6260163",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200b'tis the damn season by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260163,
+    "instrumental": false,
+    "lyrics_owner_id": 8674307,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1697325129,
+    "path": "/Taylor-swift-tis-the-damn-season-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 55,
+    "relationships_index_url": "https://genius.com/Taylor-swift-tis-the-damn-season-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 939095
+    },
+    "title": "\u200b\u2019tis the damn season",
+    "title_with_featured": "\u200b'tis the damn season",
+    "updated_by_human_at": 1709400017,
+    "url": "https://genius.com/Taylor-swift-tis-the-damn-season-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nIf I wanted to know who you were hanging with\nWhile I was gone, I would've asked you\nIt's the kind of cold, fogs up windshield glass\nBut I felt it when I passed you\nThere's an ache in you, put there by the ache in me\nBut if it's all the same to you\nIt's the same to me\n\n[Chorus]\nSo we could call it even\nYou could call me \"babe\" for the weekend\n\u200b'Tis the damn season, write this down\nI'm stayin' at my parents' house\nAnd the road not taken looks real good now\nAnd it always leads to you and my hometown\n\n[Verse 2]\nI park\u0435d my car right between the Methodist\nAnd th\u0435 school that used to be ours\nThe holidays linger like bad perfume\nYou can run, but only so far\nI escaped it too, remember how you watched me leave\nBut if it's okay with you, it's okay with me\n\n[Chorus]\nWe could call it even\nYou could call me \"babe\" for the weekend\n\u200b'Tis the damn season, write this down\nI'm stayin' at my parents' house\nAnd the road not taken looks real good now\nTime flies, messy as the mud on your truck tires\nNow I'm missing your smile, hear me out\nWe could just ride around\nAnd the road not taken looks real good now\nAnd it always leads to you and my hometown\n\n[Bridge]\nSleep in half the day just for old times' sake\nI won't ask you to wait if you don't ask me to stay\nSo I'll go back to L.A. and the so-called friends\nWho'll write books about me if I ever make it\nAnd wonder about the only soul\nWho can tell which smiles I'm fakin'\nAnd the heart I know I'm breakin' is my own\nTo leave the warmest bed I've ever known\nWe could call it even\nEven though I'm leaving\nAnd I'll be yours for the weekend\n\u200b'Tis the damn season\n\n[Chorus]\nWe could call it even\nYou could call me \"babe\" for the weekend\n\u200b'Tis the damn season, write this down\nI'm stayin' at my parents' house\nAnd the road not taken looks real good now\nTime flies, messy as the mud on your truck tires\nNow I'm missing your smile, hear me out\nWe could just ride around\nAnd the road not taken looks real good now\nAnd it always leads to you and my hometown\n\n[Outro]\nIt always leads to you and my hometown"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 20,
+    "api_path": "/songs/6260164",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200btolerate it by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260164,
+    "instrumental": false,
+    "lyrics_owner_id": 5529082,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716108693,
+    "path": "/Taylor-swift-tolerate-it-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 86,
+    "relationships_index_url": "https://genius.com/Taylor-swift-tolerate-it-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 2238142
+    },
+    "title": "\u200btolerate it",
+    "title_with_featured": "\u200btolerate it",
+    "updated_by_human_at": 1716108694,
+    "url": "https://genius.com/Taylor-swift-tolerate-it-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nI sit and watch you readin' with your head low\nI wake and watch you breathin' with your eyes closed\nI sit and watch you\nI notice everything you do or don't do\nYou're so much older and wiser, and I\n\n[Chorus]\nI wait by the door like I'm just a kid\nUse my best colors for your portrait\nLay the table with the fancy shit\nAnd watch you tolerate it\nIf it's all in my head, tell me now\nTell me I've got it wrong somehow\nI know my love should be celebrated\nBut you tolerate it\n\n[Verse 2]\nI greet you with a battle hero's welcome\nI take your indiscretions all in good fun\nI sit and list\u0435n\nI polish plates until they gleam and glist\u0435n\nYou're so much older and wiser, and I\n\n[Chorus]\nI wait by the door like I'm just a kid\nUse my best colors for your portrait\nLay the table with the fancy shit\nAnd watch you tolerate it\nIf it's all in my head, tell me now\nTell me I've got it wrong somehow\nI know my love should be celebrated\nBut you tolerate it\n\n[Bridge]\nWhile you were out buildin' other worlds, where was I?\nWhere's that man who'd throw blankets over my barbed wire?\nI made you my temple, my mural, my sky\nNow I'm beggin' for footnotes in the story of your life\nDrawin' hearts in the byline\nAlways takin' up too much space or time\nYou assume I'm fine, but what would you do if I (I)\n\n[Chorus]\nBreak free and leave us in ruins?\nTook this dagger in me and removed it\nGain the weight of you, then lose it\nBelieve me, I could do it\nIf it's all in my head, tell me now\nTell me I've got it wrong somehow\nI know my love should be celebrated\nBut you tolerate it\n\n[Outro]\nI sit and watch you"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/6260165",
+    "artist_names": "Taylor Swift (Ft. HAIM)",
+    "full_title": "\u200bno body, no crime by\u00a0Taylor\u00a0Swift (Ft.\u00a0HAIM)",
+    "header_image_thumbnail_url": "https://images.genius.com/91b428d5b489b1e6ab4b541a59a7805d.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/91b428d5b489b1e6ab4b541a59a7805d.684x684x1.jpg",
+    "id": 6260165,
+    "instrumental": false,
+    "lyrics_owner_id": 8431141,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711777783,
+    "path": "/Taylor-swift-no-body-no-crime-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 82,
+    "relationships_index_url": "https://genius.com/Taylor-swift-no-body-no-crime-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/91b428d5b489b1e6ab4b541a59a7805d.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/91b428d5b489b1e6ab4b541a59a7805d.684x684x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 1022734
+    },
+    "title": "\u200bno body, no crime",
+    "title_with_featured": "\u200bno body, no crime (Ft.\u00a0HAIM)",
+    "updated_by_human_at": 1711777783,
+    "url": "https://genius.com/Taylor-swift-no-body-no-crime-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/43588",
+      "header_image_url": "https://images.genius.com/5dfdaed7791dec55659e349afe6eafbb.1000x400x1.jpg",
+      "id": 43588,
+      "image_url": "https://images.genius.com/f43451dd0dfb9612bb7c791abd16a667.1000x1000x1.jpg",
+      "index_character": "h",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "HAIM",
+      "slug": "Haim",
+      "url": "https://genius.com/artists/Haim",
+      "iq": 832
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Intro: HAIM]\nHe did it\nHe did it\n\n[Verse 1: Taylor Swift]\nEste's a friend of mine\nWe meet up every Tuesday night for dinner and a glass of wine\nEste's been losin' sleep\nHer husband's actin' different and it smells like infidelity\nShe says, \"That ain't my Merlot on his mouth\nThat ain't my jewelry on our joint account\"\nNo, there ain't no doubt\nI think I'm gonna call him out\n\n[Chorus: Taylor Swift & HAIM]\nShe says, \"I think he did it, but I just can't prove it\"\nI think he did it, but I just can't prove it\nI think he did it, but I just can't prove it\nNo, no body, no crime\nBut I ain't lettin' up until the day I die\n\n[Post-Chorus: HAIM]\nNo, no\nI think he did it\nNo, no\nHe did it\n\n[Verse 2: Taylor Swift]\nEste wasn't there Tuesday night at Olive Gard\u0435n\nAt her job or anywhere\nH\u0435 reports his missing wife\nAnd I noticed when I passed his house\nHis truck has got some brand new tires\nAnd his mistress moved in\nSleeps in Este's bed and everything\nNo, there ain't no doubt\nSomebody's gotta catch him out 'cause\n\n[Chorus: Taylor Swift & HAIM]\nI think he did it, but I just can't prove it (He did it)\nI think he did it, but I just can't prove it (He did it)\nI think he did it, but I just can't prove it\nNo, no body, no crime\nBut I ain't lettin' up until the day I die\n\n[Post-Chorus: HAIM & Taylor Swift]\nNo, no\nI think he did it\nNo, no\nHe did it\n\n[Bridge: Taylor Swift & Danielle Haim]\nGood thing my daddy made me get a boating license when I was fifteen\nAnd I've cleaned enough houses to know how to cover up a scene\nGood thing Este's sister's gonna swear she was with me (She was with me, dude)\nGood thing his mistress took out a big life insurance policy\n\n[Chorus: Taylor Swift]\nThey think she did it, but they just can't prove it\nThey think she did it, but they just can't prove it\nShe thinks I did it, but she just can't prove it\n\n[Outro: Taylor Swift & HAIM]\nNo, no body, no crime\nI wasn't lettin' up until the day he\nNo, no body, no crime\nI wasn't lettin' up until the day he\nNo, no body, no crime\nI wasn't lettin' up until the day he died"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 22,
+    "api_path": "/songs/6260166",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bhappiness by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260166,
+    "instrumental": false,
+    "lyrics_owner_id": 4921876,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724868283,
+    "path": "/Taylor-swift-happiness-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 52,
+    "relationships_index_url": "https://genius.com/Taylor-swift-happiness-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 1445519
+    },
+    "title": "\u200bhappiness",
+    "title_with_featured": "\u200bhappiness",
+    "updated_by_human_at": 1724868283,
+    "url": "https://genius.com/Taylor-swift-happiness-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nHoney, when I'm above the trees\nI see this for what it is\nBut now I'm right\u2005down\u2005in it, all\u2005the years I've given\nIs just shit\u2005we're dividin' up\nShowed you all of my hiding spots\nI was dancing when the music stopped\nAnd in the disbelief, I can't face reinvention\nI haven't met the new me yet\n\n[Chorus]\nThere'll be happiness after you\nBut there was happiness because of you\nBoth of these things can be true\nThere is happiness\n\n[Post-Chorus]\nPast the blood and bruise\nPast the curses and cries\nBeyond the terror in the nightfall\nHaunted by the look in my eyes\nThat would've loved you for a lifetime\nLeave it all behind\nAnd there is happiness\n\n[Verse 2]\nTell me, when did your winning smile\nBegin to look like a smirk?\nWhen did all our lessons start to look like weapons\nPointed at my deepest hurt?\nI hope she'll be a beautiful fool\nWho takes my spot next to you\nNo, I didn't mean that\nSorry, I can't see facts through all of my fury\nYou haven't met the new me yet\n\n[Chorus]\nThere'll be happiness after me\nBut there was happiness because of me\nBoth of these things, I believe\nThere is happiness\n\n[Post-Chorus]\nIn our history, across our great divide\nThere is a glorious sunrise\nDappled with the flickers of light\nFrom the dress I wore at midnight, leave it all behind\nAnd there is happiness\n\n[Bridge]\nI can't make it go away by making you a villain\nI guess it's the price I paid for seven years in Heaven\nAnd I pulled your body into mine\nEvery goddamn night, now I get fake niceties\nNo one teaches you what to do\nWhen a good man hurts you\nAnd you know you hurt him too\n\n[Verse 3]\nHoney, when I'm above the trees\nI see it for what it is\nBut now my eyes leak acid rain on the pillow where you used to lay your head\nAfter giving you the best I had\nTell me what to give after that\nAll you want from me now is the green light of forgiveness\nYou haven't met the new me yet\nAnd I think she'll give you that\n\n[Chorus]\nThere'll be happiness after you\nBut there was happiness because of you too\nBoth of these things can be true\nThere is happiness\n\n[Post-Chorus]\nIn our history, across our great divide\nThere is a glorious sunrise\nDappled with the flickers of light\nFrom the dress I wore at midnight, leave it all behind\nOh, leave it all behind\nLeave it all behind\nAnd there is happiness"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/6260167",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bdorothea by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260167,
+    "instrumental": false,
+    "lyrics_owner_id": 5667167,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721753653,
+    "path": "/Taylor-swift-dorothea-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 50,
+    "relationships_index_url": "https://genius.com/Taylor-swift-dorothea-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 761648
+    },
+    "title": "\u200bdorothea",
+    "title_with_featured": "\u200bdorothea",
+    "updated_by_human_at": 1721753653,
+    "url": "https://genius.com/Taylor-swift-dorothea-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nHey, Dorothea, do you ever stop and think about me?\nWhen we were younger, down in the park\nHoney, makin' a lark of the misery\nYou got shiny friends since you left town\nA tiny screen's the only place I see you now\nAnd I got nothin' but well wishes for ya\n\n[Pre-Chorus]\nOoh\nThis place is the same as it ever was\nOoh\nBut you won't like it that way\n\n[Chorus]\nIt's never too late to come back to my side\nThe stars in your eyes shined brighter in Tupelo\nAnd if you're ever tired of b\u0435in' known for who you know\nYou know that you'll always know me\nDorothea, uh-uh\nDorothea, ah-ah\n\n[Post-Chorus]\nOoh\nYou'r\u0435 a queen sellin' dreams, sellin' makeup and magazines\nOoh\nFrom you, I'd buy anything\n\n[Verse 2]\nHey, Dorothea, do you ever stop and think about me?\nWhen it was calmer, skippin' the prom\nJust to piss off your mom and her pageant schemes\nAnd damn, Dorothea, they all wanna be ya\nBut are you still the same soul I met under the bleachers? Well\n\n[Pre-Chorus]\nOoh\nI guess I'll never know\nOoh\nAnd you'll go on with the show\n\n[Chorus]\nBut it's never too late to come back to my side\nThe stars in your eyes shined brighter in Tupelo\nAnd if you're ever tired of bein' known for who you know\nYou know, you'll always know me\nDorothea, uh-uh\nDorothea, ah-ah\n\n[Outro]\nOoh, ooh\nOoh-woo-ooh-ooh-ooh, ooh-ooh-ooh-ooh\nOoh, ooh\nOoh-woo-ooh-ooh-ooh, ooh-ooh-ooh\nDorothea (Ah-ah-ah)\nAh-ah\nOoh"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/6260168",
+    "artist_names": "Taylor Swift (Ft. The National)",
+    "full_title": "\u200bconey island by\u00a0Taylor\u00a0Swift (Ft.\u00a0The\u00a0National)",
+    "header_image_thumbnail_url": "https://images.genius.com/bba6a3907af29c08efac7d00d96cd422.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/bba6a3907af29c08efac7d00d96cd422.1000x1000x1.jpg",
+    "id": 6260168,
+    "instrumental": false,
+    "lyrics_owner_id": 3267265,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728591291,
+    "path": "/Taylor-swift-coney-island-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 52,
+    "relationships_index_url": "https://genius.com/Taylor-swift-coney-island-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/bba6a3907af29c08efac7d00d96cd422.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/bba6a3907af29c08efac7d00d96cd422.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 820671
+    },
+    "title": "\u200bconey island",
+    "title_with_featured": "\u200bconey island (Ft.\u00a0The\u00a0National)",
+    "updated_by_human_at": 1728591292,
+    "url": "https://genius.com/Taylor-swift-coney-island-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/658",
+      "header_image_url": "https://images.genius.com/96aaa9ddba355dc1a4e9f6cfb06fe105.1000x381x1.jpg",
+      "id": 658,
+      "image_url": "https://images.genius.com/f3c14d049d6d818aac3ef2e2131eb86b.1000x1000x1.jpg",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The National",
+      "slug": "The-national",
+      "url": "https://genius.com/artists/The-national"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1: Taylor Swift]\nBreak my soul in two looking for you\nBut you're right here\nIf I can't relate to you anymore\nThen who am I related to?\nAnd if this is the long haul\nHow'd we get here so soon?\nDid I close my fist around something delicate?\nDid I shatter you?\n\n[Chorus: Taylor Swift]\nAnd I'm sitting on a bench in Coney Island\nWondering, where did my baby go?\nThe fast times, the bright lights, the merry go\nSorry for not making you my centerfold\nOver and over\nLost again with no surprises\nDisappointments, close your eyes\nAnd it gets colder and colder\nWhen the sun goes down\n\n[Verse 2: Matt Berninger with Taylor Swift]\nThe question pounds my head\nWhat's a lifetime of achievement\nIf I pushed you to the edge\nBut you were too polite to leave me?\nAnd do you miss the rogue\nWho coaxed you into paradise and left you there?\nWill you forgive my soul\nWhen you're too wise to trust me and too old to care?\n\n[Chorus: Taylor Swift with Matt Berninger]\n'Cause we were like the mall before the internet\nIt was the one place to be\nThe mischief, the gift-wrapped suburban dreams\nSorry for not winning you an arcade ring\nOver and over\nLost again with no surprises\nDisappointments, close your eyes\nAnd it gets colder and colder\nWhen the sun goes down\n\n[Bridge: Taylor Swift, Matt Berninger, Both]\nWere you waiting at our old spot\nIn the tree line by the gold clock\nDid I leave you hanging every single day?\nWere you standing in the hallway\nWith a big cake, happy birthday\nDid I paint your bluest skies the darkest grey?\nA universe away\nAnd when I got into the accident\nThe sight that flashed before me was your face\nBut when I walked up to the podium\nI think that I forgot to say your name\n\n[Chorus: Taylor Swift & Matt Berninger]\nI'm on a bench in Coney Island\nWondering, where did my baby go?\nThe fast times, the bright lights, the merry go\nSorry for not making you my centerfold\nOver and over\nLost again with no surprises\nDisappointments, close your eyes\nAnd it gets colder and colder\nWhen the sun goes down\n\n[Outro: Taylor Swift & Matt Berninger]\nWhen the sun goes down\nThe sight that flashed before me was your face\nWhen the sun goes down\nBut I think that I forgot to say your name\nOver and over\nSorry for not making you my, making you my\nMaking you my centerfold"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/6260153",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bivy by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260153,
+    "instrumental": false,
+    "lyrics_owner_id": 4335922,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728529075,
+    "path": "/Taylor-swift-ivy-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 52,
+    "relationships_index_url": "https://genius.com/Taylor-swift-ivy-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 1357950
+    },
+    "title": "\u200bivy",
+    "title_with_featured": "\u200bivy",
+    "updated_by_human_at": 1728529075,
+    "url": "https://genius.com/Taylor-swift-ivy-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nHow's one to know?\nI'd meet you where the spirit meets the bones\nIn a faith-forgotten land\nIn from the snow\nYour touch brought forth an incandescent glow\nTarnished but so grand\n\n[Pre-Chorus]\nAnd the old widow goes to the stone every day\nBut I don't, I just sit here and wait\nGrieving for the living\n\n[Chorus]\nOh, goddamn\nMy pain fits in the palm of your freezing hand\nTaking mine, but it's been promised to another\nOh, I can't\nStop you putting roots in my dreamland\nMy house of stone, your ivy grows\nAnd now I'm covered in you\n\n[Verse 2]\nI wish to know\nThe fatal flaw that makes you long to be\nMagnificently cursed\nHe's in the room\nYour opal eyes are all I wish to see\nHe wants what's only yours\n\n[Chorus]\nOh, goddamn\nMy pain fits in the palm of your freezing hand\nTaking mine, but it's been promised to another\nOh, I can't\nStop you putting roots in my dreamland\nMy house of stone, your ivy grows\nAnd now I'm covered\n\n[Verse 3]\nClover blooms in the fields\nSpring breaks loose, the time is near\nWhat would he do if he found us out?\nCrescent moon, coast is clear\nSpring breaks loose, but so does fear\nHe's gonna burn this house to the ground\nHow's one to know?\nI'd live and die for moments that we stole\nOn begged and borrowed time\nSo tell me to run\nOr dare to sit and watch what we'll become\nAnd drink my husband's wine\n\n[Chorus]\nOh, goddamn\nMy pain fits in the palm of your freezing hand\nTaking mine, but it's been promised to another\nOh, I can't\nStop you putting roots in my dreamland\nMy house of stone, your ivy grows\nAnd now I'm covered in you\nAnd I'm covered in you\n\n[Bridge]\nSo yeah, it's a fire\nIt's a goddamn blaze in the dark\nAnd you started it\nYou started it\nSo yeah, it's a war\nIt's the goddamn fight of my life\nAnd you started it\nYou started it\n\n[Chorus]\nOh, I can't\nStop you putting roots in my dreamland\nMy house of stone, your ivy grows\nAnd now I'm covered\nIn you, in you\nNow I'm covered in you\nIn you"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 20,
+    "api_path": "/songs/6260173",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bcowboy like me by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260173,
+    "instrumental": false,
+    "lyrics_owner_id": 4335922,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716136362,
+    "path": "/Taylor-swift-cowboy-like-me-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 63,
+    "relationships_index_url": "https://genius.com/Taylor-swift-cowboy-like-me-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false,
+     "pageviews": 922919
+    },
+    "title": "\u200bcowboy like me",
+    "title_with_featured": "\u200bcowboy like me",
+    "updated_by_human_at": 1716961072,
+    "url": "https://genius.com/Taylor-swift-cowboy-like-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nAnd the tennis court was covered up\nWith some tent-like thing\nAnd you asked me to dance\nBut I said, \"Dancin' is a dangerous game\"\nOh, I thought\nThis is gonna be one of those things\nNow I know\nI'm never gonna love again\n\n[Refrain]\nI've got some tricks up my sleeve\nTakes one to know one\nYou're a cowboy like me\n\n[Verse 2]\nNever wanted love\nJust a fancy car\nNow I'm waiting by the phone\nLike I'm sitting in an airport bar\n[Refrain]\nYou had some tricks up your sleeve\nTakes one to know one\nYou're a cowboy like me\n\n[Chorus]\nPerched in the dark\nTellin' all the rich folks anything they wanna hear\nLike it could be love\nI could be the way forward\nOnly if they pay for it\nYou're a bandit like me\nEyes full of stars\nHustling for the good life, never thought I'd meet you here\nIt could be love\nWe could be the way forward\nAnd I know I'll pay for it\n\n[Chorus]\nYou're a cowboy like me\nPerched in the dark\nTellin' all the rich folks anything they wanna hear\nLike it could be love\nI could be the way forward\nOnly if they pay for it\nYou're a bandit like me\nEyes full of stars\nHustlin' for the good life, never thought I'd meet you here\nIt could be love\nWe could be the way forward\nAnd I know I'll pay for it\n\n[Bridge]\nAnd the skeletons in both our closets\nPlotted hard to fuck this up\nAnd the old men that I've swindled\nReally did believe I was the one\nAnd the ladies lunchin' have their stories about\nWhen you passed through town\nOh, but that was all before I locked it down\n\n[Verse 3]\nNow you hang from my lips\nLike the Gardens of Babylon\nWith your boots beneath my bed\nForever is the sweetest con\n\n[Refrain]\nI've had some tricks up my sleeve\nTakes one to know one\nYou're a cowboy like me\n\n[Outro]\nAnd I'm never gonna love again\nI'm never gonna love again\nI'm never gonna love again"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 19,
+    "api_path": "/songs/6260174",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bl\u200bong story short by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260174,
+    "instrumental": false,
+    "lyrics_owner_id": 93685,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711943704,
+    "path": "/Taylor-swift-long-story-short-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 46,
+    "relationships_index_url": "https://genius.com/Taylor-swift-long-story-short-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 6,
+     "hot": false,
+     "pageviews": 697552
+    },
+    "title": "\u200bl\u200bong story short",
+    "title_with_featured": "\u200bl\u200bong story short",
+    "updated_by_human_at": 1721396577,
+    "url": "https://genius.com/Taylor-swift-long-story-short-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nFatefully\nI tried to pick my battles 'til the battle picked me\nMisery\nLike the war of words I shouted in my sleep\nAnd you passed right by\nI was in the alley, surrounded on all sides\nThe knife cuts both ways\nIf the shoe fits, walk in it 'til your high heels break\n\n[Chorus]\nAnd I fell from the pedestal\nRight down the rabbit hole\nLong story short, it was a bad time\nPushed from the precipice\nClung to the nearest lips\nLong story short, it was the wrong guy\n\n[Post-Chorus]\nNow I'm all about you\nI'm all about you, ah\nYeah, yeah\nI'm all about you, ah\nYeah, yeah\n\n[Verse 2]\nActually\nI always felt I must look better in the rear view\nMissing me\nAt the golden gates they once held the keys to\nWhen I dropped my sword\nI threw it in the bushes and knocked on your door\nAnd we live in peace\nBut if someone comes at us, this time, I'm ready\n\n[Chorus]\n'Cause I fell from the pedestal\nRight down the rabbit hole\nLong story short, it was a bad time\nPushed from the precipice\nClung to the nearest lips\nLong story short, it was the wrong guy\n\n[Post-Chorus]\nNow I'm all about you\nI'm all about you, ah\nYeah, yeah\nI'm all about you\n\n[Bridge]\nNo more keepin' score\nNow I just keep you warm (Keep you warm)\nNo more tug of war\nNow I just know there's more (Know there's more)\nNo more keepin' score\nNow I just keep you warm (Keep you warm)\nAnd my waves meet your shore\nEver and evermore\n\n[Verse 3]\nPast me\nI wanna tell you not to get lost in these petty things\nYour nemeses\nWill defeat themselves before you get the chance to swing\nAnd he's passing by\nRare as the glimmer of a comet in the sky\nAnd he feels like home\nIf the shoe fits, walk in it everywhere you go\n\n[Chorus]\nAnd I fell from the pedestal\nRight down the rabbit hole\nLong story short, it was a bad time\nPushed from the precipice\nClimbed right back up the cliff\nLong story short, I survived\n\n[Post-Chorus]\nNow I'm all about you\n(And now) I'm all about you, ah\n(And now) I'm all about you\n(And now) I'm all about you, ah\nYeah, yeah\nI'm all about you\n(And now) Yeah, yeah\nI'm all about you\n\n[Outro]\nLong story short, it was a bad time\nLong story short, I survived"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/6260158",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bmarjorie by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260158,
+    "instrumental": false,
+    "lyrics_owner_id": 4335922,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1725448526,
+    "path": "/Taylor-swift-marjorie-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 46,
+    "relationships_index_url": "https://genius.com/Taylor-swift-marjorie-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 732075
+    },
+    "title": "\u200bmarjorie",
+    "title_with_featured": "\u200bmarjorie",
+    "updated_by_human_at": 1725439352,
+    "url": "https://genius.com/Taylor-swift-marjorie-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nNever be so kind\nYou forget to be clever\nNever be so clever\nYou forget to be kind\n\n[Pre-Chorus]\nAnd if I didn't know better\nI'd think you were talking to me now\nIf I didn't know better\nI'd think you were still around\n\n[Chorus]\nWhat died didn't stay dead\nWhat died didn't stay dead\nYou're alive, you're alive in my head\nWhat died didn't stay dead\nWhat died didn't stay dead\nYou're alive, so alive\n\n[Verse 2]\nNever be so polit\u0435\nYou forget your power\nNev\u0435r wield such power\nYou forget to be polite\n\n[Pre-Chorus]\nAnd if I didn't know better\nI'd think you were listening to me now\nIf I didn't know better\nI'd think you were still around\n\n[Chorus]\nWhat died didn't stay dead\nWhat died didn't stay dead\nYou're alive, you're alive in my head\nWhat died didn't stay dead\nWhat died didn't stay dead\nYou're alive, so alive\n\n[Bridge]\nThe autumn chill that wakes me up\nYou loved the amber skies so much\nLong limbs and frozen swims\nYou'd always go past where our feet could touch\nAnd I complained the whole way there\nThe car ride back and up the stairs\nI should've asked you questions\nI should've asked you how to be\nAsked you to write it down for me\nShould've kept every grocery store receipt\n'Cause every scrap of you would be taken from me\nWatched as you signed your name Marjorie\nAll your closets of backlogged dreams\nAnd how you left them all to me\n\n[Chorus]\nWhat died didn't stay dead\nWhat died didn't stay dead\nYou're alive, you're alive in my head\nWhat died didn't stay dead\nWhat died didn't stay dead\nYou're alive, so alive\n\n[Outro]\nAnd if I didn't know better\nI'd think you were singing to me now\nIf I didn't know better\nI'd think you were still around\nI know better\nBut I still feel you all around\nI know better\nBut you're still around"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 22,
+    "api_path": "/songs/6260162",
+    "artist_names": "Taylor Swift",
+    "full_title": "\u200bclosure by\u00a0Taylor\u00a0Swift",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260162,
+    "instrumental": false,
+    "lyrics_owner_id": 3711735,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719100995,
+    "path": "/Taylor-swift-closure-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 31,
+    "relationships_index_url": "https://genius.com/Taylor-swift-closure-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 16,
+     "hot": false,
+     "pageviews": 595862
+    },
+    "title": "\u200bclosure",
+    "title_with_featured": "\u200bclosure",
+    "updated_by_human_at": 1719100995,
+    "url": "https://genius.com/Taylor-swift-closure-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1]\nIt's been a long time\nAnd seeing the shape of your name\nStill spells out pain\nIt wasn't right\nThe way it all went down\nLooks like you know that now\n\n[Chorus]\nYes, I got your letter\nYes, I'm doing better\nIt cut deep to know ya, right to the bone\nYes, I got your letter\nYes, I'm doing better\nI know that it's over, I don't need your\nClosure, your closure\n\n[Verse 2]\nDon't treat me like\nSome situation that needs to be handled\nI'm fine with my spite\nAnd my tears and my beers and my candles\nI can feel you smoothing me over\n\n[Chorus]\nYes, I got your letter\nYes, I'm doing bett\u0435r\nIt cut deep to know ya, right to the bone\nYes, I got your l\u0435tter\nYes, I'm doing better\nI know that it's over, I don't need your\nClosure, your closure\nYour closure, your closure\n\n[Bridge]\nI know I'm just a wrinkle in your new life\nStaying friends would iron it out so nice\nGuilty, guilty, reaching out across the sea\nThat you put between you and me\nBut it's fake and it's oh-so unnecessary\n\n[Chorus]\nYes, I got your letter\nYes, I'm doing better\nIt cut deep to know ya, right to the bone\nYes, I got your letter\nYes, I'm doing better\nI know that it's over, I don't need your\nClosure, closure, your closure\nYour closure"
+   }
+  },
+  {
+   "number": 15,
+   "song": {
+    "_type": "song",
+    "annotation_count": 22,
+    "api_path": "/songs/6260141",
+    "artist_names": "Taylor Swift (Ft. Bon Iver)",
+    "full_title": "\u200bevermore by\u00a0Taylor\u00a0Swift (Ft.\u00a0Bon\u00a0Iver)",
+    "header_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "id": 6260141,
+    "instrumental": false,
+    "lyrics_owner_id": 3499957,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724963322,
+    "path": "/Taylor-swift-evermore-lyrics",
+    "primary_artist_names": "Taylor Swift",
+    "pyongs_count": 54,
+    "relationships_index_url": "https://genius.com/Taylor-swift-evermore-sample",
+    "release_date_components": {
+     "year": 2020,
+     "month": 12,
+     "day": 11
+    },
+    "release_date_for_display": "December 11, 2020",
+    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3e354c719fe236ab4a75adc6ea4c7fca.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 9,
+     "hot": false,
+     "pageviews": 1293751
+    },
+    "title": "\u200bevermore",
+    "title_with_featured": "\u200bevermore (Ft.\u00a0Bon\u00a0Iver)",
+    "updated_by_human_at": 1724963323,
+    "url": "https://genius.com/Taylor-swift-evermore-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/3f15191e4a8eb92acc4c2c90c787a5f7.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/1177",
+     "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+     "id": 1177,
+     "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+     "index_character": "t",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Taylor Swift",
+     "slug": "Taylor-swift",
+     "url": "https://genius.com/artists/Taylor-swift",
+     "iq": 1544
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/1290896984554842b40f2450be157203.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/df4a816f593b08bc8a361ad58a848640.1000x1000x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "slug": "Taylor-swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1544
+     }
+    ],
+    "artist": "Taylor Swift",
+    "lyrics": "[Verse 1: Taylor Swift]\nGray November\nI've been down since July\nMotion capture\nPut me in a bad light\nI replay my footsteps on each stepping stone\nTrying to find the one where I went wrong\nWriting letters\nAddressed to the fire\n\n[Chorus: Taylor Swift]\nAnd I was catchin' my breath\nStarin' out an open window, catchin' my death\nAnd I couldn't be sure\nI had a feeling so peculiar\nThat this pain would be for\nEvermore\n\n[Verse 2: Taylor Swift]\nHey, December\nGuess I'm feeling unmoored\nCan't remember\nWhat I used to fight for\nI rewind th\u0435 tape, but all it does is pause\nOn th\u0435 very moment all was lost\nSending signals\nTo be double-crossed\n\n[Chorus: Taylor Swift]\nAnd I was catchin' my breath\nBarefoot in the wildest winter, catchin' my death\nAnd I couldn't be sure\nI had a feeling so peculiar\nThat this pain would be for\nEvermore\n\n[Post-Chorus: Justin Vernon]\n(Evermore)\n[Bridge: Justin Vernon, Taylor Swift]\nCan't not think of all the cost\nAnd the things that will be lost\nOh, can we just get a pause?\nTo be certain we'll be tall again\nWhether weather be the frost\nOr the violence of the dog days\nI'm on waves, out being tossed\nIs there a line that I could just go cross?\nAnd when I was shipwrecked (Can't think of all the cost now)\nI thought of you (All the things that will be lost now)\nIn the cracks of light (Can we just get a pause?)\nI dreamed of you (To be certain we'll be tall again)\n(If you think of all the cost)\nIt was real enough (Whether weather be the frost)\nTo get me through (Or the violence of the dog days)\n(Or the violence of the dog days)\n(Out on waves, being tossed)\n(I'm on waves, out being tossed)\nBut I swear (Is there a line that we can just go cross?)\nYou were there\n\n[Chorus: Taylor Swift & Justin Vernon]\nAnd I was catchin' my breath\nFloors of a cabin creakin' under my step\nAnd I couldn't be sure\nI had a feeling so peculiar\nThis pain wouldn't be for\nEvermore\n\n[Outro: Taylor Swift, Justin Vernon, Both]\nEvermore (Evermore)\nEvermore (Evermore)\nThis pain wouldn't be for evermore\nEvermore"
+   }
+  }
+ ]
+}

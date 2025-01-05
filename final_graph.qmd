@@ -1,0 +1,892 @@
+---
+title: "Final project | Taylor Swift albums - themes, musical features, and popularity"  
+format:
+  dashboard:
+    toc: true
+    code-tools: true
+    smooth-scroll: true
+---
+
+
+```{python}
+# Import packages
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+import plotly.io as pio
+import itables 
+import numpy as np
+import openai
+from openai import OpenAI
+from local_settings import (
+    OPENAI_KEY2)
+
+
+client = OpenAI(api_key=OPENAI_KEY2)
+```
+
+```{python}
+# Load the data
+taylor_songs=pd.read_csv('outputs/taylor_tracks_lyrics.csv')
+
+album_release=pd.read_csv('outputs/album_release.csv')
+
+taylor_s_wlyrics_theme=pd.read_csv("outputs/taylor_s_wlyrics.csv")
+
+#clean the data
+
+taylor_songs=taylor_songs.query("artist== 'Taylor Swift'")
+
+taylor_songs = taylor_songs.dropna(subset=['album_name'])
+
+```
+
+
+
+```{python}
+# compute average popularity of albums
+
+average_popularity = taylor_songs.groupby('album_name')['popularity'].mean()
+
+average_popularity=pd.DataFrame(average_popularity).reset_index()
+
+track_count_per_album = taylor_songs.groupby('album_name')['track_name'].count().reset_index()
+
+track_count_per_album.rename(columns={'track_name': 'track_count'}, inplace=True)
+
+
+```
+
+```{python}
+#merge album release date with average popularity data and count of songs
+
+pop_release = pd.merge(average_popularity, album_release, on='album_name')
+
+pop_release = pd.merge(pop_release, track_count_per_album, on='album_name')
+
+
+```
+
+
+
+# Album popularity
+
+## Album popularity {height="60%"}
+
+### Column {width="70%"}
+
+```{python}
+
+
+# Ensure release_date is in datetime format
+pop_release["release_date"] = pd.to_datetime(pop_release["release_date"])
+
+# Replace NaN values in popularity with 0
+pop_release["popularity"] = pop_release["popularity"].fillna(0)
+
+# Filter for albums released from 2015 onwards and popularity >= 30
+pop_release_filtered = pop_release[
+    (pop_release["release_date"] >= "2015-01-01") & (pop_release["popularity"] >= 30)
+]
+
+# Create scatter plot with text labels for all points
+album_pop_fig = px.scatter(
+    pop_release_filtered,
+    x="release_date",
+    y="popularity",
+    size="popularity",
+    color="popularity",
+    text="album_name",
+    title="Popularity of Different Eras (2015 Onwards)",
+    labels={
+        "album_name": "Album Name",
+        "release_date": "Release Date",
+        "popularity": "Popularity",
+    },
+    hover_data={"album_name": True, "release_date": True, "popularity": True},
+    color_continuous_scale="Spectral",
+    size_max=50,  # Larger bubble size for better differentiation
+    height=600,
+)
+
+# Adjust text label positions to avoid overlaps
+album_pop_fig.update_traces(
+    textposition="middle center",
+    textfont=dict(size=10),  # Set a smaller font size for readability
+)
+
+# Customize layout
+album_pop_fig.update_layout(
+    xaxis_title="Release Date",
+    yaxis_title=None,
+    yaxis=dict(
+        showticklabels=False, title_standoff=10, automargin=True
+    ),  # Hide y-axis tick labels
+    font=dict(family="Arial, sans-serif", size=12),  # Use a clean font
+    title_font=dict(size=16, family="Arial, sans-serif", color="black"),
+    margin=dict(t=50, b=100, l=50, r=50),
+    xaxis=dict(tickformat="%Y", title_standoff=10, tickangle=-45, automargin=True),
+    template="plotly_white",
+    showlegend=False,
+    title=dict(font=dict(size=18)),
+    autosize=True,
+)
+
+
+album_pop_fig
+
+```
+
+### Column {width="30%"}
+
+Spotify's popularity score (0-100) reflects a track or album's relative engagement on the platform, based on factors like streaming activity, listener engagement, playlist presence, and recentness. 100 represents the most popular tracks or albums on Spotify, 0 represents tracks or albums with minimal or no engagement.  Album popularity is calculated as the average of its tracks' scores.
+
+All of Taylor Swift's album are in the above 40 range, meaning that they are at least moderately popular. The most popular albums are "Lover" and "Reputation", followed by her last album "The tortured poets department". We can see that popularity not only reflects recency of album release, as her second latest album is less popular, as  e.g. Reputation.
+
+The popularity score was obtained from Spotify at the beginning of January, 2025. 
+
+
+## Song popularity {height="40%"}
+
+
+```{python}
+# drop those tracks where we don't have popularity data
+taylor_songs_filtered = taylor_songs.dropna(subset=["popularity"])
+```
+
+```{python}
+# Filter data for the Lover album
+lover_album_data = taylor_songs_filtered[
+    taylor_songs_filtered["album_name"].str.lower() == "lover"
+]
+
+# Ensure track_name is a categorical variable in the original order
+lover_album_data["track_name"] = pd.Categorical(
+    lover_album_data["track_name"],
+    categories=lover_album_data["track_name"],
+    ordered=True,
+)
+
+# Create a bar chart for the Lover album
+lover_pop = px.bar(
+    lover_album_data,
+    x="popularity",
+    y="track_name",
+    title="Popularity of the singles of Lover",
+    labels={"track_name": "Track Name", "popularity": "Popularity"},
+    color="track_name",
+    color_discrete_sequence=px.colors.qualitative.Pastel,
+    height=500,
+)
+
+# Customize layout for better readability
+lover_pop.update_layout(
+    xaxis_title="Popularity",
+    yaxis_title="",
+    xaxis=dict(tickangle=45, automargin=True),
+    margin=dict(t=50, b=150, l=50, r=50),
+    showlegend=False,
+    template="plotly_white",
+    title=dict(font=dict(size=18)),
+    yaxis=dict(automargin=True),
+    autosize=True,
+)
+
+
+# Show the chart for the Lover album
+lover_pop.show()
+```
+
+
+
+# Taylor Swift albums and songs
+
+## Intro {height="5%"}
+
+Taylor Swift has issued more than 10 albums since 2008. To make the working with the data easier, albums such as "remixes", "karaoke version", "live version" were removed from this list.
+
+## Albums {height="45%"}
+
+```{python}
+
+#create table to display
+
+pop_release_table= pop_release.rename(columns={
+    'album_name': 'Album name',
+    'popularity': 'Average popularity',
+    'release_date': 'Release date',
+    'track_count': 'Number of songs'
+})
+
+
+pop_release_table = pop_release_table[['Album name', 'Number of songs', 'Release date', 'Average popularity']]
+
+pop_release_table=pop_release_table.sort_values(by="Release date")
+
+pop_release_table['Album name'] = pop_release_table['Album name'].str.title()
+
+
+pop_release_table['Average popularity'] = pop_release_table['Average popularity'].round(2)
+
+
+itables.show(pop_release_table)
+
+```
+
+## Intro {height="5%"}
+
+Most popular songs of Taylor Swift currently
+
+## Top songs {height="45%"}
+
+```{python}
+#show the top 10 most popular songs of Taylor Swift
+
+top_songs = taylor_songs_filtered.sort_values("popularity", ascending=False).head(10)
+
+top_songs= top_songs[["track_name","album_name", "popularity"]]
+
+top_songs = top_songs.rename(columns={
+    'track_name': 'Song',
+    'album_name': 'Album',
+    'popularity': 'Popularity score (25 Jan)'
+})
+
+top_songs['Song'] = top_songs['Song'].str.capitalize()
+top_songs['Album'] = top_songs['Album'].str.capitalize()
+
+
+itables.show(top_songs)
+```
+
+# Album features
+
+
+## Row 2 {height="35%"}
+
+### Column {width="30%"}
+
+The Point of View (POV) refers to the narrative perspective used in the lyrics.
+
+Categories of POV:
+
+First-Person POV (37.8%): The narrator speaks from a personal perspective, often using "I," "me," or "we."
+Second-Person POV (37.8%): The narrator directly addresses the listener or another person with "you" or "your."
+Third-Person POV (21%): The narrator describes events or characters from an external perspective, using "he," "she," or "they."
+Abstract/No Clear POV (3.4%): Lyrics are metaphorical, symbolic, or lack a definitive narrative perspective.
+
+From this we can see that Taylor Swift Songs are indeed dominated by the personal tone: the majority of the songs are written about personal experiences or directed toward a concrete you
+
+
+
+
+```{python}
+def llm_chat(message):
+    response = client.chat.completions.create(
+        model="gpt-4o-mini", messages=[{"role": "user", "content": message}]
+    )
+    return response.choices[0].message.content
+```
+
+
+```{python}
+# Filter out rows where Lyrics are NaN
+taylor_s_wlyrics = taylor_songs.dropna(subset=['cleaned_lyrics'])
+
+```
+
+
+```{python}
+def allpov(description):
+    # POV prompt to detect all perspectives present in songs
+    prompt = f"""
+    Analyze the following song lyrics and identify all the points of view (POVs) present in the song. A "point of view" is defined as the perspective of the narrator or speaker in the lyrics. Use the categories below and list all relevant categories in quotation marks, separated by commas (e.g., "First-Person Point of View", "Second-Person Point of View"):
+
+    - "First-Person Point of View": The narrator speaks as a character in the story, using pronouns like "I," "me," "my," "we," or "our." This POV emphasizes personal experience or emotion. Example: "I remember it all too well."
+    - "Second-Person Point of View": The narrator directly addresses another person, using pronouns like "you" and "your." This POV involves giving advice, asking questions, or describing the listener. Example: "You call me up again just to break me like a promise."
+    - "Third-Person Point of View": The narrator describes events and characters from outside the story, using pronouns like "he," "she," "they," or names of characters. This POV provides an external perspective. Example: "She danced under the moonlight while he played the guitar."
+    - "Abstract/No Clear POV": The lyrics are too abstract or fragmented to assign a clear POV. This category applies to metaphorical, symbolic, or impressionistic lyrics. Example: "The stars collide in an endless symphony."
+
+    Provide all the categories that are present and only them, separated by commas. Include categories even if they appear briefly.
+
+    Lyrics:
+    {description}
+    """
+    return llm_chat(prompt)
+
+allpov = np.vectorize(allpov)
+```
+
+
+
+```{python}
+
+#taylor_s_wlyrics['pov'] = taylor_s_wlyrics['cleaned_lyrics'].apply(allpov)
+#this was applied but then quarto kept freezing, so I saved the databframe and used it 
+
+```
+
+
+### Column {width="70%"}
+
+```{python}
+
+# Split the POVs into individual categories
+taylor_s_wlyrics_theme["pov"] = taylor_s_wlyrics_theme["pov"].str.replace(
+    '"', ""
+)  # Remove quotation marks for easier processing
+taylor_s_wlyrics_splitted = taylor_s_wlyrics_theme.assign(
+    pov=taylor_s_wlyrics_theme["pov"].str.split(", ")
+).explode("pov")
+
+# Count the occurrences of each POV and calculate percentages
+pov_counts = taylor_s_wlyrics_splitted["pov"].value_counts(normalize=True).reset_index()
+pov_counts.columns = ["Point of View", "Percentage"]
+pov_counts["Percentage"] *= 100  # Convert to percentage
+
+# Create a bar chart with percentages
+pov_fig = px.bar(
+    pov_counts,
+    x="Point of View",
+    y="Percentage",
+    title="Distribution of Points of Views",
+    labels={"Point of View": "Point of View", "Percentage": "Percentage (%)"},
+    color="Point of View",
+    text="Percentage",  # Show percentage values on the bars
+    height=500,
+    color_discrete_sequence=px.colors.qualitative.Pastel1,
+)
+
+# Customize chart layout
+pov_fig.update_traces(
+    texttemplate="%{text:.1f}%", textposition="outside"
+)  # Format percentages
+pov_fig.update_layout(
+    xaxis_title="",
+    yaxis_title="",
+    margin=dict(t=50, b=50, l=50, r=50),
+    template="plotly_white",
+    showlegend=False,
+    title=dict(font=dict(size=18)),
+    xaxis=dict(tickangle=-45, automargin=True),
+    yaxis=dict(automargin=True),
+    autosize=True
+)
+
+# Show the chart
+pov_fig
+
+
+```
+
+
+## Row 3 {height="40%"}
+
+### Column {width="35%"}
+
+```{python}
+
+def song_theme(description):
+    # Refined theme classification with primary and secondary fit
+    prompt = f"""
+    Analyze the following song lyrics and classify the song's theme based on the content into a primary and secondary category from the options below. Use the descriptions carefully and provide the themes in this format:
+
+    Primary Fit: [Select the dominant theme in quotation marks]
+    Secondary Fit: [Select the supporting theme, if applicable, in quotation marks]
+
+    Categories:
+    - "Personal Love and Romance": Songs that celebrate personal romantic feeelings, experiences, relationships, and connections, or explore positive aspects of being in love. These focus on the presence, joy, or longing for love and connection.
+    - "Personal Heartbreak and Revenge": Songs that explore the absence or breakdown of personal romantic love, focusing on the emotional aftermath of heartbreak or betrayal. Includes themes of grief, loss, or seeking justice/retribution against someone who caused emotional harm. 
+    - "Friendship": Songs that celebrate the joys, challenges, and emotional depth of non-romantic relationships.
+    - "Inner Struggles": Songs that delve into self-doubt, anxiety, depression, or personal conflicts.
+    - "Empowerment and Growth": Songs that highlight resilience, confidence, personal transformation, and rising above adversity.
+    - "Social Critique and Cultural Commentary": Songs that reflect on societal issues, fame, gender dynamics, or personal criticism, often with a critical lens.
+    - "Abstract Storytelling": Songs with metaphorical, symbolic, or impressionistic lyrics that lack a clear, literal theme.
+
+    Provide the themes in the specified format. Prioritize the most prominent theme for the Primary Fit and use the Secondary Fit for any additional, supporting themes.
+
+    Lyrics:
+    {description}
+    """
+    return llm_chat(prompt)
+
+song_theme = np.vectorize(song_theme)
+
+```
+
+
+
+```{python}
+#on taylor swift lyrics
+
+#taylor_s_wlyrics['song_theme'] = taylor_s_wlyrics['cleaned_lyrics'].apply(song_theme)
+#same here, not apply to save quarto
+
+
+
+```
+
+```{python}
+
+# Split the song_theme column into primary_theme and secondary_theme
+taylor_s_wlyrics_theme['primary_theme'] = taylor_s_wlyrics_theme['song_theme'].str.extract(r'Primary Fit:\s*"([^"]+)"')
+taylor_s_wlyrics_theme['secondary_theme'] = taylor_s_wlyrics_theme['song_theme'].str.extract(r'Secondary Fit:\s*"([^"]+)"')
+
+```
+
+
+
+```{python}
+
+# occurrences of themes (Primary and Secondary)
+theme_counts = pd.concat([
+    taylor_s_wlyrics_theme['primary_theme'],
+    taylor_s_wlyrics_theme['secondary_theme']
+]).value_counts(normalize=True) * 100
+
+
+theme_data = theme_counts.reset_index()
+theme_data.columns = ['Theme', 'Percentage']
+
+custom_colors = {
+    "Personal Love and Romance": "#cb84ac",
+    "Personal Heartbreak and Revenge": "#9c9498",
+    "Inner Struggles": "#768abb",
+    "Empowerment and Growth": "#fdd764",
+    "Friendship": "#f0ab8d",
+    "Social Critique and Cultural Commentary": "#76bb89",
+    "Abstract Storytelling": "lightblue"  
+}
+
+
+treemap = px.treemap(
+    theme_data,
+    path=['Theme'],
+    values='Percentage',
+    title="Themes Present in Taylor Swift Songs",
+    color='Theme',  
+    color_discrete_map=custom_colors,  
+    labels={'Percentage': 'Percentage (%)'}
+)
+
+
+# Add percentage labels on the treemap
+treemap.update_traces(
+    textinfo="label+percent entry",
+    textfont=dict(family="Arial", weight="bold"),
+    hovertemplate="<b>Theme:</b> %{label}<br><b>Percentage:</b> %{value:.2f}%",  
+)
+
+# Customize the layout
+treemap.update_layout(
+    margin=dict(t=50, b=50, l=50, r=50),
+    title_font_size=18  ,
+    title_x=0.1,
+    title=dict(font=dict(size=18)),
+    xaxis=dict(tickangle=-45, automargin=True),
+    yaxis=dict(automargin=True),
+    autosize=True  
+)
+
+# Show the treemap
+treemap
+
+
+
+```
+
+
+### Column {width="45%"}
+
+```{python}
+# Count occurrences of each theme for each album
+theme_counts2 = taylor_s_wlyrics_theme.groupby(['album_name', 'primary_theme']).size().reset_index(name='count')
+
+# Calculate percentages
+theme_counts2['percentage'] = theme_counts2.groupby('album_name')['count'].transform(lambda x: (x / x.sum()) * 100)
+
+# Merge with release_date
+theme_counts2 = theme_counts2.merge(
+    pop_release[['album_name', 'release_date']],
+    on='album_name',
+    how='left'
+)
+
+# Sort by release_date and set the order for the x-axis
+theme_counts2 = theme_counts2.sort_values(by='release_date')
+
+
+# Extract the album order based on release_date
+album_order = theme_counts2.drop_duplicates(subset="album_name").sort_values(by="release_date")["album_name"].tolist()
+
+
+# Create the percent-stacked bar chart
+album_themes = px.bar(
+    theme_counts2,
+    x="album_name",
+    y="percentage",
+    color="primary_theme",
+    color_discrete_map=custom_colors,
+    title="Change of Primary Themes Across Eras",
+    barmode="relative",  
+    labels={"album_name": "Album Name", "percentage": "Percentage (%)", "primary_theme": "Themes"}
+)
+
+
+# Customize layout
+album_themes.update_layout(
+    xaxis=dict(
+        title="",
+        categoryorder="array",
+        categoryarray=album_order ,
+        tickangle=-45, automargin=True
+    ),
+    yaxis_title="Percentage (%)",
+    title_x=0.1,  
+    showlegend=False,
+    title=dict(font=dict(size=18)),
+    yaxis=dict(automargin=True),
+    autosize=True
+)
+
+
+# Show the chart
+album_themes
+
+```
+
+### Column {width="20%"}
+
+After initial discovery of themes, I categorised Taylor Songs into the following themes: 
+1. Personal Love and Romance: Encompasses both romantic beginnings and enduring connections.
+2. Personal Heartbreak and Vulnerability: Covers themes of loss, healing, and self-reflection post-breakup.
+3. Empowerment and Growth: A focus on resilience, confidence, and rising above adversity.
+4. Social and Cultural Commentary: Reflecting on societal issues, fame, and personal criticism.
+Friendship and Loyalty could be introduced as its own category to emphasize these unique, non-romantic relationships
+
+As most songs had subthemes, I introduced Primary fit and secondary fit. This allowed a more nuanced mapping of the present themes.
+
+# Musical features of albums and popularity
+
+
+## Row  {height="35%"}
+
+### Column {width="40%"}
+
+
+
+Danceability: This measures how suitable a track is for dancing based on a mix of musical elements such as tempo, rhythm stability and overall regularity. Reputation and lover have the highest dancebility scores. 
+
+Energy: Energy represents the intensity and activity of a track, ranging from 0.0 to 1.0. High-energy tracks are typically fast, loud, and dynamic. Reputation has the highest energy of Taylor's albums.
+
+Tempo: Tempo indicates the speed of a track, measured in beats per minute (BPM). Speak now has the highest average tempo of the albums.
+
+Acousticness: Acousticness is a confidence score (0.0 to 1.0) that indicates whether a track is acoustic. A score of 1.0 reflects high confidence that the track is acoustic, while lower scores suggest it is more electronic or produced.
+
+Valence: Valence measures the emotional tone of a track. Tracks with high valence sound cheerful, happy.Besides the holiday collection, red and lover have the highest average valence.
+
+
+
+### Column {width="60%"}
+
+```{python}
+
+taylor_album_features = taylor_s_wlyrics_theme.groupby("album_name").agg(
+    avg_tempo=('tempo', 'mean'),
+    avg_danceability=('danceability', 'mean'),
+    avg_valence=('valence', 'mean'),
+    avg_energy=('energy', 'mean'),
+    avg_acousticness=('acousticness', 'mean'),
+    avg_popularity=('popularity', 'mean')
+).reset_index()
+
+# Round all numerical columns to 2 decimal places
+taylor_album_features = taylor_album_features.round(2)
+
+taylor_album_features = taylor_album_features.merge(
+    pop_release[['album_name', 'release_date']],
+    on='album_name',
+    how='left'
+)
+
+taylor_album_features['release_date'] = pd.to_datetime(taylor_album_features['release_date'])
+
+
+taylor_album_features.sort_values(by="release_date",inplace=True)
+
+taylor_album_features_table=taylor_album_features.rename(columns={
+    'album_name': 'Album',
+    'avg_tempo': 'Tempo (avg)',
+    'avg_danceability': 'Danceability (avg)',
+    'avg_valence': 'Valence (avg)',
+    'avg_energy': 'Energy (avg)',
+    'avg_acousticness': 'Acousticness (avg)'
+})
+
+taylor_album_features_table=taylor_album_features_table.drop(columns=['avg_popularity', 'release_date'])
+
+itables.show(taylor_album_features_table.head(50))
+
+
+
+```
+
+
+## Row 2 {height="5%"}
+
+Correlation between the albums' popoularity and their musical features and thematic categories
+
+## Row 3 {height="60%"}
+
+### Column {width="70%"}
+
+```{python}
+
+import plotly.graph_objects as go
+
+# Select only numerical columns for correlation
+numeric_columns = ['avg_tempo', 'avg_danceability', 'avg_valence', 'avg_energy', 'avg_acousticness', 'avg_popularity']
+correlation_matrix = taylor_album_features[numeric_columns].corr().round(2)
+
+label_dict = {
+    'avg_tempo': 'Tempo',
+    'avg_danceability': 'Danceability',
+    'avg_valence': 'Valence',
+    'avg_energy': 'Energy',
+    'avg_acousticness': 'Acousticness',
+    'avg_popularity': 'Popularity'
+}
+
+renamed_correlation_matrix = correlation_matrix.rename(columns=label_dict, index=label_dict)
+
+
+# Create a heatmap with annotations
+acoustic_corr = go.Figure(data=go.Heatmap(
+    z=renamed_correlation_matrix.values,
+    x=renamed_correlation_matrix.columns,
+    y=renamed_correlation_matrix.columns,
+    colorscale="twilight",
+    zmin=-1,  # Minimum correlation value
+    zmax=1,   # Maximum correlation value
+    colorbar=dict(title="Correlation")
+))
+
+# Add annotations to each cell with correlation values
+for i in range(len(renamed_correlation_matrix)):
+    for j in range(len(renamed_correlation_matrix.columns)):
+        acoustic_corr.add_annotation(
+            x=renamed_correlation_matrix.columns[j],
+            y=renamed_correlation_matrix.columns[i],
+            text=str(renamed_correlation_matrix.values[i, j]),
+            showarrow=False,
+            font=dict(color="black" if abs(renamed_correlation_matrix.values[i, j]) < 0.5 else "white")
+        )
+
+# Customize layout
+acoustic_corr.update_layout(
+    title="Correlation Matrix of Musical Album Features",
+    title_x=0.5,
+    xaxis=dict(title="Features", tickangle=-45,automargin=True),
+    yaxis=dict(title="Features", automargin=True),
+    width=800,
+    height=800,
+    autosize=True
+)
+
+# Show the heatmap
+acoustic_corr
+
+
+
+```
+
+### Column {width="30%"}
+
+Popularity of an album as the strongest (negative) correlation with the acoustic nature of the album, followed by the energy of the album. 
+Based on the correlation, looks like that when we look at the aggregated musical features of the albums the ones that are more energetic and do not have an acoustic nature are preferred amongst Spotify listeners. 
+
+# Correlations
+
+## Row 1 {height="40%"}
+
+### Column {width="60%"}
+```{python}
+
+
+# Drop duplicates if a song appears multiple times for the same POV
+taylor_s_wlyrics_splitted = taylor_s_wlyrics_splitted.drop_duplicates(
+    subset=["track_name", "pov"]
+)
+
+# Group by POV and calculate the average popularity
+pov_popularity = (
+    taylor_s_wlyrics_splitted.groupby("pov")["popularity"].mean().reset_index()
+)
+pov_popularity.columns = ["Point of View", "Average Popularity"]
+
+color_discrete_sequence_twilight = [
+    "#e2d9e2",  # Light Lavender
+    "#cdb7d8",  # Soft Purple
+    "#b192ce",  # Medium Purple
+    "#8c6dc6",  # Dark Purple
+    "#6749b7",  # Deep Blue-Purple
+    "#453097",  # Dark Blue
+    "#2e4570",  # Deep Indigo
+    "#49624a",  # Muted Green
+    "#7e8f5a",  # Olive Green
+    "#a8aa84",  # Pale Greenish-Tan
+    "#d4cbb2",  # Warm Beige
+    "#f4e2c4",  # Soft Cream
+]
+
+# Create a bar chart to visualize popularity by POV
+popularity_fig = px.bar(
+    pov_popularity,
+    x="Point of View",
+    y="Average Popularity",
+    title="Average Popularity by Point of View",
+    labels={
+        "Point of View": "Point of View",
+        "Average Popularity": "Average Popularity",
+    },
+    color="Point of View",
+    text="Average Popularity",
+    height=500,
+    color_discrete_sequence=color_discrete_sequence_twilight,
+)
+
+# Customize chart layout
+popularity_fig.update_traces(texttemplate="%{text:.1f}", textposition="outside")
+popularity_fig.update_layout(
+    xaxis_title="",
+    yaxis_title="Popularity",
+    template="plotly_white",
+    showlegend=False,
+    title=dict(font=dict(size=18)),
+    xaxis=dict(tickangle=-45, automargin=True),
+    yaxis=dict(automargin=True),
+    autosize=True,
+)
+
+# Show the chart
+popularity_fig
+
+
+```
+
+### Column {width="40%"}
+
+As we can see, the different point of views of the songs all have very similar popularity. We can assume that the point of view from which a Taylow Swift song is written does not have a major effect on the tracks popularity.
+
+## Row 2 {height="40%"}
+
+
+```{python}
+# Count occurrences of themes in each album
+theme_presence_by_album = (
+    taylor_s_wlyrics_theme.groupby(["album_name", "primary_theme"])
+    .size()
+    .reset_index(name="theme_count")
+)
+
+# Calculate total songs per album to normalize theme presence
+album_song_counts = (
+    taylor_s_wlyrics_theme.groupby("album_name").size().reset_index(name="total_songs")
+)
+
+# Merge to normalize theme presence
+theme_presence_by_album = theme_presence_by_album.merge(
+    album_song_counts, on="album_name"
+)
+theme_presence_by_album["theme_percentage"] = (
+    theme_presence_by_album["theme_count"] / theme_presence_by_album["total_songs"]
+) * 100
+
+# Calculate average popularity for each album
+album_popularity = (
+    taylor_s_wlyrics_theme.groupby("album_name")["popularity"].mean().reset_index()
+)
+album_popularity.columns = ["album_name", "average_popularity"]
+
+# Merge theme presence with album popularity
+theme_album_correlation = theme_presence_by_album.merge(
+    album_popularity, on="album_name"
+)
+
+
+```
+
+
+```{python}
+
+# Filter the data for "Personal Love and Romance"
+personal_love_romance_data = theme_album_correlation[
+    theme_album_correlation["primary_theme"] == "Personal Love and Romance"
+]
+
+# Filter out rows with NaN values in 'average_popularity'
+personal_love_romance_data = personal_love_romance_data.dropna(
+    subset=["average_popularity"]
+)
+
+# Compute the correlation coefficient
+correlation = personal_love_romance_data["theme_percentage"].corr(
+    personal_love_romance_data["average_popularity"]
+)
+
+
+# Visualize the relationship
+personal_love_fig = px.scatter(
+    personal_love_romance_data,
+    x="theme_percentage",
+    y="average_popularity",
+    text="album_name",
+    title=f"Relationship between the presence of positive romantic stories<br> and the popularity of an album <br>(Correlation: {correlation:.2f})",
+    labels={
+        "theme_percentage": "Theme Percentage (%)",
+        "average_popularity": "Average Popularity",
+    },
+    hover_data={
+        "album_name": True,
+        "theme_percentage": ":.1f",
+        "average_popularity": ":.1f",
+    },  # Add album names for more context,
+    color="album_name",
+    size="theme_percentage",  # Size points based on theme percentage,
+    color_continuous_scale="Spectral",
+    template="plotly_white",
+    size_max=50,
+    height=600,
+)
+
+
+personal_love_fig.update_traces(
+    textposition="middle center",
+    textfont=dict(size=10),  # Set smaller font size for better readability
+)
+
+# Customize layout for better readability
+personal_love_fig.update_layout(
+    xaxis_title="Theme Percentage (%)",
+    yaxis_title="Popularity of album",
+    yaxis=dict(
+        showticklabels=False, title_standoff=10, automargin=True
+    ),  # Hide y-axis tick labels
+    font=dict(family="Arial, sans-serif", size=12),  # Use a clean font
+    title_font=dict(size=16, family="Arial, sans-serif", color="black"),
+    xaxis=dict(title_standoff=10, automargin=True),
+    template="plotly_white",
+    showlegend=False,
+    autosize=True,
+)
+
+
+personal_love_fig
+
+```
+
+
+## Row 4 {height="20%"}
+
+
+I selected for the subject of visualisation the "personal romantic stories" theme category as it is present in all observed albums. We can see here that although there is an outlier in the presence of "the tortured poets department", we can observe a strong correlation between the popularity of an album and how much of it is focusing on the beauties of the singer's romantic entanglments. 
